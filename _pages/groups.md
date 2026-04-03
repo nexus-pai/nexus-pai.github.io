@@ -1,6 +1,6 @@
 ---
 date: Tue Nov  4 14:28:34 PST 2025
-last_modified_at: Sat Apr  4 01:33:24 KST 2026
+last_modified_at: Sat Apr  4 02:58:01 KST 2026
 layout: single
 title: N-PAI Groups
 permalink: /groups/
@@ -40,7 +40,7 @@ our Community Engagement Chair and Open Table Group organizer, shared:
 > &ndash; [MiSook Chung](https://www.linkedin.com/in/misook-chung/){:target="_blank"}
 
 <div class="img-container">
-<img style="max-width: 100%;" src="https://sungheeyun-photos-02.github.io/resource/2026/03/13 PDT - N-PAI 1st Open Table Group Meeting/KakaoTalk_Photo_2026-03-30-13-12-26-25-reduced.jpeg">
+<img style="max-width: 100%;" src="https://sungheeyun-photos-02.github.io/resource/2026/03/13 PDT - K-PAI 1st Open Table Group Meeting/KakaoTalk_Photo_2026-03-30-13-12-26-25-reduced.jpeg">
 </div>
 
 ## Feb-2026
@@ -81,17 +81,17 @@ and
 [Jaewon](https://www.linkedin.com/in/jaewon-hwang/?originalSubdomain=kr){:target="_blank"}!
 
 <div class="img-container-justified">
-	<img style="max-width: 49%;" src="https://sungheeyun-photos-02.github.io/resource/2026/02/21 PST - Special AI Lecture for N-PAI Legal Professionals Group/KakaoTalk_Photo_2026-02-21-21-34-01 001-50-reduced.jpeg">
-	<img style="max-width: 49%;" src="https://sungheeyun-photos-02.github.io/resource/2026/02/21 PST - Special AI Lecture for N-PAI Legal Professionals Group/KakaoTalk_Photo_2026-02-21-21-36-31 016-50-reduced.jpeg">
+	<img style="max-width: 49%;" src="https://sungheeyun-photos-02.github.io/resource/2026/02/21 PST - Special AI Lecture for K-PAI Legal Professionals Group/KakaoTalk_Photo_2026-02-21-21-34-01 001-50-reduced.jpeg">
+	<img style="max-width: 49%;" src="https://sungheeyun-photos-02.github.io/resource/2026/02/21 PST - Special AI Lecture for K-PAI Legal Professionals Group/KakaoTalk_Photo_2026-02-21-21-36-31 016-50-reduced.jpeg">
 </div>
 
 <div class="img-container">
-	<img style="max-width: 100%;" src="https://sungheeyun-photos-02.github.io/resource/2026/02/21 PST - Special AI Lecture for N-PAI Legal Professionals Group/KakaoTalk_Photo_2026-02-21-21-39-58 003-50-reduced.jpeg">
+	<img style="max-width: 100%;" src="https://sungheeyun-photos-02.github.io/resource/2026/02/21 PST - Special AI Lecture for K-PAI Legal Professionals Group/KakaoTalk_Photo_2026-02-21-21-39-58 003-50-reduced.jpeg">
 </div>
 
 <div class="img-container-justified">
-	<img style="max-width: 49%;" src="https://sungheeyun-photos-02.github.io/resource/2026/02/21 PST - Special AI Lecture for N-PAI Legal Professionals Group/KakaoTalk_Photo_2026-02-21-21-35-26 007-50-reduced.jpeg">
-	<img style="max-width: 49%;" src="https://sungheeyun-photos-02.github.io/resource/2026/02/21 PST - Special AI Lecture for N-PAI Legal Professionals Group/KakaoTalk_Photo_2026-02-21-21-36-03 011-50-reduced.jpeg">
+	<img style="max-width: 49%;" src="https://sungheeyun-photos-02.github.io/resource/2026/02/21 PST - Special AI Lecture for K-PAI Legal Professionals Group/KakaoTalk_Photo_2026-02-21-21-35-26 007-50-reduced.jpeg">
+	<img style="max-width: 49%;" src="https://sungheeyun-photos-02.github.io/resource/2026/02/21 PST - Special AI Lecture for K-PAI Legal Professionals Group/KakaoTalk_Photo_2026-02-21-21-36-03 011-50-reduced.jpeg">
 </div>
 
 <span id="hayden-jeff-comments"></span>
@@ -143,30 +143,30 @@ Having observed the exchange between [Hayden](https://www.linkedin.com/in/youngw
 ### 23-Jan-2026 - N-PAI meets KAIST @ Lunch!
 
 <div class="img-container-justified">
-<img width="56%" style="max-width: none;" src="https://sungheeyun-photos-02.github.io/resource/2026/01/23 - N-PAI meets KAIST for Lunch/KakaoTalk_Photo_2026-01-23-14-58-47 027-25-reduced.jpeg">
-<img width="42%" src="https://sungheeyun-photos-02.github.io/resource/2026/01/23 - N-PAI meets KAIST for Lunch/KakaoTalk_Photo_2026-01-23-14-56-35 014-25-reduced.jpeg">
+<img width="56%" style="max-width: none;" src="https://sungheeyun-photos-02.github.io/resource/2026/01/23 - K-PAI meets KAIST for Lunch/KakaoTalk_Photo_2026-01-23-14-58-47 027-25-reduced.jpeg">
+<img width="42%" src="https://sungheeyun-photos-02.github.io/resource/2026/01/23 - K-PAI meets KAIST for Lunch/KakaoTalk_Photo_2026-01-23-14-56-35 014-25-reduced.jpeg">
 </div>
 
 ### 22-Jan-2026 - N-PAI meets KAIST @ Dinner!
 
 <div class="img-container">
-<img style="max-width: 100%; max-height: none;" src="https://sungheeyun-photos-02.github.io/resource/2026/01/22 - N-PAI meets KAIST/KakaoTalk_Photo_2026-01-23-00-14-29 002-25-reduced.jpeg">
+<img style="max-width: 100%; max-height: none;" src="https://sungheeyun-photos-02.github.io/resource/2026/01/22 - K-PAI meets KAIST/KakaoTalk_Photo_2026-01-23-00-14-29 002-25-reduced.jpeg">
 </div>
 
 ### 17-Jan-2026 - N-PAI 2026 New Year Party Retro &amp; Planning 2026!
 
 <div class="img-container">
-<img style="max-width: 100%; max-height: none;" src="https://sungheeyun-photos-02.github.io/resource/2026/01/17 - N-PAI Committee Dinner/KakaoTalk_Photo_2026-01-18-21-41-20-50-reduced.jpeg">
+<img style="max-width: 100%; max-height: none;" src="https://sungheeyun-photos-02.github.io/resource/2026/01/17 - K-PAI Committee Dinner/KakaoTalk_Photo_2026-01-18-21-41-20-50-reduced.jpeg">
 </div>
 
 <div class="img-container">
-<img style="max-width: 100%; max-height: none;" src="https://sungheeyun-photos-02.github.io/resource/2026/01/17 - N-PAI Committee Dinner/KakaoTalk_Photo_2026-01-18-01-47-24 001-25-reduced.jpeg">
+<img style="max-width: 100%; max-height: none;" src="https://sungheeyun-photos-02.github.io/resource/2026/01/17 - K-PAI Committee Dinner/KakaoTalk_Photo_2026-01-18-01-47-24 001-25-reduced.jpeg">
 </div>
 
 ### 12-Jan-2026 - Incredible N-PAI Stands Strong again at UKF 82 Summit!!!
 
 <div class="img-container">
-<img style="max-width: 100%; max-height: none;" src="https://sungheeyun-photos-02.github.io/resource/k-privateai.github.io/groups/2026-01/2026 0102 UKF-25-reduced.jpeg">
+<img style="max-width: 100%; max-height: none;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/groups/2026-01/2026 0102 UKF-25-reduced.jpeg">
 </div>
 
 ### 11-Jan-2026 - Incredible N-PAI Stands Strong at K-BioX ABDD Summit 2026 @ Stanford!!
@@ -262,18 +262,6 @@ and
 </div>
 
 ## Nov-2025
-
-### 27-Nov-2025 KST @ Sadang
-
-Early morning breakfast in Seoul;
-[June Hee](https://www.linkedin.com/in/jungheecheon/){:target="_blank"},
-[Chanik](https://www.linkedin.com/in/chanik-park-14878b32/){:target="_blank"},
-and
-[Sunghee](https://sungheeyun.github.io).
-
-<div class="img-container">
-<img src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/groups/2025-11/2025-11-27 0824 KST - June Hee, CI, and Sunghee.JPG">
-</div>
 
 ### 15-Nov-2025 @ Morgan Hill
 

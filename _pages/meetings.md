@@ -134,7 +134,6 @@ Daejun,
 Daniel,
 Hagoon,
 Jun Yeong,
-Jung Hee,
 and
 Sunghee
 
@@ -373,13 +372,7 @@ and
 	location: <a target="_blank" href="https://maps.app.goo.gl/85zkWq3idpd2E2bi7">Starbucks, River Oaks, San Jose</a>
 </li>
 <li>
-	attendees: Jung Hee, CI, SVP &amp; Sunghee
-	<div class="img-container">
-		<img src="https://sungheeyun-photos-01.github.io/resource/2025/01/12/Screenshot 2025-01-14 at 1.37.16 AM.png">
-	</div>
-	<figcaption style="width: 80%">
-		The organizing committee @ Starbucks
-	</figcaption>
+	attendees: CI, SVP &amp; Sunghee
 </li>
 <li>
 	agenda
@@ -452,7 +445,7 @@ and
 	location: <a target="_blank" href="https://maps.app.goo.gl/wB46vzt62DQpK91Z8">Fox Theater, Redwood City</a>
 </li>
 <li>
-	attendees: Jung Hee, Daejun (dubbed SVP - Security Verification Park) &amp; Sunghee
+	attendees: Daejun (dubbed SVP - Security Verification Park) &amp; Sunghee
 </li>
 <li>
 	agenda: organization structure, panel discussion, future events
@@ -461,7 +454,7 @@ and
 	decisions made
 	<ul>
 	<li>
-		organizing committee: Jung Hee, CI, Sunghee, SVP
+		organizing committee: CI, Sunghee, SVP
 		/
 		hosting org: IRC
 		/
@@ -533,23 +526,6 @@ and
 	</ul>
 </li>
 <li>
-	catering reservation
-	<ul>
-	<li>
-		priority: H
-	</li>
-	<li>
-		owned by Jung Hee
-	</li>
-	<li>
-		due: 17-Jan-2025
-	</li>
-	<li>
-		COMPLETED on 20-Jan-2025
-	</li>
-	</ul>
-</li>
-<li>
 	QR code, code reader, database, etc.
 	<ul>
 	<li>
@@ -576,7 +552,7 @@ and
 		priority: H
 	</li>
 	<li>
-		owned by Sunghee (and Jung Hee, CI, SVP)
+		owned by Sunghee (and CI, SVP)
 	</li>
 	<li>
 		<!--font color="red"-->
@@ -598,11 +574,6 @@ and
 			<a href="https://www.linkedin.com/in/y-park/">Youngsuk Park</a>,
 			who is a Senior Applied Scientist &amp; Manager @ Amazon,
 			has accepted the ask to be a panelist
-			on 13-Jan-2025
-		</li>
-		<li>
-			Jung Hee kindly offered help and sent an email to professor-to-be <a href="https://www.sewonmin.com/">Sewon Min</a>,
-			who will join EECS @ UC Berkeley soon
 			on 13-Jan-2025
 		</li>
 		<li>
