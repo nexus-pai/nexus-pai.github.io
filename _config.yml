@@ -75,7 +75,7 @@ author:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/k-privateai/k-privateai.github.io"
+      url: "https://github.com/nexus-pai/nexus-pai.github.io"
 #    - label: "Instagram"
 #      icon: "fa-brands fa-instagram"
 #      url: "https://www.instagram.com/kpai_forum/"
@@ -98,7 +98,7 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/k-privateai/k-privateai.github.io"
+      url: "https://github.com/nexus-pai/nexus-pai.github.io"
 #    - label: "Instagram"
 #      icon: "fa-brands fa-instagram"
 #      url: "https://www.instagram.com/kpai_forum/"
