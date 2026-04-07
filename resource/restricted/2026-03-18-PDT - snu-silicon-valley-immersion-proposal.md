@@ -1,6 +1,6 @@
 ---
 date: Wed Mar 18 03:12:09 PDT 2026
-last_modified_at: Wed Mar 18 03:30:15 PDT 2026
+last_modified_at: Tue Apr  7 01:14:17 PDT 2026
 layout: single
 title: SVAIN × SNU College of Engineering Silicon Valley Immersion Program Proposal
 permalink: /proposals/snu-silicon-valley-immersion/
@@ -27,13 +27,13 @@ toc_sticky: true
 
 ## EXECUTIVE SUMMARY
 
-SVAIN proposes a transformative **two-week Silicon Valley Immersion Program** for 40 SNU College of Engineering students participating in the university's startup program. This initiative represents the next phase of the strategic partnership formalized through the SVAIN × SNU MOU signed on February 2, 2026.
+SVAIN proposes a transformative **two-week Silicon Valley Immersion Program** for 23 SNU College of Engineering students participating in the university's startup program. This initiative represents the next phase of the strategic partnership formalized through the SVAIN × SNU MOU signed on February 2, 2026.
 
 Rather than traditional internship placements—which we concluded are not feasible given timing, logistics, and visa complexities—this program offers something far more valuable: **an intensive, curated Silicon Valley experience** that combines world-class mentoring, differentiated AI education, and unprecedented access to the innovation ecosystem that has produced the world's most successful technology companies and startups.
 
 **Program Highlights:**
 - **Duration:** Two weeks in Silicon Valley
-- **Participants:** 40 SNU startup program students
+- **Participants:** 23 SNU startup program students
 - **Core Components:** Mentoring sessions, differentiated AI lectures, company tours (big tech + startups)
 - **Unique Value:** Access to SVAIN's extensive Silicon Valley network and expertise unavailable elsewhere
 - **Expected Outcome:** Accelerated startup capabilities, global perspective, and lasting connections to Silicon Valley ecosystem
@@ -93,7 +93,7 @@ The Silicon Valley Immersion Program is designed to achieve four core objectives
 ### Program Duration & Participants
 
 - **Duration:** Two weeks (14 days)
-- **Participants:** 40 students from SNU College of Engineering's startup program
+- **Participants:** 23 students from SNU College of Engineering's startup program
 - **Target Period:** Summer 2026 or mutually agreed upon timeframe
 - **Location:** Silicon Valley (San Jose, Palo Alto, Mountain View, San Francisco)
 
@@ -396,8 +396,8 @@ For students in SNU's startup program, this immersion provides:
 
 | Item | Estimated Cost | Notes |
 |------|---------------|-------|
-| Student Travel (40 students) | $60,000-80,000 | Round-trip airfare Seoul-SFO |
-| Accommodations (14 nights) | $80,000-100,000 | Hotels or Airbnb for 40 students |
+| Student Travel (23 students) | $60,000-80,000 | Round-trip airfare Seoul-SFO |
+| Accommodations (14 nights) | $80,000-100,000 | Hotels or Airbnb for 23 students |
 | Local Transportation | $10,000-15,000 | Buses, shuttles for tours |
 | Meals & Per Diem | $30,000-40,000 | Breakfast, lunch, some dinners |
 | Insurance & Liability | $5,000-8,000 | Travel and program insurance |
@@ -440,7 +440,7 @@ For students in SNU's startup program, this immersion provides:
 ### Planning Phase (May-June 2026)
 
 4. **Student Selection** 📋  
-   - SNU defines selection criteria for 40 participants
+   - SNU defines selection criteria for 23 participants
    - Application and interview process
    - Pre-program orientation materials distributed
 
