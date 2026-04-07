@@ -35,14 +35,14 @@ to share this event!
 
 Innovators, Technologists, and AI Enthusiasts!
 
-We are excited to invite you to the ninth edition of the [N-PAI Forum](/),
+We are excited to invite you to the ninth edition of the [SVAIN Forum](/),
 a premier gathering for researchers, industry leaders,
 and innovators exploring the frontier of privacy-first AI technologies.
 Following the remarkable success of our ["Silicon Companions - Robots and Smart Devices in Daily Life"](/event-announcements/08) forum,
 this event will explore the critical intersection of AI and cybersecurity&mdash;examining how artificial intelligence is reshaping the security landscape while introducing new vulnerabilities that require innovative protection strategies.
 
 - **Date**: July 16, 2025 (Wednesday)
-- **Time**: 5pm - 8pm PDT (9:30pm for N-PAI members)
+- **Time**: 5pm - 8pm PDT (9:30pm for SVAIN members)
 - **Venue**: Alaska @ [KIC Silicon Valley](https://maps.app.goo.gl/LCBixf78LLCdx2Aa6)
 
 {% assign post = site.posts | where: "permalink", "/event-announcements/08" | first %}
@@ -52,7 +52,7 @@ Join us for an evening of insightful discussions, networking, and cutting-edge r
 Check out [{{ post.title }}]({{ post.url }}) to see how our previous Silicon Companions event brought together industry leaders from Altos Ventures, Mars Auto, and Emovid!
 
 - <font color="red"><strong>Please RSVP via <a href="https://lu.ma/qkaxt600">this link</a>!</strong></font>
-- Please visit [N-PAI Membership](/membership) to learn about our N-PAI membership for the qualification and all exclusive perks you can enjoy!
+- Please visit [SVAIN Membership](/membership) to learn about our SVAIN membership for the qualification and all exclusive perks you can enjoy!
 
 ## Special Thanks to Our Sponsors
 
@@ -86,7 +86,7 @@ graciously provided by our sponsors! This welcoming atmosphere provides the perf
 - **Speaker**: [Peter Bae](https://www.linkedin.com/in/peter-bae-551b1b1/) - Head @ [KIC Silicon Valley](https://www.kicsv.org/)
 - **Time**: 6pm ~ 6:10pm
 
-Join us as Peter Bae, Head of KIC Silicon Valley, delivers the opening welcome address to kick off our ninth N-PAI Forum. As our venue partner and a key pillar of Silicon Valley's innovation ecosystem, KIC Silicon Valley has been instrumental in fostering entrepreneurship and technological advancement in the region. Peter will share insights about the importance of AI security in today's rapidly evolving technological landscape and set the stage for an evening of meaningful discussions and networking.
+Join us as Peter Bae, Head of KIC Silicon Valley, delivers the opening welcome address to kick off our ninth SVAIN Forum. As our venue partner and a key pillar of Silicon Valley's innovation ecosystem, KIC Silicon Valley has been instrumental in fostering entrepreneurship and technological advancement in the region. Peter will share insights about the importance of AI security in today's rapidly evolving technological landscape and set the stage for an evening of meaningful discussions and networking.
 
 ## Featured Presentations (6:10pm ~ 7:20pm)
 
@@ -124,7 +124,7 @@ generating vast amounts of bio &amp; medical data, Erudio is at the forefront of
 
 ## Further Networking (7:30pm ~ 8pm)
 
-This interactive session provides a unique opportunity to engage directly with our expert speakers, addressing your specific questions about AI security, cybersecurity trends, and their privacy implications. **Connect with cybersecurity professionals** from GENIANS and **gain academic insights** from Arizona State University's research perspectives on emerging security challenges, threat intelligence, and what makes AI systems resilient against evolving attack vectors. **N-PAI members are encouraged to introduce themselves and their companies**, creating opportunities for meaningful business connections and potential collaborations. Bring your most challenging questions about securing AI systems, implementing privacy-preserving security measures, and navigating the complex regulatory landscape. Share your insights and participate in the vibrant exchange of ideas that has become a hallmark of N-PAI events. Previous forums have seen some of the most valuable connections and collaborations emerge during these dynamic discussions, where industry leaders, researchers, practitioners, and security professionals bridge theory and application in real-time conversations.
+This interactive session provides a unique opportunity to engage directly with our expert speakers, addressing your specific questions about AI security, cybersecurity trends, and their privacy implications. **Connect with cybersecurity professionals** from GENIANS and **gain academic insights** from Arizona State University's research perspectives on emerging security challenges, threat intelligence, and what makes AI systems resilient against evolving attack vectors. **SVAIN members are encouraged to introduce themselves and their companies**, creating opportunities for meaningful business connections and potential collaborations. Bring your most challenging questions about securing AI systems, implementing privacy-preserving security measures, and navigating the complex regulatory landscape. Share your insights and participate in the vibrant exchange of ideas that has become a hallmark of SVAIN events. Previous forums have seen some of the most valuable connections and collaborations emerge during these dynamic discussions, where industry leaders, researchers, practitioners, and security professionals bridge theory and application in real-time conversations.
 
 # Why Attend?
 
@@ -152,4 +152,4 @@ We look forward to your participation in this exciting forum! If you have any qu
 
 Best regards,
 
-[N-PAI Committee](/committee)
+[SVAIN Committee](/committee)

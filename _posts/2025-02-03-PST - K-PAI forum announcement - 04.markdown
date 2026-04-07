@@ -29,7 +29,7 @@ to share this event!
 ---
 Greetings, Silicon Valley Innovators, Visionaries & Tech Enthusiasts!
 
-We're thrilled to announce the continuation of our successful Silicon Valley Private AI Forum (N-PAI) series! Building on the momentum of our previous events, we're excited to invite you to our 4th forum, which will explore the fascinating intersection of software and silicon, featuring distinguished speakers and experts from various domains.
+We're thrilled to announce the continuation of our successful Silicon Valley Private AI Forum (SVAIN) series! Building on the momentum of our previous events, we're excited to invite you to our 4th forum, which will explore the fascinating intersection of software and silicon, featuring distinguished speakers and experts from various domains.
 
 - Date: February 12, 2025 (Wed)
 - Time: 5:00 PM - 8:00 PM
@@ -59,8 +59,8 @@ Her participation adds a crucial policy perspective to our discussion, bridging 
 
 - <font color="red"><strong>Please RSVP via <a href="https://lu.ma/fgzqg9ou">this link</a>!</strong></font>
 > Great news! We've streamlined the check-in process using [Luma](https://lu.ma)! After registration, you'll receive a QR code — just show it at the entrance for quick and easy access to the event.
-- Please visit [N-PAI Membership](/membership)
-to learn about our N-PAI membership
+- Please visit [SVAIN Membership](/membership)
+to learn about our SVAIN membership
 for the qualification and all exclusive perks you can enjoy!
 
 # Schedule Overview
@@ -119,7 +119,7 @@ Get a sneak peek at what's coming in our 5th forum!
 
 # Hosting Organization
 
-The hosting organization of N-PAI is <a href="https://imdarc.snu.ac.kr/?page_id=2129&lang=en">SNU Private AI Initiative / Homomorphic Encryption Research Center (HERC)</a>!
+The hosting organization of SVAIN is <a href="https://imdarc.snu.ac.kr/?page_id=2129&lang=en">SNU Private AI Initiative / Homomorphic Encryption Research Center (HERC)</a>!
 
 <div class="img-container-justified">
 &nbsp;
@@ -133,6 +133,6 @@ We look forward to your participation in this exciting forum! If you have any qu
 
 Best regards,
 
-[N-PAI](/) Organizing Committee
+[SVAIN](/) Organizing Committee
 <br>
 email: <a href="mailto:k.private.ai@gmail.com">k.private.ai@gmail.com</a>

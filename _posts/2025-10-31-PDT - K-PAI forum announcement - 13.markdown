@@ -1,5 +1,5 @@
 ---
-title: "N-PAI's 13th Chapter: The AI Silicon Race - Korea-US Innovation Leadership"
+title: "SVAIN's 13th Chapter: The AI Silicon Race - Korea-US Innovation Leadership"
 date: Fri Oct 31 06:30:18 PDT 2025
 last_modified_at: Wed Nov 12 12:42:59 PST 2025
 permalink: /event-announcements/13
@@ -39,9 +39,9 @@ to share this event!
 Semiconductor Innovators, AI Architects, and Technology Leaders (and EVERYONE ELSE Inhabiting or Visiting Silicon Valley ★^^★)!
 
 <!--Main Program Link (to be added)-->
-<!--[Main Program](/resource/seminars/13 - 12-Nov-2025/N-PAI - AI Silicon Race - Nov-2025.pdf)-->
+<!--[Main Program](/resource/seminars/13 - 12-Nov-2025/K-PAI - AI Silicon Race - Nov-2025.pdf)-->
 
-We are thrilled to invite you to the Thirteenth Edition of the [N-PAI Forum](/),
+We are thrilled to invite you to the Thirteenth Edition of the [SVAIN Forum](/),
 a premier gathering for researchers, industry leaders,
 and innovators exploring the frontier of privacy-first AI technologies.
 Following the tremendous success of our [{{ prev_announcement.title }}]({{ prev_announcement.url }}) forum,
@@ -53,26 +53,26 @@ this groundbreaking event explores the cutting edge of AI semiconductor innovati
 
 Join us for an evening of transformative discussions, networking,
 and visionary insights at the intersection of AI innovation and semiconductor technology!
-This special **N-PAI x K•ASIC Joint Seminar** represents a historic collaboration between two pioneering organizations dedicated to advancing AI hardware innovation. Our forums have become a cornerstone for meaningful dialogue
+This special **SVAIN x K•ASIC Joint Seminar** represents a historic collaboration between two pioneering organizations dedicated to advancing AI hardware innovation. Our forums have become a cornerstone for meaningful dialogue
 in Silicon Valley's tech community, bringing together semiconductor engineers, AI architects, chip designers, hardware entrepreneurs,
 and thought leaders who are shaping the future of intelligent computing at the silicon level.
 
 - <font color="red"><strong>Please RSVP via <a href="https://luma.com/1uwqnzua" target="_blank">this link</a>!</strong></font>
-- Please visit [N-PAI Membership](/membership) to learn about our N-PAI membership for the qualification and all exclusive perks you can enjoy!
-	and join us at N-PAI Members Kakaotalk Chatroom using [this info](/#join-us-at-kakaotalk) (if you're qualified)!
+- Please visit [SVAIN Membership](/membership) to learn about our SVAIN membership for the qualification and all exclusive perks you can enjoy!
+	and join us at SVAIN Members Kakaotalk Chatroom using [this info](/#join-us-at-kakaotalk) (if you're qualified)!
 
-## N-PAI Leader's Perspectives
+## SVAIN Leader's Perspectives
 
 
 Contemporary discourse on AI ecosystems tends to focus heavily on visible layers—software services, algorithms, and applications—while overlooking the foundational infrastructure. Even within technical domains, **semiconductor and hardware infrastructure constitute the essential pillars of the AI ecosystem**: GPUs (Nvidia's dominance), HBM (SK hynix's breakthroughs), specialized AI semiconductors (NPUs, DPUs), and custom accelerators from tech giants. This landscape is increasingly shaped by geopolitical dynamics including the US-China technology competition, CHIPS Act, export controls, and supply chain restructuring. To understand and lead sustainable AI development, deep knowledge of the AI semiconductor ecosystem is absolutely essential.
 
-The strategic partnership between K•ASIC and N-PAI transcends simple technical exchange—it illuminates the most foundational layer of the AI ecosystem while connecting Korea's and America's semiconductor innovation leadership. This is why we titled this forum **"The AI Silicon Race: Korea-US Innovation Leadership."** This event shares the core insight that AI's future is built not only on algorithms but on silicon, serving as a venue to explore sustainable development of the global AI ecosystem by consolidating the semiconductor capabilities of both nations.
+The strategic partnership between K•ASIC and SVAIN transcends simple technical exchange—it illuminates the most foundational layer of the AI ecosystem while connecting Korea's and America's semiconductor innovation leadership. This is why we titled this forum **"The AI Silicon Race: Korea-US Innovation Leadership."** This event shares the core insight that AI's future is built not only on algorithms but on silicon, serving as a venue to explore sustainable development of the global AI ecosystem by consolidating the semiconductor capabilities of both nations.
 
 ## Historic Partnership with K•ASIC
 
-**🎉 N-PAI x K•ASIC JOINT SEMINAR! 🎉**
+**🎉 SVAIN x K•ASIC JOINT SEMINAR! 🎉**
 
-We are delighted to announce this special **<font color="#ee0000">Joint Seminar</font>** between [N-PAI](/) and [K•ASIC](https://www.kasicusa.com/), representing a powerful alliance in advancing AI semiconductor innovation! This strategic collaboration bridges Korea's world-leading semiconductor expertise with Silicon Valley's cutting-edge AI ecosystem.
+We are delighted to announce this special **<font color="#ee0000">Joint Seminar</font>** between [SVAIN](/) and [K•ASIC](https://www.kasicusa.com/), representing a powerful alliance in advancing AI semiconductor innovation! This strategic collaboration bridges Korea's world-leading semiconductor expertise with Silicon Valley's cutting-edge AI ecosystem.
 
 **Partnership Highlights:**
 - **Co-hosted Event**: First joint seminar showcasing Korea-US AI silicon innovation
@@ -99,11 +99,11 @@ Experience our signature networking reception in K•ASIC's state-of-the-art fac
 
 ### Welcome Address
 
-- **Speakers**: N-PAI Leadership &amp; K•ASIC Leadership
+- **Speakers**: SVAIN Leadership &amp; K•ASIC Leadership
 - **Time**: 5:30pm ~ 5:40pm
-- [slides](/resource/seminars/13 - 12-Nov-2025/N-PAI - The AI Silicon Race - Nov-2025.pdf){:target="_blank"}
+- [slides](/resource/seminars/13 - 12-Nov-2025/K-PAI - The AI Silicon Race - Nov-2025.pdf){:target="_blank"}
 
-Join us as we officially open this historic N-PAI x K•ASIC Joint Seminar, celebrating the collaboration between two leading organizations in AI semiconductor innovation. This opening address will set the stage for an evening of cutting-edge insights into AI chip design, NPU architecture evolution, and the future of on-device AI.
+Join us as we officially open this historic SVAIN x K•ASIC Joint Seminar, celebrating the collaboration between two leading organizations in AI semiconductor innovation. This opening address will set the stage for an evening of cutting-edge insights into AI chip design, NPU architecture evolution, and the future of on-device AI.
 
 ## Presentations (5:40pm ~ 7pm)
 
@@ -136,13 +136,13 @@ This presentation will explore innovative approaches to optimizing AI chip archi
 
 ## Networking Dinner &amp; Q&amp;A (7pm ~ 8pm)
 
-N-PAI Members' favorite time! The very moment everyone awaits!
+SVAIN Members' favorite time! The very moment everyone awaits!
 —
-This extended networking and dinner session provides a unique opportunity to engage directly with our expert speakers and fellow attendees while enjoying a catered meal. **Connect with semiconductor engineers** from leading chip companies, **engage with AI architects** designing next-generation NPUs, and **collaborate with hardware entrepreneurs** building innovative AI silicon solutions. **N-PAI members are encouraged to introduce themselves and their companies**, creating opportunities for meaningful business connections and potential collaborations in the rapidly evolving AI hardware space. Previous forums have seen transformative partnerships emerge during these dynamic discussions, where hardware engineers, AI researchers, chip designers, and entrepreneurs bridge technical challenges with innovative solutions in real-time conversations.
+This extended networking and dinner session provides a unique opportunity to engage directly with our expert speakers and fellow attendees while enjoying a catered meal. **Connect with semiconductor engineers** from leading chip companies, **engage with AI architects** designing next-generation NPUs, and **collaborate with hardware entrepreneurs** building innovative AI silicon solutions. **SVAIN members are encouraged to introduce themselves and their companies**, creating opportunities for meaningful business connections and potential collaborations in the rapidly evolving AI hardware space. Previous forums have seen transformative partnerships emerge during these dynamic discussions, where hardware engineers, AI researchers, chip designers, and entrepreneurs bridge technical challenges with innovative solutions in real-time conversations.
 
 # Why Attend?
 
-Attending this landmark N-PAI x K•ASIC Joint Seminar offers a rare opportunity to explore the cutting edge of AI semiconductor innovation from world-class researchers and industry practitioners. You'll gain essential insights into AI-driven semiconductor library optimization from leading experts in design automation, discover how NPU architectures are evolving to enable efficient on-device AI, and understand the technical challenges and solutions shaping the future of AI chip design. This forum bridges academic research with practical industry implementation, providing actionable frameworks for building next-generation AI hardware. Engage with thought leaders from both Korea and the US who are pioneering new approaches to AI silicon design that will power the intelligent devices of tomorrow.
+Attending this landmark SVAIN x K•ASIC Joint Seminar offers a rare opportunity to explore the cutting edge of AI semiconductor innovation from world-class researchers and industry practitioners. You'll gain essential insights into AI-driven semiconductor library optimization from leading experts in design automation, discover how NPU architectures are evolving to enable efficient on-device AI, and understand the technical challenges and solutions shaping the future of AI chip design. This forum bridges academic research with practical industry implementation, providing actionable frameworks for building next-generation AI hardware. Engage with thought leaders from both Korea and the US who are pioneering new approaches to AI silicon design that will power the intelligent devices of tomorrow.
 
 # Target Audience
 
@@ -167,8 +167,8 @@ The event is tailored to a diverse yet focused audience. It caters to:
 
 **Note**: This announcement page will be updated as additional speakers are confirmed. Please check back regularly for the latest information, or follow our updates on the Luma registration page.
 
-We look forward to your participation in this transformative N-PAI x K•ASIC Joint Seminar! If you have any questions or topics you'd like to discuss, please don't hesitate to reach out at [sunghee.yun@gmail.com](mailto:sunghee.yun@gmail.com).
+We look forward to your participation in this transformative SVAIN x K•ASIC Joint Seminar! If you have any questions or topics you'd like to discuss, please don't hesitate to reach out at [sunghee.yun@gmail.com](mailto:sunghee.yun@gmail.com).
 
 Best regards,
 
-[N-PAI Committee](/committee)
+[SVAIN Committee](/committee)

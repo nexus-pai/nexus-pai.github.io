@@ -1,5 +1,5 @@
 """
-N-PAI registrant
+SVAIN registrant
 """
 
 from __future__ import annotations

@@ -1,7 +1,7 @@
 ---
 date: Mon Oct  7 13:53:09 PDT 2024
 last_modified_at: Thu Jan 22 00:00:40 PST 2026
-title: N-PAI Seminar-series Invitation
+title: SVAIN Seminar-series Invitation
 permalink: /seminar-announcements/series
 categories:
  - blog
@@ -25,10 +25,10 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 Dear Innovators, Visionaries, and Tech Enthusiasts of Silicon Valley,
 
 We are excited to invite you to our upcoming seminar series on Private AI
-by <a href="https://k-privateai.github.io/">Korean Private AI Forum (N-PAI)</a>.
+by <a href="https://k-privateai.github.io/">Korean Private AI Forum (SVAIN)</a>.
 This series aims to foster knowledge sharing, networking, and discussions
 on business and entrepreneurship related to personalized privacy-preserving AI within our community.
-(Please visit <a href="https://k-privateai.github.io/">here</a> to find out more about N-PAI!)
+(Please visit <a href="https://k-privateai.github.io/">here</a> to find out more about SVAIN!)
 
 The seminar series will feature experts discussing state-of-the-art technologies in AI and Data,
 which are crucial for an AI-driven future society and economy, as well as privacy protection and authentication.
@@ -147,7 +147,7 @@ We look forward to your participation in what promises to be an enriching series
 Best regards,
 <br>
 <br>
-N-PAI Organizing Committee
+SVAIN Organizing Committee
 <br>
 email: <a href="mailto:k.private.ai@gmail.com">k.private.ai@gmail.com</a>
 </p>

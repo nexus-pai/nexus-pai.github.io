@@ -42,7 +42,7 @@ def convert_person_info_to_dict(person: Series) -> dict[str, Any]:
     )
 
     long_join_col_name: str = (
-        "Would you like to join the N-PAI forum membership? You're eligible to become a N-PAI forum"
+        "Would you like to join the SVAIN forum membership? You're eligible to become a SVAIN forum"
         " member if you've attended two or more of our seminars!"
         " Learn more: https://k-privateai.github.io/_x"
     )

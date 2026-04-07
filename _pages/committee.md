@@ -55,7 +55,7 @@ author_profile: false
 <table class="borderless-table">
 <tr>
 <td class="role" style="color: #0000dd;">
-	N-PAI Leader
+	SVAIN Leader
 </td>
 <td class="kor-name">
 	윤성희

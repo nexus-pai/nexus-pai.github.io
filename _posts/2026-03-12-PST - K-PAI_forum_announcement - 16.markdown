@@ -2,7 +2,7 @@
 date: Thu Mar 12 17:01:32 PDT 2026
 last_modified_at: Sat Mar 28 19:01:18 KST 2026
 layout: single
-title: "N-PAI's 16th Chapter - N-PAI X LGE Forum: Next-Generation Computing & AI Security Forum"
+title: "SVAIN's 16th Chapter - SVAIN X LGE Forum: Next-Generation Computing & AI Security Forum"
 permalink: /event-announcements/16
 categories:
  - blog
@@ -43,13 +43,13 @@ to share this forum!
 
 # Invitation
 
-N-PAI Community Members, Friends, Security Researchers, Cryptography Enthusiasts, and AI Innovators!!!!!
+SVAIN Community Members, Friends, Security Researchers, Cryptography Enthusiasts, and AI Innovators!!!!!
 
 ⚡ **THE QUANTUM SHIELD RISES!** ⚡
 
 Following our [powerful February forum]({{ prev_announcement.url }}){:target="_blank"} on battery innovation and investment wisdom, we're diving deep into the most critical security challenge of our era: **protecting AI systems in a post-quantum world**.
 
-We are **<span style="color: red;">thrilled</span>** to invite you to N-PAI's **<span style="color: red;">16th Forum</span>**—a comprehensive exploration of the convergence between **quantum computing threats**, **homomorphic encryption breakthroughs**, and **next-generation AI security architecture**.
+We are **<span style="color: red;">thrilled</span>** to invite you to SVAIN's **<span style="color: red;">16th Forum</span>**—a comprehensive exploration of the convergence between **quantum computing threats**, **homomorphic encryption breakthroughs**, and **next-generation AI security architecture**.
 
 But here's what makes this Forum truly extraordinary
 &ndash;
@@ -82,11 +82,11 @@ As AI systems scale exponentially and quantum computers advance toward breaking 
 
 1. **What does next-generation computing look like when security, intelligence, and energy efficiency must converge?** Edge AI, encrypted computation, and privacy-preserving systems represent a fundamental architectural shift.
 
-[Mar-2026 N-PAI Forum]({{ page.url }}) brings together **three leading LG Electronics researchers** to address these questions with real-world solutions, followed by networking time to connect with security professionals, cryptographers, AI researchers, and fellow innovators.
+[Mar-2026 SVAIN Forum]({{ page.url }}) brings together **three leading LG Electronics researchers** to address these questions with real-world solutions, followed by networking time to connect with security professionals, cryptographers, AI researchers, and fellow innovators.
 
 - <font color="red"><strong>Please RSVP via <a target="_blank" href="https://luma.com/6z07hik5">this link</a>!</strong></font>
-- Please visit [N-PAI Membership](/membership){:target="_blank"} to learn about our N-PAI membership for qualification and all exclusive perks you can enjoy!
-- Join us at N-PAI Members Kakaotalk Chatroom using [this info](/#join-us-at-kakaotalk){:target="_blank"} (if you're qualified)!
+- Please visit [SVAIN Membership](/membership){:target="_blank"} to learn about our SVAIN membership for qualification and all exclusive perks you can enjoy!
+- Join us at SVAIN Members Kakaotalk Chatroom using [this info](/#join-us-at-kakaotalk){:target="_blank"} (if you're qualified)!
 
 # Event Schedule - Security Deep Dives + Networking
 
@@ -132,9 +132,9 @@ Bahattin will present a high-level introduction to Fully Homomorphic Encryption 
 - **Real-World Applications** Facial recognition, personalized recommendations, and edge AI scenarios where privacy is paramount
 - **Performance Considerations** Computational costs, optimization strategies, and when FHE makes sense
 
-**Why This Matters to N-PAI**
+**Why This Matters to SVAIN**
 
-Privacy-preserving computation is N-PAI's foundational mission. Seeing how one of the world's leading electronics companies is actually deploying homomorphic encryption in production systems provides concrete proof that privacy-preserving AI isn't just theoretical—it's happening now.
+Privacy-preserving computation is SVAIN's foundational mission. Seeing how one of the world's leading electronics companies is actually deploying homomorphic encryption in production systems provides concrete proof that privacy-preserving AI isn't just theoretical—it's happening now.
 
 For engineers, researchers, and founders working on AI systems that handle sensitive data, this session offers actionable insights into what's actually possible with current FHE technology.
 
@@ -162,9 +162,9 @@ Jongho will present LG's research on **homomorphic encryption-based inference** 
 - **AI-Aware IDPS** Detection systems specifically designed for AI threats vs. traditional network security
 - **Red Teaming for AI Agents** How LG tests autonomous systems against adversarial manipulation
 
-**Why This Matters to N-PAI**
+**Why This Matters to SVAIN**
 
-Every N-PAI member working on AI deployment faces these questions
+Every SVAIN member working on AI deployment faces these questions
 &ndash;
 How do we protect proprietary models? How do we prevent adversarial attacks? How do we ensure AI agents behave safely?
 
@@ -194,9 +194,9 @@ HyoJun Im will introduce the mission and research focus of LG's Next-Generation 
 - **Encrypted Computation at Scale** Long-term roadmap for making homomorphic encryption practical across consumer devices
 - **Integration Strategy** How cryptography, hardware acceleration, and AI optimization work together
 
-**Why This Matters to N-PAI**
+**Why This Matters to SVAIN**
 
-This isn't just about individual technologies—it's about how they integrate into a coherent future. Understanding LG's strategic vision helps N-PAI members see where the entire field is heading and what skills, research directions, and business opportunities will matter most.
+This isn't just about individual technologies—it's about how they integrate into a coherent future. Understanding LG's strategic vision helps SVAIN members see where the entire field is heading and what skills, research directions, and business opportunities will matter most.
 
 For researchers, this session reveals what one of the world's largest electronics companies believes is worth investing in. For founders and engineers, it illuminates where the market is going.
 
@@ -219,13 +219,13 @@ After the technical deep-dives, LG's Global Recruiting Office will share insight
 
 **Why This Matters**
 
-If the technical talks inspire you to work on these problems at scale, this is your chance to learn how. LG is actively building teams in exactly these areas—and N-PAI members are ideal candidates.
+If the technical talks inspire you to work on these problems at scale, this is your chance to learn how. LG is actively building teams in exactly these areas—and SVAIN members are ideal candidates.
 
 ## Raffle Time! 🎉
 
 LG Electronics has prepared raffle prizes to celebrate our community! After the GRO introduction, we'll draw winners for exciting prizes.
 
-This is N-PAI's way of adding **fun** to forums—because serious technical content and enjoyment aren't mutually exclusive. The best communities know how to celebrate together!
+This is SVAIN's way of adding **fun** to forums—because serious technical content and enjoyment aren't mutually exclusive. The best communities know how to celebrate together!
 
 ## Dinner & Extended Networking (7:15pm - 8:30pm)
 
@@ -261,7 +261,7 @@ Dinner and refreshments, generously sponsored by **LG Electronics North America*
 1. **Ask about implementation details!** These speakers are deploying this tech in production—go deep.
 1. **Connect researchers with complementary expertise.** "You work on FHE optimization? Meet someone doing edge AI deployment."
 1. **Follow up within 48 hours!** Security and crypto communities are tight-knit—make the connection count.
-1. **Explore career opportunities thoughtfully.** LG is hiring, and N-PAI members have the right background.
+1. **Explore career opportunities thoughtfully.** LG is hiring, and SVAIN members have the right background.
 1. **Have fun!** The raffle, the food, the conversations—enjoy the community we've built.
 
 # Dinner & Venue Sponsor - LG Electronics North America
@@ -336,7 +336,7 @@ Tonight's GRO session provides insights into joining teams working on exactly th
 - Understand what skills and research directions matter most
 - Discover global career pathways within LG's ecosystem
 
-**If you're part of N-PAI's community**
+**If you're part of SVAIN's community**
 - Reconnect with friends from past forums
 - Welcome new members passionate about privacy-preserving AI
 - Participate in raffle for fun prizes!
@@ -344,12 +344,12 @@ Tonight's GRO session provides insights into joining teams working on exactly th
 
 # Target Audience
 
-**Everyone who is or wants to be part of the [N-PAI](/) community!**
+**Everyone who is or wants to be part of the [SVAIN](/) community!**
 
-- Current [N-PAI](/) members (you're the guests of honor!)
+- Current [SVAIN](/) members (you're the guests of honor!)
 - Past forum attendees (welcome back!)
 - Anyone interested in joining our community
-- Friends and colleagues of [N-PAI](/) members
+- Friends and colleagues of [SVAIN](/) members
 - Security researchers and cryptographers
 - AI/ML engineers and researchers
 - Edge computing and IoT professionals
@@ -366,4 +366,4 @@ Tonight's GRO session provides insights into joining teams working on exactly th
 We will see you all there!
 
 Best regards,<br>
-[N-PAI Committee](/committee)
+[SVAIN Committee](/committee)

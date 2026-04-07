@@ -30,7 +30,7 @@ Use this link
 to share!
 </blockquote>
 
-<a href="/seminar-announcements/03">The third Silicon Valley Private AI Forum (N-PAI) seminar</a>
+<a href="/seminar-announcements/03">The third Silicon Valley AI Nexus (SVAIN) seminar</a>
 exceeded all expectations, marking its most successful gathering to date.
 The event, hosted at <a href="https://maps.app.goo.gl/pX9LR2UbUkcJ7g9t8">Stanford University's Graduate Community Center</a>,
 drew an impressive turnout of nearly 100 participants,
@@ -119,11 +119,11 @@ long after the scheduled end time after taking the final photos (below). &#x2605
 	<img style="max-width: 100%; max-height: none;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/forums/03/photos/KakaoTalk_Photo_2025-01-26-01-51-01 011-50-reduced.jpeg">
 </div>
 
-<a href="/seminar-announcements/03">The third N-PAI seminar</a>
+<a href="/seminar-announcements/03">The third SVAIN seminar</a>
 achieved its ambitious goal of bridging the technical, business, and societal dimensions of AI,
 demonstrating how Silicon Valley's technological innovation can be thoughtfully aligned with broader human values and social responsibility.
 This holistic approach, enriched by vibrant networking opportunities and elevated by an exceptional Korean fusion dining experience,
 has set a new standard for AI forums in the Silicon Valley.
 The overwhelming success of this gathering has generated unprecedented enthusiasm
-for <a href="/#silicon-citadel">the next N-PAI seminar scheduled for Feb 12, 2025</a>,
+for <a href="/#silicon-citadel">the next SVAIN seminar scheduled for Feb 12, 2025</a>,
 where this vital conversation will continue.

@@ -32,7 +32,7 @@ to share this event!
 
 Innovators, Technologists, and AI Enthusiasts!
 
-We are thrilled to invite you to the eighth edition of the [N-PAI Forum](/),
+We are thrilled to invite you to the eighth edition of the [SVAIN Forum](/),
 a premier gathering for researchers, industry leaders,
 and innovators exploring the frontier of privacy-first AI technologies.
 Following the remarkable success of [our "Autonomous Alliance - AI Agents in a Connected World" forum](/seminar-reflections/07),
@@ -49,7 +49,7 @@ Join us for an evening of insightful discussions, networking, and cutting-edge r
 Check out [{{ post.title }}]({{ post.url }}) to see how our previous Autonomous Alliance event was a resounding success!
 
 - <font color="red"><strong>Please RSVP via <a href="https://lu.ma/kt0tpmt6">this link</a>!</strong></font>
-- Please visit [N-PAI Membership](/membership) to learn about our N-PAI membership for the qualification and all exclusive perks you can enjoy!
+- Please visit [SVAIN Membership](/membership) to learn about our SVAIN membership for the qualification and all exclusive perks you can enjoy!
 
 ## Special Thanks to Our Sponsors
 
@@ -103,9 +103,9 @@ Discover the story and vision behind Altos Ventures, one of Silicon Valley's pro
 
 ## Q&A & Further Networking (7:20pm ~ 8pm)
 
-The moments that all N-PAI participants love most!
+The moments that all SVAIN participants love most!
 –
-This interactive session provides a unique opportunity to engage directly with our expert speakers, addressing your specific questions about robotics, smart devices, responsible AI development, and their privacy implications. **Mingle with venture capitalists** from Altos Ventures and **gain differentiated insights from their investment perspectives** on emerging technologies, market trends, and what makes startups successful in the AI and robotics space. Bring your most challenging questions, share your insights, and participate in the vibrant exchange of ideas that has become a hallmark of N-PAI events. Previous forums have seen some of the most valuable connections and collaborations emerge during these dynamic discussions, where industry leaders, researchers, practitioners, and investors bridge theory and application in real-time conversations.
+This interactive session provides a unique opportunity to engage directly with our expert speakers, addressing your specific questions about robotics, smart devices, responsible AI development, and their privacy implications. **Mingle with venture capitalists** from Altos Ventures and **gain differentiated insights from their investment perspectives** on emerging technologies, market trends, and what makes startups successful in the AI and robotics space. Bring your most challenging questions, share your insights, and participate in the vibrant exchange of ideas that has become a hallmark of SVAIN events. Previous forums have seen some of the most valuable connections and collaborations emerge during these dynamic discussions, where industry leaders, researchers, practitioners, and investors bridge theory and application in real-time conversations.
 
 # Why Attend?
 
@@ -133,4 +133,4 @@ We look forward to your participation in this exciting forum! If you have any qu
 
 Best regards,
 
-[N-PAI Committee](/committee)
+[SVAIN Committee](/committee)

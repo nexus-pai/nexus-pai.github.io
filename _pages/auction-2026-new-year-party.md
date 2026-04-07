@@ -2,7 +2,7 @@
 layout: single
 date: Sun Dec 28 09:57:32 PST 2025
 last_modified_at: Wed Jan 14 20:07:59 PST 2026
-title: 2026 N-PAI New Year Party Auction
+title: 2026 SVAIN New Year Party Auction
 permalink: /auction-2026-new-year-party/
 toc: true
 toc_label: "ToC"

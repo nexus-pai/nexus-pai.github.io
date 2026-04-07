@@ -29,7 +29,7 @@ to share this event!
 ---
 Greetings, Silicon Valley Innovators, Visionaries & Tech Enthusiasts!
 
-We are excited to invite you to the fifth edition of the [N-PAI forum](/), a premier gathering for researchers, industry leaders, and innovators exploring the future of AI-enhancing technologies. Building on the success of our previous forums, we're diving into the fascinating intersection of blockchain and AI, examining how blockchain's core principles can drive AI systems toward greater fairness, transparency, and accessibility.
+We are excited to invite you to the fifth edition of the [SVAIN forum](/), a premier gathering for researchers, industry leaders, and innovators exploring the future of AI-enhancing technologies. Building on the success of our previous forums, we're diving into the fascinating intersection of blockchain and AI, examining how blockchain's core principles can drive AI systems toward greater fairness, transparency, and accessibility.
 
 - Date: March 12, 2025 (wed) PST
 - Time: 5PM - 8PM
@@ -42,8 +42,8 @@ Join us for an evening of insightful discussions, networking, and cutting-edge r
 Check out [{{ post1.title }}]({{ post1.url }}) and [{{ post2.title }}]({{ post2.url }})!
 
 - <font color="red"><strong>Please RSVP via <a href="https://lu.ma/s5pus5dw">this link</a>!</strong></font>
-- Please visit [N-PAI Membership](/membership)
-to learn about our N-PAI membership
+- Please visit [SVAIN Membership](/membership)
+to learn about our SVAIN membership
 for the qualification and all exclusive perks you can enjoy!
 
 This time, you have the opportunity to win a Smart Monitor and Wireless Speaker from LG Electronics America in a special lucky draw.
@@ -142,7 +142,7 @@ This event is generously sponsored by [LG Electronics](https://www.lg.com/us/)!
 
 # Hosting Organization
 
-The hosting organization of N-PAI is <a href="https://imdarc.snu.ac.kr/?page_id=2129&lang=en">SNU Private AI Initiative / Homomorphic Encryption Research Center (HERC)</a>!
+The hosting organization of SVAIN is <a href="https://imdarc.snu.ac.kr/?page_id=2129&lang=en">SNU Private AI Initiative / Homomorphic Encryption Research Center (HERC)</a>!
 
 <div class="img-container-justified">
 &nbsp;
@@ -162,7 +162,7 @@ We look forward to your participation in this exciting forum! If you have any qu
 
 Best regards,
 
-[N-PAI](/) Organizing Committee
+[SVAIN](/) Organizing Committee
 <br>
 email: <a href="mailto:k.private.ai@gmail.com">k.private.ai@gmail.com</a>
 

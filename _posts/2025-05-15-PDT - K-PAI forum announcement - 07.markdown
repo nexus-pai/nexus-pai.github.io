@@ -32,7 +32,7 @@ to share this event!
 ---
 Innovators, Technologists, and AI Enthusiasts!
 
-We are delighted to invite you to the seventh edition of the [N-PAI Forum](/),
+We are delighted to invite you to the seventh edition of the [SVAIN Forum](/),
 a premier gathering for researchers, industry leaders,
 and innovators exploring the frontier of privacy-first AI technologies. Building on the tremendous success of our previous forums,
 this event will delve into the fascinating world of autonomous AI agents—intelligent systems that can perceive, decide, and act with increasing independence while maintaining critical privacy standards.
@@ -48,8 +48,8 @@ Join us for an evening of insightful discussions, networking, and cutting-edge r
 Check out [{{ post.title }}]({{ post.url }}) to see how our previous Bio and Medical Technology AI Revolution event was a resounding success!
 
 - <font color="red"><strong>Please RSVP via <a href="https://lu.ma/0h1eot3z">this link</a>!</strong></font>
-- Please visit [N-PAI Membership](/membership)
-to learn about our N-PAI membership
+- Please visit [SVAIN Membership](/membership)
+to learn about our SVAIN membership
 for the qualification and all exclusive perks you can enjoy!
 
 ## Special Thanks to Our Sponsors
@@ -110,9 +110,9 @@ frame his talk as a journey through AI's evolution, with detailed explanations o
 
 ## Q&A & Further Networking (7:30pm ~ 8pm)
 
-The moments that all N-PAI participants love most!
+The moments that all SVAIN participants love most!
 &ndash;
-This interactive session provides a unique opportunity to engage directly with our expert speakers, addressing your specific questions about AI agents, autonomous systems, and their privacy implications. Bring your most challenging questions, share your insights, and participate in the vibrant exchange of ideas that has become a hallmark of N-PAI events. Previous forums have seen some of the most valuable connections and collaborations emerge during these dynamic discussions, where industry leaders, researchers, and practitioners bridge theory and application in real-time conversations.
+This interactive session provides a unique opportunity to engage directly with our expert speakers, addressing your specific questions about AI agents, autonomous systems, and their privacy implications. Bring your most challenging questions, share your insights, and participate in the vibrant exchange of ideas that has become a hallmark of SVAIN events. Previous forums have seen some of the most valuable connections and collaborations emerge during these dynamic discussions, where industry leaders, researchers, and practitioners bridge theory and application in real-time conversations.
 
 # Why Attend?
 
@@ -136,5 +136,5 @@ We look forward to your participation in this exciting forum! If you have any qu
 
 Best regards,
 
-[N-PAI Committee](/committee)
+[SVAIN Committee](/committee)
 

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: About N-PAI
+title: About SVAIN
 permalink: /about/
 last_modified_at: Sun Apr 13 02:19:08 PDT 2025
 toc: false
@@ -9,7 +9,7 @@ toc_icon: "fa-solid fa-list"
 toc_sticky: true
 ---
 
-Silicon Valley AI Nexus (N-PAI) is a community of professionals
+Silicon Valley AI Nexus (SVAIN) is a community of professionals
 dedicated to advancing privacy-preserving Artificial Intelligence (AI) technologies and practices.
 Our members focus on developing and implementing AI systems that protect data privacy, ensure confidentiality,
 and maintain security while delivering powerful capabilities.

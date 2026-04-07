@@ -3,7 +3,7 @@ date: Sat Jan 24 22:02:10 PST 2026
 last_modified_at: Sat Jan 24 23:10:14 PST 2026
 layout: single
 permalink: /branding-brief/
-title: N-PAI Strategic Branding Brief
+title: SVAIN Strategic Branding Brief
 categories:
  - branding
 toc: true
@@ -19,7 +19,7 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 
 # 1. Purpose of the Branding Guidebook
 
-The [N-PAI](/) Branding Guidebook is designed to formalize its identity and provide a clear roadmap for its evolution. Its primary objectives include:
+The [SVAIN](/) Branding Guidebook is designed to formalize its identity and provide a clear roadmap for its evolution. Its primary objectives include:
 
 ## A. Establishing a Strategic Foundation
 
@@ -31,7 +31,7 @@ This document serves as the **Design Brief** for the Branding Committee. It prov
 
 ## C. Ensuring Cross-Platform Consistency
 
-[N-PAI](/) lives across multiple touchpoints: GitHub, LinkedIn, Instagram, and high-profile co-hosted events with partners like KOTRA, Academia, and the Korean American Bar Association, *etc.* This guidebook ensures a "single voice" and a unified look, regardless of where a member or partner encounters our brand.
+[SVAIN](/) lives across multiple touchpoints: GitHub, LinkedIn, Instagram, and high-profile co-hosted events with partners like KOTRA, Academia, and the Korean American Bar Association, *etc.* This guidebook ensures a "single voice" and a unified look, regardless of where a member or partner encounters our brand.
 
 ## D. Building Professional Credibility
 
@@ -39,7 +39,7 @@ As a non-profit operating at the intersection of Silicon Valley tech, global leg
 
 # 2. Brand Essence (The "Why")
 
-Before defining colors or fonts, the guidebook must establish the "soul" of [N-PAI](/).
+Before defining colors or fonts, the guidebook must establish the "soul" of [SVAIN](/).
 
 **Mission Statement:** To bridge technical innovation with legal frameworks and humanistic principles to create AI systems that serve humanity while protecting individual privacy.
 
@@ -54,7 +54,7 @@ Before defining colors or fonts, the guidebook must establish the "soul" of [N-P
 
 # 3. Brand Personality & Voice
 
-How should [N-PAI](/) sound in its communications?
+How should [SVAIN](/) sound in its communications?
 
 **Personality:** Sophisticated, visionary, yet grounded and academic. It is a "Thought Leader" and a "Guardian."
 
@@ -96,4 +96,4 @@ Where will this brand live?
 
 **Events:** Presentation templates (for speakers), name tags, and pull-up banners for co-hosted events with partners like KOTRA or K-BioX.
 
-**Partnerships:** Guidelines on how the [N-PAI](/) logo should appear alongside partner logos (*e.g.*, maintain clear "safe space" around the logo).
+**Partnerships:** Guidelines on how the [SVAIN](/) logo should appear alongside partner logos (*e.g.*, maintain clear "safe space" around the logo).

@@ -2,7 +2,7 @@
 date: Sat Oct 11 22:27:55 PDT 2025
 last_modified_at: Thu Jan 29 20:23:22 KST 2026
 layout: single
-title: N-PAI Board
+title: SVAIN Board
 permalink: /board/
 toc: true
 toc_label: "ToC"
@@ -10,7 +10,7 @@ toc_icon: "cog"
 toc_sticky: true
 ---
 
-# Conversations on [N-PAI Members Kakaotalk Group Chat Room](/#join-us-at-kakaotalk)
+# Conversations on [SVAIN Members Kakaotalk Group Chat Room](/#join-us-at-kakaotalk)
 
 ## Selected Posts
 
@@ -29,7 +29,7 @@ toc_sticky: true
 > [Gordon](https://www.linkedin.com/in/gordon-g-park-452bab26/){:target="_blank"}
 > @ Sat Oct 11 17:20 PDT 2025
 >
-> AI 개발 전문가를 찾습니다. GenAI를 이용해 생물정보학 (bioinformatics) 데이터 분석을 natural language로 할 수 있는 AI Agent를 개발하고 있습니다. 관심 있으신 분이나 팀 있으시면 개인톡 (neuorpa)이나 이메일 (neuropa@stanford.edu) 부탁드립니다. Ps. N-PAI 운영팀으로 허가 받아 공지합니다.
+> AI 개발 전문가를 찾습니다. GenAI를 이용해 생물정보학 (bioinformatics) 데이터 분석을 natural language로 할 수 있는 AI Agent를 개발하고 있습니다. 관심 있으신 분이나 팀 있으시면 개인톡 (neuorpa)이나 이메일 (neuropa@stanford.edu) 부탁드립니다. Ps. SVAIN 운영팀으로 허가 받아 공지합니다.
 >
 > [Sunghee](https://sungheeyun.github.io)
 >
@@ -61,7 +61,7 @@ toc_sticky: true
 >
 > 안녕하세요, 이가은 입니다.
 > <br>
-> N-PAI 소셜 미디어 매니저로서 첫 포스팅을 공유드립니다. ㅎㅎ
+> SVAIN 소셜 미디어 매니저로서 첫 포스팅을 공유드립니다. ㅎㅎ
 >
 > 지난 주, 이틀에 걸쳐 KAIST 임채권 교수님과 간담회를 성공적으로 마쳤습니다. 🎉
 > <br>
@@ -77,10 +77,10 @@ toc_sticky: true
 > <br>
 > &ndash; [https://www.instagram.com/p/DT64YWrlJsM/?igsh=NTc4MTIwNjQ2YQ==](https://www.instagram.com/p/DT64YWrlJsM/?igsh=NTc4MTIwNjQ2YQ==){:target="_blank"}
 >
-> 바쁘신 와중에도 함께해 주신 임채권 교수님과 N-PAI 회원 분들께 진심으로 감사드립니다.
+> 바쁘신 와중에도 함께해 주신 임채권 교수님과 SVAIN 회원 분들께 진심으로 감사드립니다.
 
 <div class="img-container">
-<img style="max-width: 100%; max-height: 70vh;" src="https://sungheeyun-photos-01.github.io/resource/2026/01/22 - N-PAI meets KAIST/KakaoTalk_Photo_2026-01-23-00-14-58 005-25-reduced.jpeg">
+<img style="max-width: 100%; max-height: 70vh;" src="https://sungheeyun-photos-01.github.io/resource/2026/01/22 - SVAIN meets KAIST/KakaoTalk_Photo_2026-01-23-00-14-58 005-25-reduced.jpeg">
 </div>
 
 ### Sunghee announces SNU Networking Success and Strategic Partnership Progress!
@@ -94,10 +94,10 @@ toc_sticky: true
 >
 > [Sunghee](https://sungheeyun.github.io) @ Sat Jan 10 01:35 PST 2026
 >
-> <span>2.</span> 오늘 (금) 저녁 서울대 공대와 N-PAI와의 협력 모델에 대한 논의 내용을 상세히 업데이트 했습니다!
+> <span>2.</span> 오늘 (금) 저녁 서울대 공대와 SVAIN와의 협력 모델에 대한 논의 내용을 상세히 업데이트 했습니다!
 > [https://k-privateai.github.io/activities/#snu-college-of-engineering-strategic-partnership-initiative](/activities/#snu-college-of-engineering-strategic-partnership-initiative){:target="_blank"}
 > 자리를 마련해 주신 @[Nathan](https://www.linkedin.com/in/naehyuck/){:target="_blank"} 교수님과 @[박찬익](https://www.linkedin.com/in/chanik-park-14878b32){:target="_blank"} 부사장님께 다시 한번 큰 감사를 드립니다! 함께 이렇게 큰 성과를 이끌어 낼 수 있게 해 주신
-> [N-PAI](/) 멤버 여러분들께도 감사의 마음을 전합니다! - 이 collaboration model을 통해 우리 N-PAI 멤버 모두에게 많은 기회가 주어지게 되었습니다! 십분 활용하시기 바랍니다! :)
+> [SVAIN](/) 멤버 여러분들께도 감사의 마음을 전합니다! - 이 collaboration model을 통해 우리 SVAIN 멤버 모두에게 많은 기회가 주어지게 되었습니다! 십분 활용하시기 바랍니다! :)
 >
 > [Sunghee](https://sungheeyun.github.io) @ Sat Jan 10 12:18 PST 2026
 >
@@ -109,7 +109,7 @@ toc_sticky: true
 {: .notice--info}
 > [Insuk](https://www.linkedin.com/in/insuk-song-b9995335/){:target="_blank"} @ Mon Jan  5 18:42 PST 2026
 >
-> N-PAI 회원여러분 안녕하세요! 새해 복 많이 받으시기바랍니다, 1/9,1/10,1/12일 개최되는 UKF 82 Start up Summit 행사 관련 안내를 드립니다. Start up/Student Promo code도 있으니,  관심있는 분들 참고하세요!
+> SVAIN 회원여러분 안녕하세요! 새해 복 많이 받으시기바랍니다, 1/9,1/10,1/12일 개최되는 UKF 82 Start up Summit 행사 관련 안내를 드립니다. Start up/Student Promo code도 있으니,  관심있는 분들 참고하세요!
 >
 > 🔗 UKF 행사 등록<br>
 > 1월 9일 (금), 1:00 PM - 10:00 PM - Korean + English<br>
@@ -135,11 +135,11 @@ toc_sticky: true
 {: .notice--info}
 > [Sunghee](https://sungheeyun.github.io) @ Mon Dec 29 05:21 PST 2025
 >
-> 🎊 N-PAI 2026 신년회 - 공지 사항
+> 🎊 SVAIN 2026 신년회 - 공지 사항
 >
-> 안녕하세요, N-PAI 정회원 여러분!
+> 안녕하세요, SVAIN 정회원 여러분!
 >
-> 1월 14일 N-PAI 2026 신년회 관련 공식 이메일이 발송되었습니다! 혹시 이메일을 받지 못하신 분들은 개인 카톡으로 연락 주세요.
+> 1월 14일 SVAIN 2026 신년회 관련 공식 이메일이 발송되었습니다! 혹시 이메일을 받지 못하신 분들은 개인 카톡으로 연락 주세요.
 >
 > 주요 링크:
 >
@@ -154,7 +154,7 @@ toc_sticky: true
 >
 > 이번 신년회에서 특별히 Auction과 Award/Game Prize를 준비하고 있습니다. 이미 몇 분께서 기부해 주셔서 정말 감사드립니다!
 >
-> 혹시 여유가 되시고 의향이 있으신 분들은 아이템 기부를 고려해 주시면 감사하겠습니다! 비싼 것일 필요 전혀 없습니다! 어떤 아이템이든 N-PAI 커뮤니티에게는 정말 큰 의미가 있고 엄청나게 감사하게 받겠습니다! (물론 부담 갖지 마시고, 가능하신 분들만요~ ^^)
+> 혹시 여유가 되시고 의향이 있으신 분들은 아이템 기부를 고려해 주시면 감사하겠습니다! 비싼 것일 필요 전혀 없습니다! 어떤 아이템이든 SVAIN 커뮤니티에게는 정말 큰 의미가 있고 엄청나게 감사하게 받겠습니다! (물론 부담 갖지 마시고, 가능하신 분들만요~ ^^)
 >
 > 기부 가능한 아이템: 전자제품, 예술 작품, 컬렉터블, 서비스(컨설팅, 코칭, 레슨), 체험(디너, 와인 테이스팅), 사인된 책, 빈티지 아이템, 수제 공예품 등
 >
@@ -168,11 +168,11 @@ toc_sticky: true
 >
 > —
 >
-> 🎊 N-PAI 2026 New Year Party - Announcements
+> 🎊 SVAIN 2026 New Year Party - Announcements
 >
-> Hello N-PAI Full Members!
+> Hello SVAIN Full Members!
 >
-> Official emails for the January 14th N-PAI 2026 New Year Party have been sent out! If you haven't received the email, please send me a personal Kakaotalk message.
+> Official emails for the January 14th SVAIN 2026 New Year Party have been sent out! If you haven't received the email, please send me a personal Kakaotalk message.
 >
 > Key Links:
 >
@@ -185,7 +185,7 @@ toc_sticky: true
 >
 > We're organizing a special Auction and Awards/Game Prizes for this year's celebration. We've already received some generous donations—thank you so much!
 >
-> If you're interested and able, we'd be grateful if you could consider donating items! It doesn't have to be expensive at all! Any item would be extremely greatly appreciated by N-PAI and our community! (No pressure at all—only if it works for you~ ^^)
+> If you're interested and able, we'd be grateful if you could consider donating items! It doesn't have to be expensive at all! Any item would be extremely greatly appreciated by SVAIN and our community! (No pressure at all—only if it works for you~ ^^)
 >
 > Possible donation items: Tech gadgets, art pieces, collectibles, services (consulting, coaching, lessons), experiences (dinner, wine tasting), signed books, vintage items, handmade crafts, etc.
 >
@@ -405,7 +405,7 @@ toc_sticky: true
 >
 > I'd love to add more descriptions and context, but haven't had the time yet! ㅎㅎ If anyone would like to write descriptions for the photos or gatherings and send them my way, I'll happily add them to the page! Feel free to write in any style you like—completely free-form!! :)
 
-### Sunghee shares N-PAI × K•ASIC Forum Photos & Videos
+### Sunghee shares SVAIN × K•ASIC Forum Photos & Videos
 
 {: .notice--info}
 > [Sunghee](https://sungheeyun.github.io) @ Wed Dec 24 20:48 PST 2025
@@ -426,13 +426,13 @@ toc_sticky: true
 >
 > Relive the memorable moments from the forum! :)
 
-### Sunghee shares N-PAI × K•ASIC Forum Reflection
+### Sunghee shares SVAIN × K•ASIC Forum Reflection
 
 {: .notice--info}
 > [Sunghee](https://sungheeyun.github.io) @ Wed Dec 24 20:30 PST 2025
 > 📧 행사 후기 발송 안내
 >
-> (이미 모두들 받으셨겠지만) 지난 11월 N-PAI x K•ASIC 공동 포럼 후기가 오늘 아침 이메일로 발송되었습니다!
+> (이미 모두들 받으셨겠지만) 지난 11월 SVAIN x K•ASIC 공동 포럼 후기가 오늘 아침 이메일로 발송되었습니다!
 >
 > 이메일 버전은 바쁘신 분들을 위한 compact한 요약본이고, 원문은 훨씬~! 더 깁니다 ㅎㅎ :)
 >
@@ -442,7 +442,7 @@ toc_sticky: true
 >
 > 📧 Event Reflection Announcement
 >
-> As (hopefully) all of you have received by now, the reflection on our November N-PAI x K•ASIC joint forum was sent out this morning via email!
+> As (hopefully) all of you have received by now, the reflection on our November SVAIN x K•ASIC joint forum was sent out this morning via email!
 >
 > The email version is a compact summary for those with busy schedules, while the full article is much more comprehensive. :)
 >
@@ -463,21 +463,21 @@ toc_sticky: true
 >
 > Btw, if you want to attend, please connect with me separately.  There may be limited space.
 
-### Jay organizes N-PAI Networking Dinner with IITP
+### Jay organizes SVAIN Networking Dinner with IITP
 
 {: .notice--info}
 > [Sunghee](https://sungheeyun.github.io) @ Wed Nov 12 22:43 PST 2025
 >
 > @[이원표](https://www.linkedin.com/in/jay-wonpyo-lee-57177784/){:target="_blank"} 대표님께서 마련해 주신 자리인데 ~ 금주 토욜! 11/15 오후 7시!
-> 모건힐에서! (249 Palm Ave, Morgan Hill, CA) 한국정보통신기획평가원(IITP) 연구단 9명과 저희 N-PAI가 네트워킹 만찬晚餐의 시간을 갖습니다!
-> 근데 아직 N-PAI에서는 참석자가 @[Sunghee Yun](https://sungheeyun.github.io) & @[이원표](https://www.linkedin.com/in/jay-wonpyo-lee-57177784/){:target="_blank"} 두 명입니다. ㅎㅎ 선착순先着順~! 신청 받습니다. 참석을 희망하시는 분들은 제게 따로 카톡으로 연락 주세요!
+> 모건힐에서! (249 Palm Ave, Morgan Hill, CA) 한국정보통신기획평가원(IITP) 연구단 9명과 저희 SVAIN가 네트워킹 만찬晚餐의 시간을 갖습니다!
+> 근데 아직 SVAIN에서는 참석자가 @[Sunghee Yun](https://sungheeyun.github.io) & @[이원표](https://www.linkedin.com/in/jay-wonpyo-lee-57177784/){:target="_blank"} 두 명입니다. ㅎㅎ 선착순先着順~! 신청 받습니다. 참석을 희망하시는 분들은 제게 따로 카톡으로 연락 주세요!
 >
 > ([Sunghee Yun](https://sungheeyun.github.io),
 > [이은석](https://www.linkedin.com/in/eunseok-lee-b332a34a/){:target="_blank"},
 > [김수연](https://www.linkedin.com/in/suekimpr/){:target="_blank"},
 > [선우동훈](https://www.linkedin.com/in/sunwoodonghoon/){:target="_blank"})
 
-### Sunghee announces N-PAI × KABANC Joint Forum for August 2026
+### Sunghee announces SVAIN × KABANC Joint Forum for August 2026
 
 <div class="img-container">
 <img style="max-width: 60%;" src="/resource/board/KakaoTalk_Photo_2025-11-11-21-58-02.jpeg">
@@ -486,13 +486,13 @@ toc_sticky: true
 {: .notice--info}
 > [Sunghee](https://sungheeyun.github.io) @ Tue Nov 11 12:13 PST 2025
 >
-> 또 공지! 어제 Santa Clara County의 Deputy District Attorney이신 Daniel Chung 검사님과 우리 N-PAI 멤버이신 @송영욱 변호사님, 그리고 @이보형 변호사님과 함께 점심 식사를 했습니다. - 원래 @허예랑 대표님도 참석하려 하였으나 아쉽게도 급! LA 출장 건으로 요렇게 다섯명이 조촐히 모였습니다~ :)
+> 또 공지! 어제 Santa Clara County의 Deputy District Attorney이신 Daniel Chung 검사님과 우리 SVAIN 멤버이신 @송영욱 변호사님, 그리고 @이보형 변호사님과 함께 점심 식사를 했습니다. - 원래 @허예랑 대표님도 참석하려 하였으나 아쉽게도 급! LA 출장 건으로 요렇게 다섯명이 조촐히 모였습니다~ :)
 >
-> 이 자리에서 내년 8월 즈음에~ Daniel 검사님이 대표로 계신 Korean American Bar Association of Northern California (KABANC) - [https://www.kabanc.com/](https://www.kabanc.com/){:target="_blank"} - 와 저희 N-PAI가 (또 다시 한번) 공동 주최로 Forum을 하기로 했습니다. 이는 지난 8월에 저희가 Human-Centric AI Revolution이라는 주제로 @허나탈리 변호사님과 James Rhee를 모시고 했던 행사의 연장으로 생각할 수도 있을 것입니다! 즉, non-technical한 그러나 AI 시대에 어쩌면 그 어떤 technology보다 중요해진 주제를 다루는 자리를 저희 N-PAI에서 적어도 1년에 한번씩 마련하고저 합니다!
+> 이 자리에서 내년 8월 즈음에~ Daniel 검사님이 대표로 계신 Korean American Bar Association of Northern California (KABANC) - [https://www.kabanc.com/](https://www.kabanc.com/){:target="_blank"} - 와 저희 SVAIN가 (또 다시 한번) 공동 주최로 Forum을 하기로 했습니다. 이는 지난 8월에 저희가 Human-Centric AI Revolution이라는 주제로 @허나탈리 변호사님과 James Rhee를 모시고 했던 행사의 연장으로 생각할 수도 있을 것입니다! 즉, non-technical한 그러나 AI 시대에 어쩌면 그 어떤 technology보다 중요해진 주제를 다루는 자리를 저희 SVAIN에서 적어도 1년에 한번씩 마련하고저 합니다!
 >
 > 세 분 정도의 연사를 생각하고 있습니다! Litigation 등을 통해 현장에서 AI / legal issue를 몸소 체험하시는 분, 그리고 government 혹은 state의 policy에 직/간접적으로 관여하시거나 관련하여 살아있는! 지식과 경험이 있으신 분, 그리고 대가! 어제 Daniel께서 Michael Sandel 교수님께 연락을 해 보실 수 있다고 하여 다들 흥분했습니다! :) - [https://en.wikipedia.org/wiki/Michael_Sandel](https://en.wikipedia.org/wiki/Michael_Sandel){:target="_blank"}
 >
-> 개봉 박두! 많이 기대하셔도 좋습니다! 그리고! 언제나처럼 본 행사 organize하는데 직접 기여/참여하고 싶으신 분은 언제나! 말씀해 주십시오~ N-PAI는 여러분과 같이 만들어 가는 모임입니다! :)
+> 개봉 박두! 많이 기대하셔도 좋습니다! 그리고! 언제나처럼 본 행사 organize하는데 직접 기여/참여하고 싶으신 분은 언제나! 말씀해 주십시오~ SVAIN는 여러분과 같이 만들어 가는 모임입니다! :)
 >
 > REMINDER 차원에서~ 8월 행사 후기를 다시 공유드립니다~ ㅎㅎ [https://k-privateai.github.io/seminar-reflections/10](https://k-privateai.github.io/seminar-reflections/10)
 
@@ -505,7 +505,7 @@ toc_sticky: true
 >
 > 11/14일 UC 버클리에서 진행되고 한국 서울대에서 박상철 교수님, 고등법원의 김광남 판사님, 그리고 지평에서 신용우 변호사님이 스피커로 참여하실 예정입니다.
 >
-> N-PAI에 관심있으신 분들 계실 것 같아 공유드립니다! 혹시 궁금하신 점 있으시면 언제든지 문의 주세요!
+> SVAIN에 관심있으신 분들 계실 것 같아 공유드립니다! 혹시 궁금하신 점 있으시면 언제든지 문의 주세요!
 >
 > [https://www.law.berkeley.edu/research/korea-law-center/ip-and-human-creativity-in-the-ai-age-a-global-conversation/](https://www.law.berkeley.edu/research/korea-law-center/ip-and-human-creativity-in-the-ai-age-a-global-conversation/){:target="_blank"}
 
@@ -548,7 +548,7 @@ toc_sticky: true
 > [https://stanford-causal-inference-class.github.io/materials.html](https://stanford-causal-inference-class.github.io/materials.html){:target="_blank"}
 > 입니다! :)
 
-### Sunghee is seeking technical support from N-PAI Lovers!
+### Sunghee is seeking technical support from SVAIN Lovers!
 
 {: .notice--info}
 > [Sunghee](https://sungheeyun.github.io) @ Mon Nov  3 16:33 PST 2025
@@ -566,7 +566,7 @@ toc_sticky: true
 >
 > [https://sites.google.com/kbiox.net/ai-biox-coex-rutgers/](https://sites.google.com/kbiox.net/ai-biox-coex-rutgers/)
 >
-> N-PAI 정회원 여러분! COEX 행사 관련 공지 하나 합니다! 저희 N-PAI 발표 session으로 계획되었던 부분은 N-PAI가 아니라 "Silicon Valley Chapter"정도의 주제가 될 듯 하고 저는 N-PAI Leader로서가 아니라 Silicon Valley AI Landscape를 간략하게 발표를 하고 N-PAI를 살짝 소개하는 정도가 될 듯 합니다. - 이런 행사의 nature상 어차피 계속 이렇게 바뀔 거라는 건 알고 있었습니다! ㅎㅎ 그래서 초반에 뭘 정하는 건 거의 의미가 없어요~ ㅎ
+> SVAIN 정회원 여러분! COEX 행사 관련 공지 하나 합니다! 저희 SVAIN 발표 session으로 계획되었던 부분은 SVAIN가 아니라 "Silicon Valley Chapter"정도의 주제가 될 듯 하고 저는 SVAIN Leader로서가 아니라 Silicon Valley AI Landscape를 간략하게 발표를 하고 SVAIN를 살짝 소개하는 정도가 될 듯 합니다. - 이런 행사의 nature상 어차피 계속 이렇게 바뀔 거라는 건 알고 있었습니다! ㅎㅎ 그래서 초반에 뭘 정하는 건 거의 의미가 없어요~ ㅎ
 >
 > 다름이 아니라 저 외에 발표하실 분을 모으는 데 지금의 기준은 "후원사" 입니다! 즉, COEX 행사에 후원을 해 주시면 제가 크게 광고를 해 드릴 거고, 발표할 기획도 드리려고요! 관심 있으신 정회원 분들 있으시면 제게 따로 연락주세요!! 또한 주위에 12/11~12/13에 마침 한국에 계실 분 중에 본 행사에 관심이 있으신 분이 있으면 0.0001초의 망설임도 없이! ㅎㅎㅎ 저랑 (카톡으로) 이어주세요! :)
 >
@@ -579,9 +579,9 @@ toc_sticky: true
 {: .notice--info}
 > [Sunghee](https://sungheeyun.github.io) @ Thu Oct 30 07:39 PDT 2025
 >
-> 안녕하세요, 사랑하는 N-PAI 정회원 여러분!
+> 안녕하세요, 사랑하는 SVAIN 정회원 여러분!
 >
->제가 서울 출장 11박 13일 일정을 마치고, N-PAI와 관련된 두 가지 의미 있는 성과를 갖고 돌아 왔습니다. 😊
+>제가 서울 출장 11박 13일 일정을 마치고, SVAIN와 관련된 두 가지 의미 있는 성과를 갖고 돌아 왔습니다. 😊
 >
 >첫 번째: 고려대학교 경영대학 CDTB 협력 제안
 >
@@ -589,14 +589,14 @@ toc_sticky: true
 > [https://sungheeyun.github.io/#cdtb-kubs-ai-seminar-oct-2025](https://sungheeyun.github.io/#cdtb-kubs-ai-seminar-oct-2025)
 > 교수님들과 식사 자리를 가졌습니다. 그 자리에서 흥미로운 점을 발견했는데요, 경영학계 주요 저널들이 이론적 완결성만을 중시하다 보니 실무적이고 혁신적인 연구들이 받아들여지기 어려운 상황이라고 합니다.
 >
->이에 N-PAI와의 파트너십 일환으로 온라인 간담회를 제안하고자 합니다:
+>이에 SVAIN와의 파트너십 일환으로 온라인 간담회를 제안하고자 합니다:
 >
->고려대 경영대 교수님들 ↔ N-PAI (정회원) volunteer들~
+>고려대 경영대 교수님들 ↔ SVAIN (정회원) volunteer들~
 >
 >우리가 제공: Data-driven approach, AI/ML 실무 know-how, Silicon Valley 산업계/학계 인사이트 및 사례
 >우리가 배움: 학술적 관점과 이론적 프레임워크
 >
->N-PAI 정회원분들의 본격적인 대외 활동이자 실질적인 임팩트를 만드는 기회가 될 것 같습니다!
+>SVAIN 정회원분들의 본격적인 대외 활동이자 실질적인 임팩트를 만드는 기회가 될 것 같습니다!
 >또한 저명한 경영대 교수님들과 활발한 networking을 할 수 있는 기회가 될 것입니다!
 >추후 산학 연계 등도 활발하게 추진해 볼 수 있을 듯 합니다! - 즉 단순히 산업/marketing/sales/engineering 문제만이 아닌 조직학/사회학 등의 전공자도 있을테니 조직관리 면에서도 도움을 받을 수 있을 듯 해요! :)
 >
@@ -606,9 +606,9 @@ toc_sticky: true
 >
 >Krafton은 이미 100명 이상의 AI/ML 석박사 인력을 보유하고 있지만, 역시 부서 간 사일로 문제도 존재하더군요.
 >
->이 분이 속한 팀(AI 기반 게임 개발팀)이 조만간 Silicon Valley를 방문할 예정인데, N-PAI와 joint hackathon 형식의 행사를 공동 개최할 가능성이 있습니다. 아직 초기 단계라 구체화되는 대로 다시 공유드리겠습니다! - 현재 활발하게 develope 중입니다! ㅎ
+>이 분이 속한 팀(AI 기반 게임 개발팀)이 조만간 Silicon Valley를 방문할 예정인데, SVAIN와 joint hackathon 형식의 행사를 공동 개최할 가능성이 있습니다. 아직 초기 단계라 구체화되는 대로 다시 공유드리겠습니다! - 현재 활발하게 develope 중입니다! ㅎ
 >
->두 가지 모두 N-PAI의 영향력을 확장하고 실질적인 가치를 창출할 수 있는 기회라고 생각됩니다. 여러분의 고견과 피드백을 부탁드립니다! 🙏
+>두 가지 모두 SVAIN의 영향력을 확장하고 실질적인 가치를 창출할 수 있는 기회라고 생각됩니다. 여러분의 고견과 피드백을 부탁드립니다! 🙏
 >
 >[윤성희](https://sungheeyun.github.io) 드림
 
@@ -617,16 +617,16 @@ toc_sticky: true
 {: .notice--info}
 > [Chanik](https://www.linkedin.com/in/chanik-park-14878b32/){:target="_blank"} @ Sat Oct 11 10:49 PDT 2025
 >
-> 안녕하세요. N-PAI가 많은 분들의 열정과 도움으로 회를 거듭할수록 참여가 확대되고 있음에 큰 보람을 느낍니다. 다음 11월에는 K-ASIC와 함께 AI 반도체 분야에서 좋은 분들 모시고 심도 높은 교류를 갖고자 합니다.
-> 이번에는 80여명에 달하는 저희 N-PAI 정회원 분들께 주제/연사 섭외의 우선권을 드리고자 합니다.
+> 안녕하세요. SVAIN가 많은 분들의 열정과 도움으로 회를 거듭할수록 참여가 확대되고 있음에 큰 보람을 느낍니다. 다음 11월에는 K-ASIC와 함께 AI 반도체 분야에서 좋은 분들 모시고 심도 높은 교류를 갖고자 합니다.
+> 이번에는 80여명에 달하는 저희 SVAIN 정회원 분들께 주제/연사 섭외의 우선권을 드리고자 합니다.
 >
-> 본인 혹은 지인중에 11월 12일 N-PAI/K-ASIC 공동 포럼에 연사로 추천하실 분이 있으시면 [윤성희님](https://sungheeyun.github.io)이나 저에게 개인톡으로 알려주시면 감사하겠습니다 ㅎㅎ
+> 본인 혹은 지인중에 11월 12일 SVAIN/K-ASIC 공동 포럼에 연사로 추천하실 분이 있으시면 [윤성희님](https://sungheeyun.github.io)이나 저에게 개인톡으로 알려주시면 감사하겠습니다 ㅎㅎ
 >
 > 참고로 아래는 [윤성희님](https://sungheeyun.github.io)이 정리해주신 11월 포럼의 취지오니 참고하시기 바랍니다.
 >
 > ~~~~~~~~~~~~~~~~~~~~~~~~~
 > <br>
-> 11월 N-PAI × K-ASIC Co-hosting Forum의 의의意義
+> 11월 SVAIN × K-ASIC Co-hosting Forum의 의의意義
 >
 > AI 생태계에 대한 일반적인 담론은 AI Software Service(e.g., ChatGPT, Claude, Grok), 알고리즘(e.g., GPT-4o), 소프트웨어 툴체인(e.g., MCP), 그리고 응용 분야(e.g., biotech, robotics, physical AI, mobility, industrial AI)에 편중되는 경향이 있습니다.
 >
@@ -649,7 +649,7 @@ toc_sticky: true
 >
 > AI의 지속가능한 발전을 이해하고 선도하기 위해서는 hardware, 특히 AI semiconductor ecosystem에 대한 심층적 이해가 필수불가결합니다.
 >
-> 이러한 인식 하에, K-ASIC과 N-PAI의 전략적 제휴를 통한 co-hosting Forum은 단순한 기술 교류를 넘어서는 의미를 갖습니다. 본 행사는 AI 생태계의 가장 foundational layer인 silicon 및 semiconductor architecture를 조명하며, 한국과 미국 양국의 AI semiconductor innovation leadership을 연계하는 전략적 플랫폼으로 기능합니다.
+> 이러한 인식 하에, K-ASIC과 SVAIN의 전략적 제휴를 통한 co-hosting Forum은 단순한 기술 교류를 넘어서는 의미를 갖습니다. 본 행사는 AI 생태계의 가장 foundational layer인 silicon 및 semiconductor architecture를 조명하며, 한국과 미국 양국의 AI semiconductor innovation leadership을 연계하는 전략적 플랫폼으로 기능합니다.
 >
 > 이것이 바로 본 Forum의 주제를 "The AI Silicon Race: Korea-US Innovation Leadership"으로 설정한 근본적 이유입니다. 본 행사는 AI의 미래가 algorithm만이 아닌 silicon 위에 구축된다는 핵심 통찰을 공유하고, 한미 양국의 semiconductor 역량을 결집하여 글로벌 AI 생태계의 지속가능한 발전을 모색하는 장이 될 것입니다.
 
@@ -658,16 +658,16 @@ toc_sticky: true
 {: .notice--info}
 > [Sunghee](https://sungheeyun.github.io) @ Mon Oct 13 12:59 PDT 2025
 >
-> 그리고 지난번엔 10/7에 있었던 "실리콘벨리 한인 전문가 간담회"에 한국에서 오신 국회 AI 정책 관련자 (국회 의원 4명), 총영사관 AI 담당 영사님, big tech 관계자, investor, bio tech startup 대표님들을 모시고 - 여기서 N-PAI가 KOTRA와 맺은 Strategic Alliances의 동의 사항 중 하나로 -
+> 그리고 지난번엔 10/7에 있었던 "실리콘벨리 한인 전문가 간담회"에 한국에서 오신 국회 AI 정책 관련자 (국회 의원 4명), 총영사관 AI 담당 영사님, big tech 관계자, investor, bio tech startup 대표님들을 모시고 - 여기서 SVAIN가 KOTRA와 맺은 Strategic Alliances의 동의 사항 중 하나로 -
 > [https://k-privateai.github.io/seminar-reflections/11#the-perpetual-alliance-between-k-pai-and-kotra-silicon-valley](https://k-privateai.github.io/seminar-reflections/11#the-perpetual-alliance-between-k-pai-and-kotra-silicon-valley) -
-> 즉 N-PAI의 Technical Consulation execution 입장에서 인력 풀을 추천/제공 해 드렸었는데 - 했는데 정말 결정적인 발언들을 해 주시고 간담회를 주도해 주셨습니다! 교수님을 추천했던 제가 다 뿌듯했습니다! :) @[편재호](https://www.linkedin.com/in/jae-h-pyeon-a8563399/){:target="_blank"}
+> 즉 SVAIN의 Technical Consulation execution 입장에서 인력 풀을 추천/제공 해 드렸었는데 - 했는데 정말 결정적인 발언들을 해 주시고 간담회를 주도해 주셨습니다! 교수님을 추천했던 제가 다 뿌듯했습니다! :) @[편재호](https://www.linkedin.com/in/jae-h-pyeon-a8563399/){:target="_blank"}
 
 ### Minha introduces Google Labs!
 
 {: .notice--info}
 > [Sunghee](https://sungheeyun.github.io) @ Sun Oct 12 11:23 PDT 2025
 >
-> 그리고 (N-PAI 차원이 아니라) 걘적으로 기획/추진/실행했던 춤추는 지휘자 마에스트로 백윤학 교수님을 모시고~ 지난 주 토요일에 스탠포드에서 했던 그 문화행사文化行事! 후기後記가 나왔음을 알려 드립니다! ㅎㅎ -
+> 그리고 (SVAIN 차원이 아니라) 걘적으로 기획/추진/실행했던 춤추는 지휘자 마에스트로 백윤학 교수님을 모시고~ 지난 주 토요일에 스탠포드에서 했던 그 문화행사文化行事! 후기後記가 나왔음을 알려 드립니다! ㅎㅎ -
 > [https://sungheeyun.github.io/reflections/harmony-across-generations](https://sungheeyun.github.io/reflections/harmony-across-generations) - 사람들 feedback도 좀 모았습니다! :) -
 > [https://sungheeyun.github.io/reflections/harmony-across-generations#feedback-from-the-audience](https://sungheeyun.github.io/reflections/harmony-across-generations#feedback-from-the-audience)
 >
@@ -695,7 +695,7 @@ toc_sticky: true
 >
 > [Sunghee](https://sungheeyun.github.io) @ Sun Oct 12 23:05 PDT 2025
 >
->연말에~ 남우 주연 상 / 여우 주연 상.. 처럼 뭔가 기여도에 따라 상을 드리는 것도 생각해 봐야 겠어요~ :) !!! ㅎㅎ N-PAI 백상 예술 시상식~ ㅎ
+>연말에~ 남우 주연 상 / 여우 주연 상.. 처럼 뭔가 기여도에 따라 상을 드리는 것도 생각해 봐야 겠어요~ :) !!! ㅎㅎ SVAIN 백상 예술 시상식~ ㅎ
 >
 > [Sunghee](https://sungheeyun.github.io) @ Sun Oct 12 23:10 PDT 2025
 >
@@ -795,6 +795,6 @@ toc_sticky: true
 {: .notice--info}
 > [Sunghee](https://sungheeyun.github.io) @ Sun Oct 12 11:23 PDT 2025
 >
-> 그리고 (N-PAI 차원이 아니라) 걘적으로 기획/추진/실행했던 춤추는 지휘자 마에스트로 백윤학 교수님을 모시고~ 지난 주 토요일에 스탠포드에서 했던 그 문화행사文化行事! 후기後記가 나왔음을 알려 드립니다! ㅎㅎ -
+> 그리고 (SVAIN 차원이 아니라) 걘적으로 기획/추진/실행했던 춤추는 지휘자 마에스트로 백윤학 교수님을 모시고~ 지난 주 토요일에 스탠포드에서 했던 그 문화행사文化行事! 후기後記가 나왔음을 알려 드립니다! ㅎㅎ -
 > [https://sungheeyun.github.io/reflections/harmony-across-generations](https://sungheeyun.github.io/reflections/harmony-across-generations) - 사람들 feedback도 좀 모았습니다! :) -
 > [https://sungheeyun.github.io/reflections/harmony-across-generations#feedback-from-the-audience](https://sungheeyun.github.io/reflections/harmony-across-generations#feedback-from-the-audience)

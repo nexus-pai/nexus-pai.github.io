@@ -1,5 +1,5 @@
 """
-Collection of N-PAI registrants
+Collection of SVAIN registrants
 """
 
 from logging import getLogger, Logger

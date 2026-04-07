@@ -1,7 +1,7 @@
 ---
 date: Sun Apr 13 21:38:43 PDT 2025
 last_modified_at: Wed Apr 23 00:34:29 PDT 2025
-title: "N-PAI partners with K-BioX! Advancing Humanity &ndash; Bio and Medical Technology's AI Revolution!"
+title: "SVAIN partners with K-BioX! Advancing Humanity &ndash; Bio and Medical Technology's AI Revolution!"
 permalink: /event-announcements/06
 categories:
  - blog
@@ -30,7 +30,7 @@ to share this event!
 ---
 Pioneers of Innovation, Healers of Tomorrow, and Digital Visionaries!
 
-We are excited to invite you to the sixth edition of the [N-PAI Forum](/),
+We are excited to invite you to the sixth edition of the [SVAIN Forum](/),
 a premier gathering for researchers, industry leaders,
 and innovators exploring the future of AI-enhancing technologies. For this special event,
 we are thrilled to partner with [K-BioX](https://kbiox.net/),
@@ -48,8 +48,8 @@ Join us for an evening of insightful discussions, networking, and cutting-edge r
 Check out [{{ post1.title }}]({{ post1.url }}) to see how we enjoy the last event tremendously!
 
 - <font color="red"><strong>Please RSVP via <a href="https://lu.ma/c4fn7lq7">this link</a>!</strong></font>
-- Please visit [N-PAI Membership](/membership)
-to learn about our N-PAI membership
+- Please visit [SVAIN Membership](/membership)
+to learn about our SVAIN membership
 for the qualification and all exclusive perks you can enjoy!
 
 ## Special Thanks to Our Sponsor
@@ -74,7 +74,7 @@ Stay tuned for information about special prizes and giveaways at this event!
 
 # Schedule Overview
 
-[Program and Announcements](/resource/seminars/06 - 22-Apr-2025/N-PAI - Biotech - Apr-2025.pdf)
+[Program and Announcements](/resource/seminars/06 - 22-Apr-2025/K-PAI - Biotech - Apr-2025.pdf)
 
 ## Reception & Networking (5pm ~ 6pm)
 
@@ -91,7 +91,7 @@ you will broaden your network even larger!
 
 - Speaker: [HoJoon Lee](https://www.linkedin.com/in/hojoonlee/) @ [Stanford University School of Medicine](https://online.stanford.edu/schools-centers/stanford-school-medicine)
 - Time: 6pm ~ 6:30pm
-- [Presentation slides](/resource/seminars/06 - 22-Apr-2025/N-PAI_HoJoonLee.pdf)
+- [Presentation slides](/resource/seminars/06 - 22-Apr-2025/K-PAI_HoJoonLee.pdf)
 
 The Artificial intelligence (AI) is reshaping healthcare and biomedical research,
 driving unprecedented advancements in personalized medicine.
@@ -105,7 +105,7 @@ in delivering precision medicine to improve outcomes for cancer patients.
 
 - Speaker: [Donghoon Kim](https://www.linkedin.com/in/donghoon-kim-983149151/) @ [Stanford Center for Advanced Functional Neuroimaging (CAFN)](https://med.stanford.edu/content/sm/cafn.html/)
 - Time: 6:30pm ~ 7pm
-- [Presentation slides](/resource/seminars/06 - 22-Apr-2025/N-PAI_K-BioX_talk_DK.pdf)
+- [Presentation slides](/resource/seminars/06 - 22-Apr-2025/K-PAI_K-BioX_talk_DK.pdf)
 
 This presentation will explore the applications of artificial intelligence in medical imaging, with a focus on its roles in image analysis, interpretation, and clinical decision support. The speaker will discuss how AI technologies are enhancing diagnostic accuracy, workflow efficiency, and treatment planning across various medical specialties.
 
@@ -136,8 +136,8 @@ The event is tailored to a diverse yet focused audience. It caters to:
 
 # Hosting Organizations
 
-This event is jointly hosted by [N-PAI](/) and [K-BioX](https://kbiox.net/)!
-The primary hosting organization of N-PAI is <a href="https://imdarc.snu.ac.kr/?page_id=2129&lang=en">SNU Private AI Initiative / Homomorphic Encryption Research Center (HERC)</a>!
+This event is jointly hosted by [SVAIN](/) and [K-BioX](https://kbiox.net/)!
+The primary hosting organization of SVAIN is <a href="https://imdarc.snu.ac.kr/?page_id=2129&lang=en">SNU Private AI Initiative / Homomorphic Encryption Research Center (HERC)</a>!
 
 <div class="img-container-justified">
 &nbsp;
@@ -151,4 +151,4 @@ We look forward to your participation in this exciting forum! If you have any qu
 
 Best regards,
 
-[N-PAI](/) and [K-BioX](https://kbiox.net/) Organizing Committee
+[SVAIN](/) and [K-BioX](https://kbiox.net/) Organizing Committee

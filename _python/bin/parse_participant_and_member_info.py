@@ -1,5 +1,5 @@
 """
-parse .tsv file for the Google form summary for the N-PAI 3rd seminar
+parse .tsv file for the Google form summary for the SVAIN 3rd seminar
 """
 
 import os
@@ -24,14 +24,14 @@ if __name__ == "__main__":
     registrants_dir: str = os.path.join(project_root, "resource/registrants")
 
     data_12: DataFrame = read_csv(
-        os.path.join(registrants_dir, "N-PAI Members - participants.tsv"),
+        os.path.join(registrants_dir, "SVAIN Members - participants.tsv"),
         sep="\t",
     )
 
     data_3: DataFrame = read_csv(
         os.path.join(
             registrants_dir,
-            "Frozen The 3rd N-PAI Seminar Application (Responses) - Form Responses 1.tsv",
+            "Frozen The 3rd SVAIN Seminar Application (Responses) - Form Responses 1.tsv",
         ),
         sep="\t",
     )
