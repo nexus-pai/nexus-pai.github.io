@@ -1,5 +1,5 @@
 ---
-last_modified_at: Tue Apr 28 22:46:31 PDT 2026
+last_modified_at: Tue Apr 28 23:37:23 PDT 2026
 layout: single
 title: Committees
 permalink: /committee/
@@ -75,7 +75,7 @@ author_profile: false
 </tr>
 <tr>
 <td class="role" style="color: #0000dd;">
-	Chair of the Board
+	Board Chair
 </td>
 <td class="kor-name">
 	윤성희
@@ -87,7 +87,7 @@ author_profile: false
 <tr>
 <td class="role" style="color: #0000dd;">
 </td>
-<td class="kor-name">
+<td class="kor-name" id="jeff">
 	이보형
 </td>
 <td class="eng-name">
@@ -131,7 +131,7 @@ author_profile: false
 </tr>
 <tr>
 <td class="role" style="color: #0000dd;">
-	Committee Chair
+	Vision &amp; Principles Committee Chair
 </td>
 <td class="kor-name">
 	윤성희
@@ -177,13 +177,13 @@ author_profile: false
 <table class="borderless-table">
 <tr>
 <td class="role" style="color: #0000dd;">
-	Tech &amp; Social Media Leader
+	UI/UX Lead
 </td>
-<td class="kor-name">
-	윤성희
+<td class="kor-name" id="soo">
+	김수연
 </td>
 <td class="eng-name">
-	<a target="_blank" href="https://sungheeyun.github.io/">Sunghee Yun</a>
+	<a target="_blank" href="https://www.linkedin.com/in/callmesoo/">Soo Kim</a>
 </td>
 </tr>
 <tr>
@@ -210,13 +210,13 @@ author_profile: false
 </tr>
 <tr>
 <td class="role" style="color: #0000dd;">
-	Website &amp; Content Lead
+	Tech &amp; Social Media Committee Chair
 </td>
 <td class="kor-name">
-	정주영
+	윤성희
 </td>
 <td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/juyoung-jeong/">JuYoung Jeong</a>
+	<a target="_blank" href="https://sungheeyun.github.io/">Sunghee Yun</a>
 </td>
 </tr>
 <tr>
@@ -232,13 +232,13 @@ author_profile: false
 </tr>
 <tr>
 <td class="role" style="color: #0000dd;">
-	UI/UX Lead
+	Website &amp; Content Lead
 </td>
-<td class="kor-name" id="soo">
-	김수연
+<td class="kor-name">
+	정주영
 </td>
 <td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/callmesoo/">Soo Kim</a>
+	<a target="_blank" href="https://www.linkedin.com/in/juyoung-jeong/">JuYoung Jeong</a>
 </td>
 </tr>
 </table>
@@ -247,25 +247,33 @@ author_profile: false
 
 <table class="borderless-table">
 <tr>
-<td class="role" style="color: #0000dd;">
-	K-PAI Nexus Leader
+<td>
 </td>
 <td class="kor-name">
-	윤성희
+	김해윤
 </td>
 <td class="eng-name">
-	<a target="_blank" href="https://sungheeyun.github.io/">Sunghee Yun</a>
+	<a target="_blank" href="https://www.linkedin.com/in/haeyunkimsv/">Haeyun Kim</a>
 </td>
 </tr>
 <tr>
-<td class="role" style="color: #0000dd;" id="hospitality-and-catering-director">
-	Community Engagement Chair
+<td>
 </td>
 <td class="kor-name">
-	정미숙
+	배재혁
 </td>
 <td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/misook-chung/">MiSook Chung</a>
+	<a target="_blank" href="https://www.linkedin.com/in/jaehyeok-bae-57b866218/">Jaehyeok Bae</a>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td class="kor-name">
+	선우동훈
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/sunwoodonghoon/">Kain Sunwoo</a>
 </td>
 </tr>
 <tr>
@@ -277,6 +285,17 @@ author_profile: false
 </td>
 <td class="eng-name">
 	<a target="_blank" href="https://www.linkedin.com/in/youngwook-hayden-song-a5177019/">Youngwook (Hayden) Song</a>
+</td>
+</tr>
+<tr>
+<td class="role" style="color: #0000dd;">
+	K-PAI Nexus Leader
+</td>
+<td class="kor-name">
+	윤성희
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://sungheeyun.github.io/">Sunghee Yun</a>
 </td>
 </tr>
 <tr>
@@ -294,36 +313,6 @@ author_profile: false
 <td>
 </td>
 <td class="kor-name">
-	배재혁
-</td>
-<td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/jaehyeok-bae-57b866218/">Jaehyeok Bae</a>
-</td>
-</tr>
-<tr>
-<td>
-</td>
-<td class="kor-name">
-	정세희
-</td>
-<td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/sehui-jeong-0509241a4/">Sehui Jeong</a>
-</td>
-</tr>
-<tr>
-<td>
-</td>
-<td class="kor-name">
-	장하군
-</td>
-<td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/hagoon-jang-79766a54/">Hagoon Jang</a>
-</td>
-</tr>
-<tr>
-<td>
-</td>
-<td class="kor-name">
 	이시연
 </td>
 <td class="eng-name">
@@ -334,50 +323,10 @@ author_profile: false
 <td>
 </td>
 <td class="kor-name">
-	허예랑
+	이은진
 </td>
 <td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/yerang-d-hur-5378564/">Daniel Hur</a>
-</td>
-</tr>
-<tr>
-<td>
-</td>
-<td class="kor-name">
-	진재현
-</td>
-<td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/austinnnjin/">Austin Jin</a>
-</td>
-</tr>
-<tr>
-<td>
-</td>
-<td class="kor-name">
-	김해윤
-</td>
-<td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/haeyunkimsv/">Haeyun Kim</a>
-</td>
-</tr>
-<tr>
-<td>
-</td>
-<td class="kor-name">
-	최세영
-</td>
-<td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/seyoung-choi-060670286/">Seyoung Choi</a>
-</td>
-</tr>
-<tr>
-<td>
-</td>
-<td class="kor-name">
-	선우동훈
-</td>
-<td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/sunwoodonghoon/">Kain Sunwoo</a>
+	<a target="_blank" href="https://www.linkedin.com/in/leeeunjin/">EunJin Lee</a>
 </td>
 </tr>
 <tr>
@@ -394,6 +343,47 @@ author_profile: false
 <td>
 </td>
 <td class="kor-name">
+	장하군
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/hagoon-jang-79766a54/">Hagoon Jang</a>
+</td>
+</tr>
+<tr>
+<td class="role" style="color: #0000dd;" id="hospitality-and-catering-director">
+	Community Engagement Chair
+</td>
+<td class="kor-name">
+	정미숙
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/misook-chung/">MiSook Chung</a>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td class="kor-name">
+	정세희
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/sehui-jeong-0509241a4/">Sehui Jeong</a>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td class="kor-name">
+	진재현
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/austinnnjin/">Austin Jin</a>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td class="kor-name">
 	최경환
 </td>
 <td class="eng-name">
@@ -404,48 +394,20 @@ author_profile: false
 <td>
 </td>
 <td class="kor-name">
-	이은진
+	최세영
 </td>
 <td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/leeeunjin/">EunJin Lee</a>
-</td>
-</tr>
-</table>
-
-<!--
-# SNU School of Eng Internship Committee {#snu-internship-committee}
--->
-
-<!--table class="borderless-table">
-<tr>
-<td class="role" style="color: #0000dd;">
-	Committee Chair
-</td>
-<td class="kor-name">
-	윤성희
-</td>
-<td class="eng-name">
-	<a target="_blank" href="https://sungheeyun.github.io/">Sunghee Yun</a>
+	<a target="_blank" href="https://www.linkedin.com/in/seyoung-choi-060670286/">Seyoung Choi</a>
 </td>
 </tr>
 <tr>
-<td class="role" style="color: #0000dd;">
-</td>
-<td class="kor-name">
-	박찬익
-</td>
-<td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/chanik-park-14878b32/">Chanik Park</a>
-</td>
-</tr>
-<tr>
-<td class="role" style="color: #0000dd;">
+<td>
 </td>
 <td class="kor-name">
 	허예랑
 </td>
 <td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/yerang-d-hur-5378564/">Yerang Hur</a>
+	<a target="_blank" href="https://www.linkedin.com/in/yerang-d-hur-5378564/">Daniel Hur</a>
 </td>
 </tr>
-</table-->
+</table>
