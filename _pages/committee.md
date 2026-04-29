@@ -1,5 +1,5 @@
 ---
-last_modified_at: Tue Apr 28 19:39:47 PDT 2026
+last_modified_at: Tue Apr 28 19:41:21 PDT 2026
 layout: single
 title: Committees
 permalink: /committee/
@@ -55,7 +55,7 @@ author_profile: false
 <table class="borderless-table">
 <tr>
 <td class="role" style="color: #0000dd;">
-	SVAIN Leader
+	K-PAI Nexus Leader
 </td>
 <td class="kor-name">
 	윤성희
