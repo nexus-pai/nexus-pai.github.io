@@ -31,16 +31,16 @@ to share this event!
 <hr>
 Greetings, Silicon Valley Innovators, Visionaries &amp; Tech Enthusiasts!
 
-Thanks to your enthusiastic participation and support, the first two Silicon Valley Private AI Forum (SVAIN) seminars were a resounding success!
+Thanks to your enthusiastic participation and support, the first two Silicon Valley Private AI Forum (K-PAI Nexus) seminars were a resounding success!
 The second seminar, in particular, brought together a number of remarkable professionals—entrepreneurs, investors,
 engineers, scientists, market analysts, HR leaders, and even journalists—sparking vibrant discussions and active networking.
 The energy was so palpable that it was hard to wrap up the event amidst the lively exchanges!
-(Check out [our reflections on the 2nd SVAIN Seminar](/blog/PDT-K-PAI-2nd-seminar/)).
+(Check out [our reflections on the 2nd K-PAI Nexus Seminar](/blog/PDT-K-PAI-2nd-seminar/)).
 
-Following the success of our first two SVAIN seminars, we're thrilled to invite you to out next exciting event!
+Following the success of our first two K-PAI Nexus seminars, we're thrilled to invite you to out next exciting event!
 
 <!--h1 id="3rd-seminar">
-The 3rd SVAIN Seminar
+The 3rd K-PAI Nexus Seminar
 </h1-->
 
 - Date: Jan 22, 2025 (wed)
@@ -67,9 +67,9 @@ within our network.
 </blockquote>
 
 <blockquote>
-Anyone who attends two seminars will automatically be designated as a <font class="emph">SVAIN regular member</font>
+Anyone who attends two seminars will automatically be designated as a <font class="emph">K-PAI Nexus regular member</font>
 <!--(unless they opt out)-->
-while attendees of any single seminar will be designated as <font class="emph">SVAIN associate members</font>
+while attendees of any single seminar will be designated as <font class="emph">K-PAI Nexus associate members</font>
 (unless they opt out).
 Regular members enjoy exclusive benefits, including access to regular and special gatherings for networking and socializing,
 in addition to participation in official seminars.
@@ -144,7 +144,7 @@ technologists, entrepreneurs, scientists, investors, journalists, professors, an
 
 <h2 id="hosting-organization">Hosting organization</h2>
 
-The hosting organization of SVAIN is
+The hosting organization of K-PAI Nexus is
 <a href="https://imdarc.snu.ac.kr/?page_id=2129&lang=en">SNU Private AI Initiative / Homomorphic Encryption Research Center (HERC)</a>!
 
 <div class="img-container-justified">
@@ -180,6 +180,6 @@ If you have any questions or topics you’d like to propose, feel free to reach 
 
 Best regards,
 
-[SVAIN](/) Organizing Committee
+[K-PAI Nexus](/) Organizing Committee
 <br>
 email: <a href="mailto:k.private.ai@gmail.com">k.private.ai@gmail.com</a>

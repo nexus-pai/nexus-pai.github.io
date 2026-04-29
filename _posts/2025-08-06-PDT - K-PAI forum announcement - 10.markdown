@@ -35,7 +35,7 @@ to share this event!
 ---
 Visionaries, Legal Pioneers, and Champions of Human-Centric AI!
 
-We are thrilled to invite you to the tenth edition of the [SVAIN Forum](/),
+We are thrilled to invite you to the tenth edition of the [K-PAI Nexus Forum](/),
 a premier gathering for researchers, industry leaders,
 and innovators exploring the frontier of privacy-first AI technologies.
 Following the tremendous success of our ["Fortress Code - The New Frontier of AI Security"](/event-announcements/09) forum,
@@ -57,7 +57,7 @@ Check out [{{ post.title }}]({{ post.url }}) to see how our previous Fortress Co
 GENIANS and Arizona State University!
 
 - <font color="red"><strong>Please RSVP via <a href="https://lu.ma/lv2kqmmu">this link</a>!</strong></font>
-- Please visit [SVAIN Membership](/membership) to learn about our SVAIN membership for the qualification and all exclusive perks you can enjoy!
+- Please visit [K-PAI Nexus Membership](/membership) to learn about our K-PAI Nexus membership for the qualification and all exclusive perks you can enjoy!
 
 <!--
 ## Special Thanks to Our Sponsors
@@ -85,7 +85,7 @@ Experience our signature networking reception featuring a carefully curated sele
 
 ### Welcome Address
 
-- **Speaker**: [SVAIN Organizing Committee](/committee)
+- **Speaker**: [K-PAI Nexus Organizing Committee](/committee)
 - **Time**: 6pm ~ 6:10pm
 - [slides](https://sungheeyun-seminars-01.github.io/resource/k-privateai.github.io/10 - 20-Aug-2025/K-PAI - Biotech - Aug-2025.pdf){:target="_blank"}
 
@@ -135,9 +135,9 @@ An interactive dialogue between our speakers and the audience, exploring how leg
 
 ## Further Networking & Deep Discussions (7:30pm ~ 8pm)
 
-SVAIN Members' favorite time! The very moment everyone awaits!
+K-PAI Nexus Members' favorite time! The very moment everyone awaits!
 –
-This extended networking session provides a unique opportunity to engage directly with our expert speakers and fellow attendees. **Connect with legal professionals** specializing in AI regulation, **engage with humanistic leaders** pioneering new approaches to AI ethics, and **collaborate with engineers** building compliant AI systems. **SVAIN members are encouraged to introduce themselves and their companies**, creating opportunities for meaningful business connections and potential collaborations. Previous forums have seen transformative partnerships emerge during these dynamic discussions, where legal experts, technologists, entrepreneurs, and visionary leaders bridge compliance requirements with humanistic values in real-time conversations.
+This extended networking session provides a unique opportunity to engage directly with our expert speakers and fellow attendees. **Connect with legal professionals** specializing in AI regulation, **engage with humanistic leaders** pioneering new approaches to AI ethics, and **collaborate with engineers** building compliant AI systems. **K-PAI Nexus members are encouraged to introduce themselves and their companies**, creating opportunities for meaningful business connections and potential collaborations. Previous forums have seen transformative partnerships emerge during these dynamic discussions, where legal experts, technologists, entrepreneurs, and visionary leaders bridge compliance requirements with humanistic values in real-time conversations.
 
 # Why Attend?
 
@@ -166,4 +166,4 @@ We look forward to your participation in this transformative forum! If you have 
 
 Best regards,
 
-[SVAIN Committee](/committee)
+[K-PAI Nexus Committee](/committee)

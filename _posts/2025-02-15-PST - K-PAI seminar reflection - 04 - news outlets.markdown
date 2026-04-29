@@ -1,7 +1,7 @@
 ---
 date: Sat Feb 15 21:58:01 PST 2025
 last_modified_at: Thu Jan 22 00:08:15 PST 2026
-title: "Reflections on The 4th SVAIN Forum - news articles and photos"
+title: "Reflections on The 4th K-PAI Nexus Forum - news articles and photos"
 permalink: /seminar-reflections/04/news
 categories:
  - blog

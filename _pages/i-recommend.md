@@ -10,11 +10,11 @@ toc_icon: "cog"
 toc_sticky: true
 ---
 
-Yes, we ARE holding the 2025 SVAIN Best Ownership Award at the end of this year!
+Yes, we ARE holding the 2025 K-PAI Nexus Best Ownership Award at the end of this year!
 &ndash;
 We don't know exactly when or how yet! ^^
 
-SVAIN has become one of the most famous and popular forums in Silicon Valley.
+K-PAI Nexus has become one of the most famous and popular forums in Silicon Valley.
 Considering that we started just a year ago,
 this is an amazing accomplishment.
 When we first searched for sponsors for the January Forum,
@@ -28,7 +28,7 @@ Then came KOTRA, followed by the renowned Altos Ventures!
 Then Erudio Bio, Inc., UClone, and MangoBoost, to name a few!
 
 As we witnessed at the historic September 2025 Forum,
-the historic perpetual partnership between SVAIN and KOTRA Silicon Valley
+the historic perpetual partnership between K-PAI Nexus and KOTRA Silicon Valley
 in the form of a Strategic Alliance
 came so unexpectedly.
 I cannot find the proper words to describe my excitement, sense of achievement, and feeling of being recognized
@@ -46,10 +46,10 @@ with K-BioX, K-ASIC, KOTRA Silicon Valley, and the Consulate General of the Repu
 Moreover, sponsorship for all **<span style="color: red;">SIX</span>** months has been secured!
 Isn't this amazing?
 
-However, I know that <span style="color: red;">without SVAIN members' help and devotion,
+However, I know that <span style="color: red;">without K-PAI Nexus members' help and devotion,
 NONE of this would have been possible!</span>
 So, as a token of appreciation for your sacrifice, devotion, and selfless enthusiasm—not for yourselves, but for others—
-we want to host the SVAIN Best Awards Ceremony!
+we want to host the K-PAI Nexus Best Awards Ceremony!
 
 <!--
 But then ..., how do we nominate people? Like below!
@@ -71,7 +71,7 @@ Proper recognition and appreciation should follow outstanding devotion and sacri
 > making it possible to invite James Rhee, the author of Red Helicopter.
 > I had a pre-planning meeting with her (along with Jennifer and other amazing women) at Paris Baguette in Cupertino one day.
 > During those three full hours, we brainstormed many great ideas,
-> including Jennifer introducing the Red Helicopter platform to attendees at the SVAIN Forum.
+> including Jennifer introducing the Red Helicopter platform to attendees at the K-PAI Nexus Forum.
 > MiSook then followed up with countless details.
 > Coincidentally, I was going through the busiest time ever with Erudio Bio, Inc. and founding a new company,
 > Erudio Bio Korea, Inc., while traveling back and forth between the US and Korea.
@@ -87,7 +87,7 @@ Proper recognition and appreciation should follow outstanding devotion and sacri
 > We enjoyed discussing which subjects James should present at the August 2025 Forum
 > and how we could effectively convey his amazing messages.
 >
-> MiSook also helped find accommodation for James during his Silicon Valley visit for the SVAIN Forum
+> MiSook also helped find accommodation for James during his Silicon Valley visit for the K-PAI Nexus Forum
 > and drove him back and forth from the airport to all his destinations!
 > She even arranged a meeting with Prof. GiWook Shin at Stanford University,
 > a renowned professor,
@@ -96,10 +96,10 @@ Proper recognition and appreciation should follow outstanding devotion and sacri
 > I saw tremendous potential for future synergy between them
 > in making this world a better place!
 >
-> MiSook is one of those people I truly, deeply, from the bottom of my heart, want to work with as a SVAIN Committee Member!
+> MiSook is one of those people I truly, deeply, from the bottom of my heart, want to work with as a K-PAI Nexus Committee Member!
 >
 > For the aforementioned reasons,
-> I strongly recommend MiSook for the 2025 SVAIN Best Ownership Award nomination!
+> I strongly recommend MiSook for the 2025 K-PAI Nexus Best Ownership Award nomination!
 
 # [Sunghee](https://sungheeyun.github.io){:target="_blank"} recommends Daniel Huh!
 
@@ -111,24 +111,24 @@ Proper recognition and appreciation should follow outstanding devotion and sacri
 > Yes, energy has become an increasingly important topic, ironically with the advent of ChatGPT in 2022
 > (refer to my blog post about [critical energy issues incurred by the new AI era represented by LLMs](https://sungheeyun.github.io/ai/llm/energy-challenge)),
 > but for some reason, it's not easy to find Korean-speaking speakers in this field!
-> (I thought that if only we relaxed the language restriction, SVAIN would be far more impactful!)
+> (I thought that if only we relaxed the language restriction, K-PAI Nexus would be far more impactful!)
 >
 > But at the September 2025 Forum, which took place three months after that initial meeting,
 > Daniel created a miracle. Not one, not two, not three, but FOUR amazing, perfectly suited speakers
 > stood at the podium of KOTRA's Alaska Auditorium,
-> where the historic strategic alliance between SVAIN and KOTRA Silicon Valley opened the Forum!
+> where the historic strategic alliance between K-PAI Nexus and KOTRA Silicon Valley opened the Forum!
 >
 > However, I knew it wasn't so much a miracle. Daniel spent tremendous effort with amazing enthusiasm and energy
 > to find those four speakers over the entire three months!
 > He demonstrated great leadership, followership, and devotion to this honorable cause.
 >
-> I thought to myself that this is the epitome of exemplification. He was more than a SVAIN Committee member.
+> I thought to myself that this is the epitome of exemplification. He was more than a K-PAI Nexus Committee member.
 > I sometimes felt ashamed because I couldn't match his level of devotion and sacrifice!
 > I thought,
-> "Ah, thanks to these unseen devotions and efforts, SVAIN has become what it is today, and because of this,
+> "Ah, thanks to these unseen devotions and efforts, K-PAI Nexus has become what it is today, and because of this,
 > it will flourish even more!"
 >
-> Daniel is one of those people I truly, deeply, from the bottom of my heart, want to work with as a SVAIN Committee Member!
+> Daniel is one of those people I truly, deeply, from the bottom of my heart, want to work with as a K-PAI Nexus Committee Member!
 >
 > For the aforementioned reasons,
-> I once again strongly recommend Daniel for the 2025 SVAIN Best Ownership Award nomination (just as strongly as I recommend MiSook!)!
+> I once again strongly recommend Daniel for the 2025 K-PAI Nexus Best Ownership Award nomination (just as strongly as I recommend MiSook!)!

@@ -1,7 +1,7 @@
 ---
 date: Sun Apr 13 21:38:43 PDT 2025
 last_modified_at: Wed Apr 23 00:34:29 PDT 2025
-title: "SVAIN partners with K-BioX! Advancing Humanity &ndash; Bio and Medical Technology's AI Revolution!"
+title: "K-PAI Nexus partners with K-BioX! Advancing Humanity &ndash; Bio and Medical Technology's AI Revolution!"
 permalink: /event-announcements/06
 categories:
  - blog
@@ -30,7 +30,7 @@ to share this event!
 ---
 Pioneers of Innovation, Healers of Tomorrow, and Digital Visionaries!
 
-We are excited to invite you to the sixth edition of the [SVAIN Forum](/),
+We are excited to invite you to the sixth edition of the [K-PAI Nexus Forum](/),
 a premier gathering for researchers, industry leaders,
 and innovators exploring the future of AI-enhancing technologies. For this special event,
 we are thrilled to partner with [K-BioX](https://kbiox.net/),
@@ -48,8 +48,8 @@ Join us for an evening of insightful discussions, networking, and cutting-edge r
 Check out [{{ post1.title }}]({{ post1.url }}) to see how we enjoy the last event tremendously!
 
 - <font color="red"><strong>Please RSVP via <a href="https://lu.ma/c4fn7lq7">this link</a>!</strong></font>
-- Please visit [SVAIN Membership](/membership)
-to learn about our SVAIN membership
+- Please visit [K-PAI Nexus Membership](/membership)
+to learn about our K-PAI Nexus membership
 for the qualification and all exclusive perks you can enjoy!
 
 ## Special Thanks to Our Sponsor
@@ -136,8 +136,8 @@ The event is tailored to a diverse yet focused audience. It caters to:
 
 # Hosting Organizations
 
-This event is jointly hosted by [SVAIN](/) and [K-BioX](https://kbiox.net/)!
-The primary hosting organization of SVAIN is <a href="https://imdarc.snu.ac.kr/?page_id=2129&lang=en">SNU Private AI Initiative / Homomorphic Encryption Research Center (HERC)</a>!
+This event is jointly hosted by [K-PAI Nexus](/) and [K-BioX](https://kbiox.net/)!
+The primary hosting organization of K-PAI Nexus is <a href="https://imdarc.snu.ac.kr/?page_id=2129&lang=en">SNU Private AI Initiative / Homomorphic Encryption Research Center (HERC)</a>!
 
 <div class="img-container-justified">
 &nbsp;
@@ -151,4 +151,4 @@ We look forward to your participation in this exciting forum! If you have any qu
 
 Best regards,
 
-[SVAIN](/) and [K-BioX](https://kbiox.net/) Organizing Committee
+[K-PAI Nexus](/) and [K-BioX](https://kbiox.net/) Organizing Committee

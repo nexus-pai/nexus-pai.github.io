@@ -43,32 +43,32 @@ To access all the photos and videos taken during [the Forum]({{ page.url }}),
 please click [here](https://drive.google.com/drive/folders/1W2M9qmXbEflpnLu58gCy1ABN7lrabLaG?usp=sharing){:target="_blank"}!
 {: .notice--info}
 
-> The 13th SVAIN Forum marked a historic inflection point—the first joint seminar with K•ASIC revealing the foundational silicon layer that enables all AI innovation. While discourse typically focuses on algorithms and applications, this evening illuminated the essential truth: AI's future is built not only on code but on **silicon**, requiring deep understanding of the semiconductor ecosystem that makes everything possible.
+> The 13th K-PAI Nexus Forum marked a historic inflection point—the first joint seminar with K•ASIC revealing the foundational silicon layer that enables all AI innovation. While discourse typically focuses on algorithms and applications, this evening illuminated the essential truth: AI's future is built not only on code but on **silicon**, requiring deep understanding of the semiconductor ecosystem that makes everything possible.
 
-> <span class="emph">The progression from October's marketing AI focus through November's semiconductor exploration demonstrates SVAIN's evolving sophistication in creating **narrative arcs across forums** rather than treating each event in isolation.</span>
+> <span class="emph">The progression from October's marketing AI focus through November's semiconductor exploration demonstrates K-PAI Nexus's evolving sophistication in creating **narrative arcs across forums** rather than treating each event in isolation.</span>
 
 # A Historic Partnership Takes Shape
 
-## The SVAIN x K•ASIC Strategic Alliance
+## The K-PAI Nexus x K•ASIC Strategic Alliance
 
-[The 13th SVAIN Forum](/event-announcements/13), held on November 12, 2025,
+[The 13th K-PAI Nexus Forum](/event-announcements/13), held on November 12, 2025,
 at [K•ASIC's Innovation Center](https://maps.app.goo.gl/r9KoFnFBuE6M7p6r5){:target="_blank"} in the heart of Silicon Valley,
 represented far more than another successful technical presentation.
-The evening marked the **<font color="red">first joint seminar between <a href="/">SVAIN</a> and <a target="_blank" href="https://www.kasicusa.com/">K•ASIC</a></font>**—a strategic alliance that positions both organizations at the forefront of AI semiconductor innovation and Korea-US technological cooperation.
+The evening marked the **<font color="red">first joint seminar between <a href="/">K-PAI Nexus</a> and <a target="_blank" href="https://www.kasicusa.com/">K•ASIC</a></font>**—a strategic alliance that positions both organizations at the forefront of AI semiconductor innovation and Korea-US technological cooperation.
 
 This partnership transcends simple event co-hosting. As we articulated in the opening remarks, this collaboration addresses the most foundational layer of the AI ecosystem. <span class="emph">Contemporary AI discourse tends to focus heavily on visible layers—software services, algorithms, and applications—while overlooking the semiconductor infrastructure that makes everything possible.</span> Even within technical domains, hardware constitutes the essential pillar: GPUs (Nvidia's dominance, partially, only partially though, by Google's TPUs &#9733;^^&#9734;), HBM (SK hynix's breakthroughs), specialized AI semiconductors (NPUs, DPUs), custom accelerators from tech giants, and what not!
 
-The strategic partnership between [K•ASIC](https://www.kasicusa.com/){:target="_blank"} and [SVAIN](/) illuminates this foundational layer while connecting Korea's and America's semiconductor innovation leadership. This is why we titled this forum **"The AI Silicon Race - Korea-US Innovation Leadership."** The event shares the core insight that AI's future rests on silicon, serving as a venue to explore sustainable development of the global AI ecosystem by consolidating the semiconductor capabilities of both nations.
+The strategic partnership between [K•ASIC](https://www.kasicusa.com/){:target="_blank"} and [K-PAI Nexus](/) illuminates this foundational layer while connecting Korea's and America's semiconductor innovation leadership. This is why we titled this forum **"The AI Silicon Race - Korea-US Innovation Leadership."** The event shares the core insight that AI's future rests on silicon, serving as a venue to explore sustainable development of the global AI ecosystem by consolidating the semiconductor capabilities of both nations.
 
 ## The Significance of Location
 
 K•ASIC's state-of-the-art Innovation Center provided more than just a venue—it embodied the partnership's substance. The facility's comprehensive event support, including premium signage, professional name badges, and exceptional catering, demonstrated **the institutional commitment** underpinning this collaboration. More importantly, the center's role as a bridge between Korean semiconductor excellence and Silicon Valley's AI ecosystem manifested tangibly through the attendee composition - semiconductor engineers from leading chip companies, AI architects designing next-generation NPUs, hardware entrepreneurs building innovative solutions, and researchers spanning computer architecture, electrical engineering, and systems integration.
 
-The reception and networking session (5pm - 5:30pm) in K•ASIC's premium facilities created immediate connections between professionals who are pioneering the next generation of AI silicon. <font color="red">This signature SVAIN networking atmosphere—where genuine technical dialogue emerges naturally rather than through forced mingling—demonstrated how the right venue amplifies community building.</font>
+The reception and networking session (5pm - 5:30pm) in K•ASIC's premium facilities created immediate connections between professionals who are pioneering the next generation of AI silicon. <font color="red">This signature K-PAI Nexus networking atmosphere—where genuine technical dialogue emerges naturally rather than through forced mingling—demonstrated how the right venue amplifies community building.</font>
 
 # Opening Remarks - Framing Silicon as the Invisible Foundation
 
-The evening's opening remarks (5:30pm - 5:40pm) by SVAIN and K•ASIC leadership
+The evening's opening remarks (5:30pm - 5:40pm) by K-PAI Nexus and K•ASIC leadership
 ([Sunghee](https://sungheeyun.github.io), [Austin](https://www.linkedin.com/in/austinnnjin/){:target="_blank"}, and [Kisoo](https://www.linkedin.com/in/kisoo-kim-7838723/){:target="_blank"})
 established the intellectual framework for understanding why this forum represents more than another technical presentation—it illuminates **the most foundational yet frequently overlooked layer of the entire AI ecosystem**.
 
@@ -113,7 +113,7 @@ By **combining Korea's semiconductor manufacturing excellence with Silicon Valle
 
 ## The Mission - Deep Understanding for Sustainable AI
 
-The opening remarks crystallized SVAIN's evolving mission: **deep understanding of AI semiconductor ecosystem is essential for sustainable AI development**. This represents a maturation from focusing solely on privacy-preserving techniques or algorithmic innovation toward recognizing that **AI's future depends fundamentally on silicon realities**.
+The opening remarks crystallized K-PAI Nexus's evolving mission: **deep understanding of AI semiconductor ecosystem is essential for sustainable AI development**. This represents a maturation from focusing solely on privacy-preserving techniques or algorithmic innovation toward recognizing that **AI's future depends fundamentally on silicon realities**.
 
 Three critical dimensions emerged:
 - **Technical Sustainability** - without continued semiconductor innovation—more efficient architectures, novel memory solutions, advanced packaging—AI scaling faces hard physical limits regardless of algorithmic breakthroughs.
@@ -124,7 +124,7 @@ The evening's presentations would explore these dimensions through three complem
 
 ## Make Tonight Count - A Call to Active Engagement
 
-The opening concluded with an explicit invitation to **<span style="color:red;">active participation</span>** rather than passive attendance—five specific imperatives that reflect SVAIN's community-building philosophy:
+The opening concluded with an explicit invitation to **<span style="color:red;">active participation</span>** rather than passive attendance—five specific imperatives that reflect K-PAI Nexus's community-building philosophy:
 
 <div class="img-container-justified">
 	<img src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/forums/13 - 12-Nov-2025/audience/DSC02724-50-reduced.JPG">
@@ -132,9 +132,9 @@ The opening concluded with an explicit invitation to **<span style="color:red;">
 </div>
 
 - **Engage Deeply** - Ask questions, challenge assumptions, share insights. The forum's value multiplies when attendees contribute perspectives rather than merely absorbing content.
-- **Network Actively** - Introduce yourself and your company during dinner. SVAIN's networking sessions have historically generated transformative partnerships precisely because members view these as professional collaboration opportunities rather than social obligations.
-- **Think Long-term** - This is the beginning of a strategic partnership, not a one-time event. The SVAIN x K•ASIC collaboration creates infrastructure for sustained dialogue spanning years.
-- **Stay Connected** - Join SVAIN membership for ongoing collaboration. The community's strength derives from continuity—members who engage across multiple forums build cumulative understanding and lasting relationships.
+- **Network Actively** - Introduce yourself and your company during dinner. K-PAI Nexus's networking sessions have historically generated transformative partnerships precisely because members view these as professional collaboration opportunities rather than social obligations.
+- **Think Long-term** - This is the beginning of a strategic partnership, not a one-time event. The K-PAI Nexus x K•ASIC collaboration creates infrastructure for sustained dialogue spanning years.
+- **Stay Connected** - Join K-PAI Nexus membership for ongoing collaboration. The community's strength derives from continuity—members who engage across multiple forums build cumulative understanding and lasting relationships.
 - **Shape the Future** - <font color="red">Your participation tonight influences our H1 2026 forum direction!</font> The partnership's flexibility enables responsive topic selection based on community needs and industry evolution.
 
 <div class="img-container-justified">
@@ -143,7 +143,7 @@ The opening concluded with an explicit invitation to **<span style="color:red;">
 	<img style="width: 32%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/forums/13 - 12-Nov-2025/member-intro/DSC02921-50-reduced.JPG">
 </div>
 
-This participatory ethos **<span style="color:red;">distinguishes <a href="/">SVAIN</a> from conventional seminar series</span>**. Rather than treating attendees as consumers of expert knowledge, the forums position community members as **<span style="color:red;">co-authors and co-creators of an evolving discourse about AI's responsible development</span>**—with semiconductor infrastructure now recognized as equally essential as algorithms, ethics, or applications in that comprehensive understanding.
+This participatory ethos **<span style="color:red;">distinguishes <a href="/">K-PAI Nexus</a> from conventional seminar series</span>**. Rather than treating attendees as consumers of expert knowledge, the forums position community members as **<span style="color:red;">co-authors and co-creators of an evolving discourse about AI's responsible development</span>**—with semiconductor infrastructure now recognized as equally essential as algorithms, ethics, or applications in that comprehensive understanding.
 
 # The Foundation - Library-based Design meets AI Innovation
 
@@ -213,13 +213,13 @@ This holistic approach—where AI understands environmental context and coordina
 
 ### Remarks - The Chemistry between Electrical Engineering and Computer Science
 
-Chang's closing remarks offered a philosophical reflection that resonated powerfully with SVAIN's interdisciplinary ethos. He articulated his lifetime goal: **"To build and sustain a collaborative culture that achieves genuine, chemistry-level integration between Electrical Engineering and Computer Science."**
+Chang's closing remarks offered a philosophical reflection that resonated powerfully with K-PAI Nexus's interdisciplinary ethos. He articulated his lifetime goal: **"To build and sustain a collaborative culture that achieves genuine, chemistry-level integration between Electrical Engineering and Computer Science."**
 
 The question he posed—"Why chemistry mixing? Is CS and EE interface a border city or a PN junction?"—cuts to the heart of how we structure knowledge domains and professional communities. A border city implies separate territories with occasional crossing points. A PN junction suggests fundamental integration where the interface itself creates entirely new properties—the depletion region where electrons and holes recombine to form something neither domain alone possesses.
 
 <!--span class="emph">Chang's work embodies the PN junction model: AI (computer science) optimizing semiconductor libraries (electrical engineering) creates capabilities neither discipline alone could achieve. Physical AI (control systems, EE) coordinated by learned policies (CS, AI) enables robotic systems neither controls engineers nor AI researchers could build independently.</span-->
 
-This vision aligns perfectly with SVAIN's founding principles—that the most transformative innovations emerge at disciplinary boundaries, where distinct bodies of knowledge create new synthesis through genuine integration rather than superficial collaboration.
+This vision aligns perfectly with K-PAI Nexus's founding principles—that the most transformative innovations emerge at disciplinary boundaries, where distinct bodies of knowledge create new synthesis through genuine integration rather than superficial collaboration.
 
 # NPU Architecture Evolution
 
@@ -235,7 +235,7 @@ The presentation demonstrated how NPU evolution enables sophisticated AI capabil
 
 This perspective represented an important dimension of the AI silicon ecosystem - while datacenter chips pursue maximum performance within generous power envelopes, edge NPUs must deliver acceptable intelligence within milliwatt budgets and consumer product thermal constraints. The architectural innovations enabling this—specialized datapaths, aggressive quantization, model-architecture co-design—represent equally sophisticated engineering as datacenter accelerators but with fundamentally different optimization objectives.
 
-Future SVAIN forums might explore this edge AI dimension more deeply, potentially examining how architectural choices at the edge (NPUs in smartphones, automotive processors, IoT chips) differ from datacenter acceleration and how these distinct optimization regimes might inform each other.
+Future K-PAI Nexus forums might explore this edge AI dimension more deeply, potentially examining how architectural choices at the edge (NPUs in smartphones, automotive processors, IoT chips) differ from datacenter acceleration and how these distinct optimization regimes might inform each other.
 
 # The Economics - Bridging Performance and Affordability
 
@@ -342,7 +342,7 @@ This democratization narrative—making AI infrastructure accessible beyond the 
 
 ## From Applications to Silicon - Cumulative Understanding
 
-The progression from October's marketing AI focus through November's semiconductor exploration demonstrates SVAIN's evolving sophistication in creating **narrative arcs across forums** rather than treating each event in isolation.
+The progression from October's marketing AI focus through November's semiconductor exploration demonstrates K-PAI Nexus's evolving sophistication in creating **narrative arcs across forums** rather than treating each event in isolation.
 
 The 12th forum examined how AI transforms advertising through intelligent optimization—video analysis, budget allocation, programmatic systems. These capabilities rest on assumptions about available computational resources. Park's ADOASIS platform analyzes thousands of videos using computer vision and NLP models. Ko's DSP architectures employ deep neural networks for retrieval and ranking. Both applications demand massive parallelizable computation that only modern AI accelerators enable.
 
@@ -364,7 +364,7 @@ The forum's subtitle—"Korea-US Innovation Leadership"—reflects genuine compl
 
 **Shared Strategic Interests**: Both nations face similar challenges from China's semiconductor ambitions and share interests in maintaining technological leadership, supply chain security, and access to critical manufacturing capabilities. The geopolitical dimension—export controls, CHIPS Act, technology transfer restrictions—makes Korea-US cooperation strategically essential beyond purely commercial considerations.
 
-The SVAIN x K•ASIC partnership embodies this alliance at the community level, creating venues where Korean semiconductor engineers and Silicon Valley AI architects exchange insights, identify collaboration opportunities, and build relationships that could mature into commercial partnerships or joint development programs.
+The K-PAI Nexus x K•ASIC partnership embodies this alliance at the community level, creating venues where Korean semiconductor engineers and Silicon Valley AI architects exchange insights, identify collaboration opportunities, and build relationships that could mature into commercial partnerships or joint development programs.
 
 ## Physical AI - The Convergence Horizon
 
@@ -378,7 +378,7 @@ The implications extend far beyond individual applications:
 - **Rapid Iteration** - The ability to compose physical systems from pretrained, validated components could accelerate deployment cycles from years to months—matching the pace of software development rather than traditional hardware timelines.
 - **Domain Knowledge Preservation** - Encapsulating expertise from controls engineers, systems designers, and domain specialists into reusable libraries preserves institutional knowledge beyond individual careers while making it accessible to new generations.
 
-The convergence of AI optimization (learning optimal policies), physical constraints (material properties, dynamics), and systems integration (coordinating multiple subsystems) represents exactly the kind of cross-disciplinary synthesis that SVAIN's forums are designed to explore and accelerate.
+The convergence of AI optimization (learning optimal policies), physical constraints (material properties, dynamics), and systems integration (coordinating multiple subsystems) represents exactly the kind of cross-disciplinary synthesis that K-PAI Nexus's forums are designed to explore and accelerate.
 
 # Community Dimensions - More Than Technical Exchange
 
@@ -389,7 +389,7 @@ The convergence of AI optimization (learning optimal policies), physical constra
 	<img src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/forums/13 - 12-Nov-2025/networking/DSC02946-50-reduced.JPG">
 </div>
 
-The extended networking dinner and Q&A session (7pm - 8pm) provided what many attendees described as the forum's highest-value component. <font color="red">SVAIN members are encouraged to introduce themselves and their companies</font>, creating opportunities for meaningful business connections and potential collaborations in the rapidly evolving AI hardware space.
+The extended networking dinner and Q&A session (7pm - 8pm) provided what many attendees described as the forum's highest-value component. <font color="red">K-PAI Nexus members are encouraged to introduce themselves and their companies</font>, creating opportunities for meaningful business connections and potential collaborations in the rapidly evolving AI hardware space.
 
 <div class="img-container-justified">
 	<img src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/forums/13 - 12-Nov-2025/networking/DSC02565-50-reduced.JPG">
@@ -412,18 +412,18 @@ The conversations that continued well past the scheduled conclusion revealed gen
 
 ## The Partnership Model in Action
 
-The SVAIN x K•ASIC collaboration demonstrated institutional partnership benefits tangibly:
+The K-PAI Nexus x K•ASIC collaboration demonstrated institutional partnership benefits tangibly:
 
 - **Venue Access** - K•ASIC's state-of-the-art Innovation Center provided professional facilities that would be prohibitively expensive for an independent organization to secure, while embodying the semiconductor focus thematically.
 - **Network Leverage** - K•ASIC's connections throughout Korean semiconductor industry facilitated speaker recruitment and attendee engagement that would be difficult to achieve through cold outreach alone.
 - **Content Expertise** - K•ASIC's technical leadership provided guidance on forum themes, speaker selection, and content depth—ensuring discussions matched industry needs rather than academic abstractions.
-- **Operational Support** - Comprehensive event logistics—signage, name badges, catering, technical setup—enabled SVAIN organizers to focus on content quality and community building rather than administrative details.
+- **Operational Support** - Comprehensive event logistics—signage, name badges, catering, technical setup—enabled K-PAI Nexus organizers to focus on content quality and community building rather than administrative details.
 
 This partnership model creates **<span style="color: red;">sustainable infrastructure for ongoing dialogue</span>** rather than episodic events requiring repeated resource mobilization. The commitment to minimum twice-yearly co-hosted forums establishes predictable cadence while the perpetual nature enables long-term planning and cumulative community development.
 
 ## Looking Forward - The H1 2026 Second Forum
 
-The announcement of a <span style="color: red;">**second SVAIN x K•ASIC joint forum planned for H1 2026**</span> with expanded scope and impact creates immediate anticipation. Potential themes building on the 13th forum's foundation might include:
+The announcement of a <span style="color: red;">**second K-PAI Nexus x K•ASIC joint forum planned for H1 2026**</span> with expanded scope and impact creates immediate anticipation. Potential themes building on the 13th forum's foundation might include:
 
 - **Advanced Packaging and Chiplet Architectures** - Exploring how 2.5D/3D integration, chiplet-based designs, and heterogeneous integration enable next-generation AI systems while managing manufacturing complexity and cost.
 - **Memory Innovation Beyond HBM** - Examining emerging memory technologies (processing-in-memory, near-memory compute, novel memory hierarchies) that could address the memory bandwidth bottleneck limiting AI accelerator performance.
@@ -448,7 +448,7 @@ The presentations collectively argued that **understanding AI requires understan
 
 **Strategic Sustainability**: Energy efficiency and supply chain resilience determine whether AI scaling can continue its current trajectory or faces physical limits. Semiconductor innovation (like Chang's AI-optimized standard cells) might provide more scaling headroom than algorithmic improvements alone.
 
-This layered understanding—where silicon capabilities shape algorithmic choices, which enable application categories, which drive business models—represents exactly the kind of systems thinking that professional communities like SVAIN should cultivate.
+This layered understanding—where silicon capabilities shape algorithmic choices, which enable application categories, which drive business models—represents exactly the kind of systems thinking that professional communities like K-PAI Nexus should cultivate.
 
 ## The Energy-Silicon Nexus
 
@@ -464,35 +464,35 @@ The convergence of energy efficiency (September), semiconductor innovation (Nove
 
 ## Korea-US Cooperation as Model
 
-The SVAIN x K•ASIC partnership, and the broader Korea-US semiconductor alliance it represents, offers a template for how international cooperation might navigate increasingly complex geopolitical technology landscapes.
+The K-PAI Nexus x K•ASIC partnership, and the broader Korea-US semiconductor alliance it represents, offers a template for how international cooperation might navigate increasingly complex geopolitical technology landscapes.
 
 Rather than zero-sum competition or complete integration, the model recognizes **complementary asymmetric strengths** that create mutual benefit:
 - Korea excels at manufacturing excellence, process technology, and volume production
 - US leads in architecture innovation, design tools, and systems integration
 - Both benefit from collaboration rather than viewing semiconductor development as winner-take-all competition
 
-This cooperative model extends beyond government-level agreements to community partnerships (SVAIN x K•ASIC), industry collaborations (Samsung foundry + US fabless designers), and academic exchanges (Korean universities + Silicon Valley research labs).
+This cooperative model extends beyond government-level agreements to community partnerships (K-PAI Nexus x K•ASIC), industry collaborations (Samsung foundry + US fabless designers), and academic exchanges (Korean universities + Silicon Valley research labs).
 
 <font color="red">In an era where technology increasingly intertwines with national security and economic competition, models demonstrating how advanced nations can collaborate on critical technologies while respecting legitimate security concerns become strategically valuable beyond their immediate technical outputs.</font>
 -->
 
 # Conclusion - Silicon First
 
-[The 13th SVAIN Forum](/event-announcements/13) successfully illuminated AI's most essential yet frequently overlooked layer—the semiconductor infrastructure enabling all innovation above. Through Chang's exploration of library-based design evolution and AI-driven optimization, through Burroughs and Oh's pragmatic examination of inference economics and architectural tradeoffs, the evening built compelling argument that **understanding AI futures requires understanding silicon realities**.
+[The 13th K-PAI Nexus Forum](/event-announcements/13) successfully illuminated AI's most essential yet frequently overlooked layer—the semiconductor infrastructure enabling all innovation above. Through Chang's exploration of library-based design evolution and AI-driven optimization, through Burroughs and Oh's pragmatic examination of inference economics and architectural tradeoffs, the evening built compelling argument that **understanding AI futures requires understanding silicon realities**.
 
-The historic SVAIN x K•ASIC partnership launch provided more than symbolic significance—it created institutional infrastructure for sustained dialogue between Korea's semiconductor manufacturing leadership and Silicon Valley's AI algorithm innovation. This partnership positions SVAIN at the nexus of two critical technology domains while advancing the organization's evolution from technical education toward strategic discourse.
+The historic K-PAI Nexus x K•ASIC partnership launch provided more than symbolic significance—it created institutional infrastructure for sustained dialogue between Korea's semiconductor manufacturing leadership and Silicon Valley's AI algorithm innovation. This partnership positions K-PAI Nexus at the nexus of two critical technology domains while advancing the organization's evolution from technical education toward strategic discourse.
 
 Most fundamentally, the forum reinforced that **AI development cannot be divorced from its silicon substrate**. Algorithmic innovation, application creativity, and business model ingenuity all ultimately constrain against what's physically implementable in semiconductor technology at economically viable cost points within acceptable power budgets.
 
 The companies and communities that will succeed in the AI era are those developing integrated strategies addressing algorithms, applications, and architectures simultaneously—recognizing that breakthrough AI capabilities emerge from co-optimization across these traditionally separate domains rather than from excellence in any single dimension.
 
-The SVAIN community is building exactly this kind of holistic understanding through cumulative forum experiences—October's marketing applications, September's energy infrastructure, August's legal frameworks, and now November's semiconductor foundations. Each perspective enriches understanding of others, creating systems-level comprehension rather than narrow technical specialization.
+The K-PAI Nexus community is building exactly this kind of holistic understanding through cumulative forum experiences—October's marketing applications, September's energy infrastructure, August's legal frameworks, and now November's semiconductor foundations. Each perspective enriches understanding of others, creating systems-level comprehension rather than narrow technical specialization.
 
-As we look toward the H1 2026 second SVAIN x K•ASIC joint forum, the foundation established by this inaugural collaboration creates exciting possibilities for deeper exploration—advanced packaging, memory innovation, AI-for-chip-design, edge intelligence, or geopolitical semiconductor dynamics. The partnership's flexibility enables responsive topic selection matching industry evolution while institutional commitment ensures continuity.
+As we look toward the H1 2026 second K-PAI Nexus x K•ASIC joint forum, the foundation established by this inaugural collaboration creates exciting possibilities for deeper exploration—advanced packaging, memory innovation, AI-for-chip-design, edge intelligence, or geopolitical semiconductor dynamics. The partnership's flexibility enables responsive topic selection matching industry evolution while institutional commitment ensures continuity.
 
 The energy pervading the networking session—semiconductor engineers, AI architects, hardware entrepreneurs, and researchers engaged in animated technical discussions extending well beyond scheduled conclusion—reflected genuine community enthusiasm about both the specific insights shared and the broader vision of Korea-US semiconductor cooperation enabling sustainable AI innovation.
 
-<span style="color: red;"><a href="{{ page.url }}">The 13th SVAIN Forum</a> proved that innovation thrives at intersections: between disciplines (EE and CS), between nations (Korea and US), between domains (digital and physical), and between organizations (SVAIN and K•ASIC).</span> By illuminating the foundational silicon layer, the evening demonstrated that AI's future will be built not only on elegant algorithms but on sophisticated semiconductor engineering—requiring deep cross-disciplinary understanding and sustained international collaboration to realize technology's full potential while serving humanity's broader interests.
+<span style="color: red;"><a href="{{ page.url }}">The 13th K-PAI Nexus Forum</a> proved that innovation thrives at intersections: between disciplines (EE and CS), between nations (Korea and US), between domains (digital and physical), and between organizations (K-PAI Nexus and K•ASIC).</span> By illuminating the foundational silicon layer, the evening demonstrated that AI's future will be built not only on elegant algorithms but on sophisticated semiconductor engineering—requiring deep cross-disciplinary understanding and sustained international collaboration to realize technology's full potential while serving humanity's broader interests.
 
 [Sunghee
 <br>

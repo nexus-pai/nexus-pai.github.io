@@ -2,7 +2,7 @@
 date: Wed Mar 18 03:12:09 PDT 2026
 last_modified_at: Tue Apr  7 01:14:17 PDT 2026
 layout: single
-title: SVAIN × SNU College of Engineering Silicon Valley Immersion Program Proposal
+title: K-PAI Nexus × SNU College of Engineering Silicon Valley Immersion Program Proposal
 permalink: /proposals/snu-silicon-valley-immersion/
 categories:
  - proposal
@@ -16,10 +16,10 @@ toc_icon: "fa-solid fa-list"
 toc_sticky: true
 ---
 
-# SVAIN × SNU COLLEGE OF ENGINEERING
+# K-PAI Nexus × SNU COLLEGE OF ENGINEERING
 ## SILICON VALLEY IMMERSION PROGRAM PROPOSAL
 
-**Prepared by:** SVAIN (Silicon Valley AI Nexus)  
+**Prepared by:** K-PAI Nexus (Silicon Valley AI Nexus)  
 **Date:** March 17, 2026  
 **Contact:** Sunghee Yun (sunghee.yun@gmail.com) & Chanik Park
 
@@ -27,7 +27,7 @@ toc_sticky: true
 
 ## EXECUTIVE SUMMARY
 
-SVAIN proposes a transformative **two-week Silicon Valley Immersion Program** for 23 SNU College of Engineering students participating in the university's startup program. This initiative represents the next phase of the strategic partnership formalized through the SVAIN × SNU MOU signed on February 2, 2026.
+K-PAI Nexus proposes a transformative **two-week Silicon Valley Immersion Program** for 23 SNU College of Engineering students participating in the university's startup program. This initiative represents the next phase of the strategic partnership formalized through the K-PAI Nexus × SNU MOU signed on February 2, 2026.
 
 Rather than traditional internship placements—which we concluded are not feasible given timing, logistics, and visa complexities—this program offers something far more valuable: **an intensive, curated Silicon Valley experience** that combines world-class mentoring, differentiated AI education, and unprecedented access to the innovation ecosystem that has produced the world's most successful technology companies and startups.
 
@@ -35,18 +35,18 @@ Rather than traditional internship placements—which we concluded are not feasi
 - **Duration:** Two weeks in Silicon Valley
 - **Participants:** 23 SNU startup program students
 - **Core Components:** Mentoring sessions, differentiated AI lectures, company tours (big tech + startups)
-- **Unique Value:** Access to SVAIN's extensive Silicon Valley network and expertise unavailable elsewhere
+- **Unique Value:** Access to K-PAI Nexus's extensive Silicon Valley network and expertise unavailable elsewhere
 - **Expected Outcome:** Accelerated startup capabilities, global perspective, and lasting connections to Silicon Valley ecosystem
 
 ---
 
 ## BACKGROUND & PARTNERSHIP CONTEXT
 
-### The SVAIN × SNU Strategic Partnership
+### The K-PAI Nexus × SNU Strategic Partnership
 
-On February 2, 2026, SVAIN and Seoul National University College of Engineering formalized a strategic partnership through an official Memorandum of Understanding (MOU). This partnership was the result of extensive relationship building, including:
+On February 2, 2026, K-PAI Nexus and Seoul National University College of Engineering formalized a strategic partnership through an official Memorandum of Understanding (MOU). This partnership was the result of extensive relationship building, including:
 
-- **January 8, 2026:** Faculty networking dinner hosted by Dean Young-Oh Kim with 8 Stanford PhD students and postdocs, facilitated by SVAIN
+- **January 8, 2026:** Faculty networking dinner hosted by Dean Young-Oh Kim with 8 Stanford PhD students and postdocs, facilitated by K-PAI Nexus
 - **January 9, 2026:** Spontaneous follow-up coffee chat demonstrating organic community engagement
 - **Ongoing collaboration:** Joint research initiatives, student exchange frameworks, and innovation ecosystem connections
 
@@ -58,9 +58,9 @@ The partnership garnered significant media attention, featured in more than 20 n
 
 **This Silicon Valley Immersion Program represents the practical implementation of our MOU's vision—creating tangible, high-impact opportunities for SNU students to engage with Silicon Valley's innovation ecosystem.**
 
-### Why SVAIN is Uniquely Positioned
+### Why K-PAI Nexus is Uniquely Positioned
 
-SVAIN is not a traditional academic organization or consulting firm. We are a **community-driven nonprofit** with proven capabilities in:
+K-PAI Nexus is not a traditional academic organization or consulting firm. We are a **community-driven nonprofit** with proven capabilities in:
 
 1. **Elite Network Access:** Direct connections to leaders at Google, Meta, Apple, NVIDIA, Stanford, Berkeley, startups, and VCs
 2. **Educational Excellence:** Track record of delivering 16 high-quality technical forums on cutting-edge AI topics
@@ -68,7 +68,7 @@ SVAIN is not a traditional academic organization or consulting firm. We are a **
 4. **Execution Capability:** Demonstrated ability to organize complex, multi-stakeholder events with world-class speakers
 5. **Cultural Bridge:** Korean diaspora professionals who understand both Silicon Valley innovation culture and Korean educational context
 
-**Most importantly:** SVAIN members are builders, researchers, and entrepreneurs actively working at the frontier of AI technology. We don't just talk about innovation—we create it daily.
+**Most importantly:** K-PAI Nexus members are builders, researchers, and entrepreneurs actively working at the frontier of AI technology. We don't just talk about innovation—we create it daily.
 
 ---
 
@@ -103,7 +103,7 @@ The Silicon Valley Immersion Program is designed to achieve four core objectives
 
 ### 1. MENTORING SESSIONS
 
-**Format:** Small-group mentoring (8-10 students per session) with SVAIN members and Silicon Valley professionals
+**Format:** Small-group mentoring (8-10 students per session) with K-PAI Nexus members and Silicon Valley professionals
 
 **Topics:**
 - **Startup Fundamentals:** Product-market fit, customer development, MVP design, iteration strategies
@@ -113,7 +113,7 @@ The Silicon Valley Immersion Program is designed to achieve four core objectives
 - **Failure & Resilience:** Learning from failed startups, pivots, and Silicon Valley's healthy relationship with failure
 
 **Mentors:**
-SVAIN will recruit mentors from our extensive network, including:
+K-PAI Nexus will recruit mentors from our extensive network, including:
 - **Serial Entrepreneurs:** Founders who have successfully built and exited startups
 - **Venture Capitalists:** Partners and principals from top Silicon Valley VC firms
 - **Corporate Innovation Leaders:** Executives leading innovation initiatives at big tech companies
@@ -141,7 +141,7 @@ SVAIN will recruit mentors from our extensive network, including:
 - Homomorphic encryption, federated learning, differential privacy in practice
 - Trade-offs between privacy guarantees and model performance
 - Regulatory landscape and compliance requirements
-- **Speaker Profile:** SVAIN core members specializing in privacy AI
+- **Speaker Profile:** K-PAI Nexus core members specializing in privacy AI
 
 #### C. AI Safety & Alignment: Beyond the Hype
 - What AI safety actually means for commercial deployments
@@ -256,9 +256,9 @@ SVAIN will recruit mentors from our extensive network, including:
 
 ### Logistics & Support
 
-**SVAIN Responsibilities:**
+**K-PAI Nexus Responsibilities:**
 - Program design and curriculum development
-- Speaker and mentor recruitment from SVAIN network
+- Speaker and mentor recruitment from K-PAI Nexus network
 - Company tour coordination and relationship management
 - On-site program facilitation and logistics management
 - Emergency support and troubleshooting
@@ -288,7 +288,7 @@ SVAIN will recruit mentors from our extensive network, including:
 This is **NOT** a generic "Silicon Valley tour" that can be replicated by travel agencies or consulting firms. The program offers:
 
 #### 1. Insider Access Through Personal Networks
-SVAIN members' personal relationships enable access to:
+K-PAI Nexus members' personal relationships enable access to:
 - Senior executives at FAANG companies who don't typically host tours
 - Elite accelerators like StartX through Sunghee's friendship with Andrew Radin (StartX AI Director)
 - Emerging startups before they become famous
@@ -319,10 +319,10 @@ Understanding how Silicon Valley actually works:
 
 #### 5. Sustained Relationship Building
 Creating **long-term connections**, not one-off interactions:
-- Post-program mentoring through SVAIN network
+- Post-program mentoring through K-PAI Nexus network
 - Alumni events connecting past and future cohorts
-- Potential hiring pipelines for SVAIN member companies
-- Ongoing access to SVAIN's monthly forum community
+- Potential hiring pipelines for K-PAI Nexus member companies
+- Ongoing access to K-PAI Nexus's monthly forum community
 
 ### Why This Matters for SNU Students
 
@@ -348,14 +348,14 @@ For students in SNU's startup program, this immersion provides:
 ### Medium-Term Outcomes (6-12 Months)
 
 1. **Startup Progress:** Measurable improvements in participating startups (funding raised, customers acquired, product launches)
-2. **Follow-up Engagement:** Students actively participate in SVAIN events and online community
-3. **Talent Pipeline:** Some students seek internships or jobs in Silicon Valley through SVAIN connections
+2. **Follow-up Engagement:** Students actively participate in K-PAI Nexus events and online community
+3. **Talent Pipeline:** Some students seek internships or jobs in Silicon Valley through K-PAI Nexus connections
 4. **Program Refinement:** Feedback informs improved future iterations of the program
 
 ### Long-Term Outcomes (2-5 Years)
 
 1. **Success Stories:** Alumni companies achieve significant milestones (Series A funding, meaningful revenue, acquisitions)
-2. **Alumni Network:** Self-sustaining community of SNU-SVAIN alumni supporting each other
+2. **Alumni Network:** Self-sustaining community of SNU-K-PAI Nexus alumni supporting each other
 3. **Institutional Reputation:** Program becomes known as premier Silicon Valley immersion experience for Korean students
 4. **Reciprocal Value:** Successful alumni mentor future cohorts, creating virtuous cycle
 
@@ -365,7 +365,7 @@ For students in SNU's startup program, this immersion provides:
 - Student satisfaction scores (target: >4.5/5.0)
 - Number of mentor connections maintained post-program (target: >5 per student)
 - Startup funding raised within 12 months (benchmark against non-participants)
-- Alumni participation in future SVAIN events (target: >30%)
+- Alumni participation in future K-PAI Nexus events (target: >30%)
 
 **Qualitative:**
 - Student testimonials and case studies
@@ -378,19 +378,19 @@ For students in SNU's startup program, this immersion provides:
 
 ## BUDGET & RESOURCE REQUIREMENTS
 
-### SVAIN In-Kind Contributions (Estimated Value)
+### K-PAI Nexus In-Kind Contributions (Estimated Value)
 
 | Item | Estimated Value | Notes |
 |------|----------------|-------|
 | Program Design & Curriculum | $15,000 | 100+ hours of leadership time |
-| Speaker & Mentor Recruitment | $20,000 | Leveraging SVAIN network relationships |
+| Speaker & Mentor Recruitment | $20,000 | Leveraging K-PAI Nexus network relationships |
 | Company Tour Coordination | $10,000 | Relationship management with partners |
-| On-Site Facilitation (2 weeks) | $25,000 | 3-4 SVAIN members full-time commitment |
+| On-Site Facilitation (2 weeks) | $25,000 | 3-4 K-PAI Nexus members full-time commitment |
 | Materials & Content Development | $5,000 | Lecture slides, case studies, handouts |
 | Post-Program Support | $5,000 | Follow-up mentoring and alumni engagement |
-| **Total SVAIN Contribution** | **$80,000** | **Delivered through volunteer expertise** |
+| **Total K-PAI Nexus Contribution** | **$80,000** | **Delivered through volunteer expertise** |
 
-**Note:** SVAIN operates as a nonprofit community organization. These contributions represent the fair market value of services that would be charged by commercial organizations, but are provided through volunteer commitment from SVAIN members.
+**Note:** K-PAI Nexus operates as a nonprofit community organization. These contributions represent the fair market value of services that would be charged by commercial organizations, but are provided through volunteer commitment from K-PAI Nexus members.
 
 ### Expected SNU Costs (Direct)
 
@@ -428,12 +428,12 @@ For students in SNU's startup program, this immersion provides:
    - Budget allocation and approval process initiated
 
 2. **Program Refinement** ✅  
-   - SVAIN and SNU jointly finalize program details
+   - K-PAI Nexus and SNU jointly finalize program details
    - Confirm preferred dates (likely Summer 2026)
    - Agree on specific learning objectives and priorities
 
 3. **MOU Addendum** ✅  
-   - Create formal addendum to existing SVAIN × SNU MOU
+   - Create formal addendum to existing K-PAI Nexus × SNU MOU
    - Specify roles, responsibilities, and commitments
    - Address legal, insurance, and liability considerations
 
@@ -445,7 +445,7 @@ For students in SNU's startup program, this immersion provides:
    - Pre-program orientation materials distributed
 
 5. **Partner Outreach** 📋  
-   - SVAIN begins company tour negotiations
+   - K-PAI Nexus begins company tour negotiations
    - Speaker and mentor recruitment
    - Venue and logistics booking
 
@@ -475,8 +475,8 @@ For students in SNU's startup program, this immersion provides:
 
 10. **Alumni Engagement** 🤝  
     - Monthly online check-ins with cohort
-    - Invitation to SVAIN monthly forums (virtual participation)
-    - Ongoing mentorship through SVAIN network
+    - Invitation to K-PAI Nexus monthly forums (virtual participation)
+    - Ongoing mentorship through K-PAI Nexus network
 
 11. **Future Planning** 🔄  
     - Evaluate program for potential annual repetition
@@ -487,9 +487,9 @@ For students in SNU's startup program, this immersion provides:
 
 ## CONCLUSION
 
-The SVAIN × SNU Silicon Valley Immersion Program represents a bold, ambitious initiative that goes far beyond conventional study tours or exchange programs. By combining SVAIN's unique access to Silicon Valley's innovation ecosystem with SNU's commitment to developing world-class entrepreneurial talent, we can create a transformative experience that meaningfully accelerates Korean students' startup capabilities and global competitiveness.
+The K-PAI Nexus × SNU Silicon Valley Immersion Program represents a bold, ambitious initiative that goes far beyond conventional study tours or exchange programs. By combining K-PAI Nexus's unique access to Silicon Valley's innovation ecosystem with SNU's commitment to developing world-class entrepreneurial talent, we can create a transformative experience that meaningfully accelerates Korean students' startup capabilities and global competitiveness.
 
-This proposal builds directly on the foundation established by our February 2, 2026 MOU and the relationship-building efforts that preceded it. It demonstrates SVAIN's evolution from event organizer to **institutional partner delivering tangible, high-impact programs** that benefit both Silicon Valley and Korean stakeholders.
+This proposal builds directly on the foundation established by our February 2, 2026 MOU and the relationship-building efforts that preceded it. It demonstrates K-PAI Nexus's evolution from event organizer to **institutional partner delivering tangible, high-impact programs** that benefit both Silicon Valley and Korean stakeholders.
 
 We are excited about the opportunity to bring this vision to life and look forward to collaborating with SNU College of Engineering to make the inaugural Silicon Valley Immersion Program a resounding success.
 
@@ -497,21 +497,21 @@ We are excited about the opportunity to bring this vision to life and look forwa
 
 ## CONTACT INFORMATION
 
-**SVAIN Program Leads:**
+**K-PAI Nexus Program Leads:**
 
 **Sunghee Yun**  
-Co-Founder & Leader, SVAIN  
+Co-Founder & Leader, K-PAI Nexus  
 Co-Founder & CTO, Erudio Bio  
 Email: sunghee.yun@gmail.com  
 Website: https://sungheeyun.github.io
 
 **Chanik Park**  
-Co-Leader, SVAIN  
+Co-Leader, K-PAI Nexus  
 Email: [chanik.park contact info]  
 LinkedIn: https://www.linkedin.com/in/chanik-park-14878b32/
 
-**SVAIN Website:** https://k-privateai.github.io  
-**SVAIN Email:** [contact email if applicable]
+**K-PAI Nexus Website:** https://k-privateai.github.io  
+**K-PAI Nexus Email:** [contact email if applicable]
 
 ---
 -->
@@ -521,4 +521,4 @@ We are available for in-person meetings, video calls, or detailed written Q&A as
 
 ---
 
-*This proposal is prepared by SVAIN (Silicon Valley AI Nexus) for Seoul National University College of Engineering. March 17, 2026.*
+*This proposal is prepared by K-PAI Nexus (Silicon Valley AI Nexus) for Seoul National University College of Engineering. March 17, 2026.*

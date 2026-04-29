@@ -2,7 +2,7 @@
 date: Tue Mar 17 03:38:07 PDT 2026
 last_modified_at: Tue Mar 17 12:42:30 PDT 2026
 layout: single
-title: Silicon Valley AI Nexus (SVAIN) Bylaws
+title: Silicon Valley AI Nexus (K-PAI Nexus) Bylaws
 permalink: /bylaws/
 categories:
  - document
@@ -16,7 +16,7 @@ usemathjax: false
 author_profile: true
 ---
 
-# BYLAWS OF Silicon Valley AI Nexus (SVAIN)
+# BYLAWS OF Silicon Valley AI Nexus (K-PAI Nexus)
 
 **Adopted: [DATE TO BE DETERMINED]**
 **Last Amended: [DATE]**
@@ -24,10 +24,10 @@ author_profile: true
 ## ARTICLE I: NAME AND PURPOSE
 
 ### Section 1.1 Name
-The name of this organization shall be **Silicon Valley AI Nexus (SVAIN)**, hereinafter referred to as "the Organization."
+The name of this organization shall be **Silicon Valley AI Nexus (K-PAI Nexus)**, hereinafter referred to as "the Organization."
 
 ### Section 1.2 Purpose and Mission
-SVAIN is a nonprofit organization dedicated to three core missions:
+K-PAI Nexus is a nonprofit organization dedicated to three core missions:
 
 1. **Knowledge and Learning:** To provide differentiated and unparalleled opportunities to learn and disseminate knowledge, experience, and insight regarding Artificial Intelligence (AI) technology, encompassing both technical and humanitarian dimensions.
 
@@ -36,19 +36,19 @@ SVAIN is a nonprofit organization dedicated to three core missions:
 3. **Collaboration and Impact:** To broaden the Organization's influence through collaboration with other entities, spreading guidance toward the desirable and responsible development of AI for the benefit of humanity.
 
 ### Section 1.3 Nonprofit Status
-SVAIN is organized and shall be operated exclusively for educational, scientific, and charitable purposes within the meaning of Section 501(c)(3) of the Internal Revenue Code, or corresponding section of any future federal tax code.
+K-PAI Nexus is organized and shall be operated exclusively for educational, scientific, and charitable purposes within the meaning of Section 501(c)(3) of the Internal Revenue Code, or corresponding section of any future federal tax code.
 
 ## ARTICLE II: MEMBERSHIP
 
 ### Section 2.1 General Membership
-Membership in SVAIN is open to all individuals who share the Organization's mission and values. General members may:
-- Attend SVAIN forums and events
+Membership in K-PAI Nexus is open to all individuals who share the Organization's mission and values. General members may:
+- Attend K-PAI Nexus forums and events
 - Participate in networking activities
-- Access SVAIN resources and communications
+- Access K-PAI Nexus resources and communications
 - Propose speakers, topics, and partnership opportunities
 
 ### Section 2.2 No Membership Fees
-SVAIN shall not charge membership fees. The Organization is sustained through sponsorships, grants, and voluntary contributions.
+K-PAI Nexus shall not charge membership fees. The Organization is sustained through sponsorships, grants, and voluntary contributions.
 
 ### Section 2.3 Membership Rights
 General members do not have voting rights in organizational governance. Governance authority resides exclusively with the Board of Directors as defined in Article III.
@@ -56,16 +56,16 @@ General members do not have voting rights in organizational governance. Governan
 ## ARTICLE III: BOARD OF DIRECTORS
 
 ### Section 3.1 Governance Authority
-The Board of Directors (hereinafter "the Board") shall have ultimate authority and responsibility for the governance, strategic direction, and oversight of SVAIN.
+The Board of Directors (hereinafter "the Board") shall have ultimate authority and responsibility for the governance, strategic direction, and oversight of K-PAI Nexus.
 
 ### Section 3.2 Board Composition
 The Board shall consist of no fewer than five (5) and no more than nine (9) Directors. The optimal Board size is seven (7) Directors to ensure diverse perspectives while maintaining operational efficiency.
 
 ### Section 3.3 Board Member Qualifications
 Directors must demonstrate:
-1. **Proven Commitment:** Sustained and documented contributions to SVAIN's mission and operations
+1. **Proven Commitment:** Sustained and documented contributions to K-PAI Nexus's mission and operations
 2. **Active Participation:** Regular engagement in organizational activities, including forums, planning sessions, and strategic initiatives
-3. **Collaborative Spirit:** Ability to work constructively with other Board members and the broader SVAIN community
+3. **Collaborative Spirit:** Ability to work constructively with other Board members and the broader K-PAI Nexus community
 4. **Operational Excellence:** Willingness and capacity to fulfill the duties specified in Section 3.4
 
 ### Section 3.4 Board Member Responsibilities
@@ -73,7 +73,7 @@ Directors must demonstrate:
 All Board members are expected to fulfill the following responsibilities:
 
 #### A. Forum Organization and Execution
-Each Board member must actively contribute to organizing **at least one-third (1/3) of the annual forums**. Given SVAIN's operational cadence of approximately 12-15 forums per year, this translates to meaningful involvement in organizing **at least 4-5 forums annually**.
+Each Board member must actively contribute to organizing **at least one-third (1/3) of the annual forums**. Given K-PAI Nexus's operational cadence of approximately 12-15 forums per year, this translates to meaningful involvement in organizing **at least 4-5 forums annually**.
 
 **"Organizing" is defined comprehensively as:**
 - Determining forum themes and topics
@@ -98,14 +98,14 @@ Board members must:
 
 #### C. Community Engagement
 Board members should:
-- Represent SVAIN professionally in external interactions
+- Represent K-PAI Nexus professionally in external interactions
 - Facilitate introductions and connections that advance the Organization's mission
-- Actively promote SVAIN forums and initiatives within their networks
+- Actively promote K-PAI Nexus forums and initiatives within their networks
 - Support member engagement and community building efforts
 
 #### D. Fiduciary Duty
 Board members must:
-- Act in the best interests of SVAIN at all times
+- Act in the best interests of K-PAI Nexus at all times
 - Avoid conflicts of interest and disclose any potential conflicts promptly
 - Exercise prudent stewardship over organizational resources
 - Maintain confidentiality of sensitive organizational information
@@ -118,7 +118,7 @@ The Board shall conduct an **annual review of each Director's performance and co
 - Fulfillment of forum organization responsibilities ([Section 3.4.A](#a-forum-organization-and-execution))
 - Participation in Board meetings and strategic planning ([Section 3.4.B](#b-strategic-planning-and-decision-making))
 - Community engagement and representation ([Section 3.4.C](#c-community-engagement))
-- Overall contribution to SVAIN's mission and operations
+- Overall contribution to K-PAI Nexus's mission and operations
 
 Based on this review, the Board may:
 1. **Reaffirm** a Director's continued service on the Board
@@ -145,10 +145,10 @@ A Director may resign at any time by submitting written notice to the Board Chai
 ## ARTICLE IV: INITIAL BOARD SELECTION (TRANSITIONAL PROVISION)
 
 ### Section 4.1 Purpose of Transitional Provision
-This Article establishes a one-time process for forming the initial Board of Directors as SVAIN transitions from an informal organization to a formally governed nonprofit entity.
+This Article establishes a one-time process for forming the initial Board of Directors as K-PAI Nexus transitions from an informal organization to a formally governed nonprofit entity.
 
 ### Section 4.2 Organization Committee Recognition
-The following individuals are recognized as members of the SVAIN Organization Committee who have contributed to establishing and operating SVAIN prior to the adoption of these Bylaws:
+The following individuals are recognized as members of the K-PAI Nexus Organization Committee who have contributed to establishing and operating K-PAI Nexus prior to the adoption of these Bylaws:
 1. Jung Hee Cheon
 1. Sunghee Yun
 1. Chanik Park
@@ -161,19 +161,19 @@ The following individuals are recognized as members of the SVAIN Organization Co
 ### Section 4.3 Nomination Process
 Each Organization Committee member shall have the right to nominate:
 1. **Themselves** for consideration as an initial Board Director, AND
-2. **One (1) additional person** who has demonstrated significant contributions to SVAIN
+2. **One (1) additional person** who has demonstrated significant contributions to K-PAI Nexus
 
 Nominations shall be submitted in writing to all Organization Committee members within **60 days** of the adoption of these Bylaws.
 
 ### Section 4.4 Selection Criteria
-The Organization Committee shall evaluate all nominees based on **demonstrated contributions to SVAIN**, including but not limited to:
+The Organization Committee shall evaluate all nominees based on **demonstrated contributions to K-PAI Nexus**, including but not limited to:
 - Active involvement in organizing and executing forums
 - Leadership in strategic initiatives and partnerships
 - Community engagement and member support
 - Consistency and reliability of participation
-- Impact on SVAIN's growth and success
+- Impact on K-PAI Nexus's growth and success
 
-**The criterion is exclusively contribution-based.** SVAIN has conducted 15 forums to date, providing substantial data points for evaluating each nominee's contributions.
+**The criterion is exclusively contribution-based.** K-PAI Nexus has conducted 15 forums to date, providing substantial data points for evaluating each nominee's contributions.
 
 ### Section 4.5 Selection Discussion and Decision
 Within **30 days** of the adoption of these Bylaws, the five (5) Organization Committee members shall meet to discuss all nominees and determine the composition of the initial Board.
@@ -256,7 +256,7 @@ The Board may establish standing committees to support specific organizational f
 Committees may be established or dissolved by majority vote of the Board. Each committee shall have a defined scope, objectives, and at least one Board member liaison.
 
 ### Section 7.3 Committee Members
-Committee members need not be Board Directors. Committees should include both Board members and active SVAIN community members to leverage diverse expertise and broaden engagement.
+Committee members need not be Board Directors. Committees should include both Board members and active K-PAI Nexus community members to leverage diverse expertise and broaden engagement.
 
 ### Section 7.4 Committee Reports
 Committees shall report regularly to the Board on their activities, recommendations, and outcomes.
@@ -280,17 +280,17 @@ The Organization shall maintain appropriate financial controls, including:
 Contracts, agreements, and financial commitments exceeding **$5,000** require Board approval. The Chair (or Co-Chairs) may execute contracts on behalf of the Organization following Board approval.
 
 ### Section 8.5 Fundraising
-SVAIN may accept donations, grants, sponsorships, and other contributions consistent with its nonprofit mission. All fundraising shall comply with applicable laws and regulations.
+K-PAI Nexus may accept donations, grants, sponsorships, and other contributions consistent with its nonprofit mission. All fundraising shall comply with applicable laws and regulations.
 
 ## ARTICLE IX: CONFLICTS OF INTEREST
 
 ### Section 9.1 Policy Statement
-Board members and officers must act in the best interests of SVAIN at all times and must avoid conflicts of interest or the appearance thereof.
+Board members and officers must act in the best interests of K-PAI Nexus at all times and must avoid conflicts of interest or the appearance thereof.
 
 ### Section 9.2 Disclosure
 Board members must promptly disclose any actual or potential conflicts of interest to the Board, including:
-- Financial interests in entities doing business with SVAIN
-- Family relationships with SVAIN employees, contractors, or partners
+- Financial interests in entities doing business with K-PAI Nexus
+- Family relationships with K-PAI Nexus employees, contractors, or partners
 - Competing professional obligations
 - Any other circumstances that could impair independent judgment
 
@@ -325,7 +325,7 @@ Amendments to the following provisions require **unanimous Board approval**:
 ## ARTICLE XII: DISSOLUTION
 
 ### Section 12.1 Dissolution Procedure
-SVAIN may be dissolved by a **unanimous vote of the Board of Directors**, followed by proper legal filings as required by California law and federal regulations.
+K-PAI Nexus may be dissolved by a **unanimous vote of the Board of Directors**, followed by proper legal filings as required by California law and federal regulations.
 
 ### Section 12.2 Asset Distribution
 Upon dissolution, all remaining assets shall be distributed to one or more organizations that:
@@ -336,7 +336,7 @@ Upon dissolution, all remaining assets shall be distributed to one or more organ
 ## ARTICLE XIII: GENERAL PROVISIONS
 
 ### Section 13.1 Nondiscrimination
-SVAIN does not discriminate on the basis of race, color, national origin, ethnicity, religion, gender, sexual orientation, age, disability, or any other protected characteristic in its programs, activities, governance, or operations.
+K-PAI Nexus does not discriminate on the basis of race, color, national origin, ethnicity, religion, gender, sexual orientation, age, disability, or any other protected characteristic in its programs, activities, governance, or operations.
 
 ### Section 13.2 Parliamentary Authority
 Meetings shall be conducted using informal parliamentary procedure, with Robert's Rules of Order serving as guidance for procedural questions not addressed in these Bylaws.
@@ -347,7 +347,7 @@ These Bylaws shall become effective immediately upon adoption by the Organizatio
 
 ## CERTIFICATION
 
-These Bylaws were adopted by the SVAIN Organization Committee on [DATE].
+These Bylaws were adopted by the K-PAI Nexus Organization Committee on [DATE].
 
 **Organization Committee Members:**
 

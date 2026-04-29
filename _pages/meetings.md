@@ -40,7 +40,7 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 
 ### Agenda
 
-Planning for SVAIN's 2026 New Year Celebration (14-Jan-2026) covering performance coordination, donation mechanisms, auction logistics, interactive games, and community awards.
+Planning for K-PAI Nexus's 2026 New Year Celebration (14-Jan-2026) covering performance coordination, donation mechanisms, auction logistics, interactive games, and community awards.
 
 ### Decisions Made
 
@@ -50,8 +50,8 @@ Planning for SVAIN's 2026 New Year Celebration (14-Jan-2026) covering performanc
 
 #### 2. Donation Framework
 - **Donation categories**:
-  - Game prizes (noted by [SVAIN](/) members)
-  - Auction items ([SVAIN](/) members donate items for auction)
+  - Game prizes (noted by [K-PAI Nexus](/) members)
+  - Auction items ([K-PAI Nexus](/) members donate items for auction)
   - Direct monetary contributions (voluntary, *e.g.*, using venmo QR code)
 - **Implementation for January event**:
   - QR code will be embedded somewhere every can see while entering Alaska and in presentation slides for one-time monetary donations
@@ -61,7 +61,7 @@ Planning for SVAIN's 2026 New Year Celebration (14-Jan-2026) covering performanc
 #### 3. Auction Program
 - **Target goal**: $10,000 (example fundraising target)
 - **Item donation rule**:
-  - income will be donated to [SVAIN](/)
+  - income will be donated to [K-PAI Nexus](/)
 
 #### 4. Interactive Games
 - **Format**: Quiz utilizing presentation materials, *etc.*
@@ -99,7 +99,7 @@ Planning for SVAIN's 2026 New Year Celebration (14-Jan-2026) covering performanc
 
 - Committee to finalize specific award categories
 - Begin soliciting auction item donations from members on 27-Dec-2025
-- Prepare award philosophy statement articulating SVAIN's values and community spirit
+- Prepare award philosophy statement articulating K-PAI Nexus's values and community spirit
 - Design quiz content leveraging 2025 forum highlights
 
 ## 31-Oct-2025 Brunch
@@ -117,7 +117,7 @@ and
 
 ### Agenda
 
-- [2025 SVAIN Best Ownership Award](/i-recommend/)
+- [2025 K-PAI Nexus Best Ownership Award](/i-recommend/)
 
 ### Photo
 
@@ -139,11 +139,11 @@ Sunghee
 
 ### Agenda
 
-- [SVAIN Committee Brunch Meeting Agenda](https://www.notion.so/SVAIN-Committee-Brunch-Meeting-Agenda-2886215a599880c7874dd6ec79881cd3?v=21a6215a599880e8b4c4000c88a12ff1&source=copy_link)
+- [K-PAI Nexus Committee Brunch Meeting Agenda](https://www.notion.so/K-PAI Nexus-Committee-Brunch-Meeting-Agenda-2886215a599880c7874dd6ec79881cd3?v=21a6215a599880e8b4c4000c88a12ff1&source=copy_link)
 
 ### Meeting Minutes
 
-- [SVAIN Committee Brunch Meeting Minutes](https://www.notion.so/SVAIN-Committee-Brunch-Meeting-Minutes-2886215a599880b88219c49e6024fca9?v=21a6215a599880e8b4c4000c88a12ff1&source=copy_link)
+- [K-PAI Nexus Committee Brunch Meeting Minutes](https://www.notion.so/K-PAI Nexus-Committee-Brunch-Meeting-Minutes-2886215a599880b88219c49e6024fca9?v=21a6215a599880e8b4c4000c88a12ff1&source=copy_link)
 
 ## 29-Aug-2025 Lunch
 
@@ -205,7 +205,7 @@ and
 
 Sunghee's plans proposed for the following 6 months.
 
-### SVAIN: Next 6 Months of Events (April - September 2025)
+### K-PAI Nexus: Next 6 Months of Events (April - September 2025)
 
 #### **April 2025 – "AI & Synthetic Biology: Engineering Life with Code"**
 - **Theme:** AI’s role in accelerating drug discovery, synthetic biology, and genomics.
@@ -326,7 +326,7 @@ and
 	agenda
 	<ul>
 	<li>
-		purposes &amp; objectives of SVAIN
+		purposes &amp; objectives of K-PAI Nexus
 	</li>
 	<li>
 		the importance of Private AI &amp; data

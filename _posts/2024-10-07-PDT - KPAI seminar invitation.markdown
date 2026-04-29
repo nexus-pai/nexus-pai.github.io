@@ -1,7 +1,7 @@
 ---
 date: 19-Nov-2024 PST
 last_modified_at: Thu Jan 22 00:00:07 PST 2026
-title: The 2nd SVAIN Seminar Invitation
+title: The 2nd K-PAI Nexus Seminar Invitation
 categories:
  - blog
 tags:
@@ -24,10 +24,10 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 Dear Innovators, Visionaries, and Tech Enthusiasts of Silicon Valley,
 
 We are excited to invite you to our upcoming seminar series on Private AI
-by <a href="https://k-privateai.github.io/">Korean Private AI Forum (SVAIN)</a> (sponsored by CryptoLab Inc.).
+by <a href="https://k-privateai.github.io/">Korean Private AI Forum (K-PAI Nexus)</a> (sponsored by CryptoLab Inc.).
 This series aims to foster knowledge sharing, networking, and discussions
 on business and entrepreneurship related to personalized privacy-preserving AI within our community.
-(Please visit <a href="https://k-privateai.github.io/">here</a> to find out more about SVAIN!)
+(Please visit <a href="https://k-privateai.github.io/">here</a> to find out more about K-PAI Nexus!)
 
 The seminar series will feature experts discussing state-of-the-art technologies in AI and Data,
 which are crucial for an AI-driven future society and economy, as well as privacy protection and authentication.
@@ -156,7 +156,7 @@ We look forward to your participation in what promises to be an enriching series
 Best regards,
 <br>
 <br>
-SVAIN Organizing Committee
+K-PAI Nexus Organizing Committee
 <br>
 email: <a href="mailto:k.private.ai@gmail.com">k.private.ai@gmail.com</a>
 </p>

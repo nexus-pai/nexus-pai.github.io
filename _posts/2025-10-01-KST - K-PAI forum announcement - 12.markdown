@@ -1,7 +1,7 @@
 ---
 date: Wed Oct  1 03:52:54 PDT 2025
 last_modified_at: Thu Jan 22 01:55:26 PST 2026
-title: "SVAIN's 12th Chapter: Ad Intelligence - AI Revolution in Digital Marketing"
+title: "K-PAI Nexus's 12th Chapter: Ad Intelligence - AI Revolution in Digital Marketing"
 permalink: /event-announcements/12
 categories:
  - blog
@@ -38,10 +38,10 @@ Marketing Leaders, AI Innovators, and Digital Pioneers!
 
 [Main Program](https://sungheeyun-seminars-01.github.io/resource/k-privateai.github.io/12 - 08-Oct-2025/K-PAI - Ad Intelligence - Oct-2025.pdf){:target="_blank"}
 
-Yes! I know—SVAIN's 11th Chapter just wrapped up a few days ago, and now I'm already announcing the next one for next week? Before you wonder if I've lost my mind  &#x2605;^^&#x2605;, let me explain! September's forum had to shift to the end of the month due to speaker availability (you know how it is with FOUR busy thought leaders), and October's forum needed to jump to the beginning due to some logistics. But honestly? *<span style="color:red;">Two forums in quick succession just means double the innovation, double the networking, and double the excitement—what's not to love?</span>*
+Yes! I know—K-PAI Nexus's 11th Chapter just wrapped up a few days ago, and now I'm already announcing the next one for next week? Before you wonder if I've lost my mind  &#x2605;^^&#x2605;, let me explain! September's forum had to shift to the end of the month due to speaker availability (you know how it is with FOUR busy thought leaders), and October's forum needed to jump to the beginning due to some logistics. But honestly? *<span style="color:red;">Two forums in quick succession just means double the innovation, double the networking, and double the excitement—what's not to love?</span>*
 
 Having said that,
-we are thrilled to invite you to the Twelfth Edition of the [SVAIN Forum](/),
+we are thrilled to invite you to the Twelfth Edition of the [K-PAI Nexus Forum](/),
 a premier gathering for researchers, industry leaders,
 and innovators exploring the frontier of privacy-first AI technologies.
 Following the tremendous success of our [{{ prev_announcement.title }}]({{ prev_announcement.url }}) forum,
@@ -60,13 +60,13 @@ and thought leaders who are shaping the future of intelligent advertising and cu
 Check out [{{ reflection.title }}]({{ reflection.url }}) to see how our previous Power Paradigm event brought together energy experts from University of Michigan, Hanwha Qcells, PG&E, and National Renewable Energy Laboratory for transformative discussions on AI and energy systems!
 
 - <font color="red"><strong>Please RSVP via <a href="https://luma.com/cgk0neu0" target="_blank">this link</a>!</strong></font>
-- Please visit [SVAIN Membership](/membership) to learn about our SVAIN membership for the qualification and all exclusive perks you can enjoy!
+- Please visit [K-PAI Nexus Membership](/membership) to learn about our K-PAI Nexus membership for the qualification and all exclusive perks you can enjoy!
 
 ## Historic Partnership Benefits Continue
 
 **🎉 CELEBRATING OUR KOTRA SILICON VALLEY PARTNERSHIP! 🎉**
 
-As part of our **<font color="#ee0000">Perpetual Partnership</font>** between [SVAIN](/) and [KOTRA Silicon Valley (SV)](https://www.connectkotrasv.org/) announced at last month's historic Power Paradigm forum, we are delighted to offer attendees an **<font color="#ee0000">exceptional premium luxury dinner experience</font>** made possible by this transformative alliance!
+As part of our **<font color="#ee0000">Perpetual Partnership</font>** between [K-PAI Nexus](/) and [KOTRA Silicon Valley (SV)](https://www.connectkotrasv.org/) announced at last month's historic Power Paradigm forum, we are delighted to offer attendees an **<font color="#ee0000">exceptional premium luxury dinner experience</font>** made possible by this transformative alliance!
 
 **Partnership Benefits for This Event:**
 - **Premium Luxury Dinner**: Enjoy an exquisite culinary experience featuring carefully curated cuisine, graciously provided by KOTRA Silicon Valley as part of our strategic partnership
@@ -74,7 +74,7 @@ As part of our **<font color="#ee0000">Perpetual Partnership</font>** between [S
 - **Enhanced Networking**: Extended opportunities to connect with marketing leaders, AI innovators, and international business professionals
 - **World-Class Hospitality**: Premium refreshments and hors d'oeuvres throughout the evening
 
-This **<font color="#ee0000">premium luxury dinner</font>** represents the tangible benefits of our perpetual partnership commitment—bringing together exceptional content, world-class hospitality, and meaningful connections that define the SVAIN experience. The partnership continues to foster innovation and collaboration in the AI ecosystem, bridging Korean and Silicon Valley AI communities while providing unparalleled value to our community members.
+This **<font color="#ee0000">premium luxury dinner</font>** represents the tangible benefits of our perpetual partnership commitment—bringing together exceptional content, world-class hospitality, and meaningful connections that define the K-PAI Nexus experience. The partnership continues to foster innovation and collaboration in the AI ecosystem, bridging Korean and Silicon Valley AI communities while providing unparalleled value to our community members.
 
 We extend our profound gratitude to [KOTRA Silicon Valley](https://www.connectkotrasv.org) for their generous support in making this **<font color="#ee0000">premium luxury dining experience</font>** possible, for providing the prestigious Alaska Venue, and for this transformative partnership that continues to foster enhanced international business collaboration and innovation in the heart of Silicon Valley.
 
@@ -88,7 +88,7 @@ We extend our profound gratitude to [KOTRA Silicon Valley](https://www.connectko
 
 ## Reception & Premium Networking (5pm ~ 6pm)
 
-**Experience our <font color="#ee0000">premium luxury dinner</font> generously provided by KOTRA Silicon Valley** as part of our historic perpetual partnership! This exceptional dining experience begins our evening, featuring an exquisite culinary selection alongside carefully curated premium refreshments and hors d'oeuvres in the elegant KOTRA setting. This welcoming atmosphere provides the perfect setting for meaningful connections between marketing professionals, AI researchers, adtech entrepreneurs, and digital advertising specialists who are pioneering the intelligent marketing revolution. Enjoy world-class hospitality while networking with industry leaders—a tangible benefit of the transformative KOTRA-SVAIN partnership announced at last month's forum.
+**Experience our <font color="#ee0000">premium luxury dinner</font> generously provided by KOTRA Silicon Valley** as part of our historic perpetual partnership! This exceptional dining experience begins our evening, featuring an exquisite culinary selection alongside carefully curated premium refreshments and hors d'oeuvres in the elegant KOTRA setting. This welcoming atmosphere provides the perfect setting for meaningful connections between marketing professionals, AI researchers, adtech entrepreneurs, and digital advertising specialists who are pioneering the intelligent marketing revolution. Enjoy world-class hospitality while networking with industry leaders—a tangible benefit of the transformative KOTRA-K-PAI Nexus partnership announced at last month's forum.
 
 <div class="img-container-justified">
 &nbsp;
@@ -101,7 +101,7 @@ We extend our profound gratitude to [KOTRA Silicon Valley](https://www.connectko
 
 ### Welcome Address
 
-- **Speaker**: [SVAIN Organizing Committee](/committee)
+- **Speaker**: [K-PAI Nexus Organizing Committee](/committee)
 - **Time**: 6pm ~ 6:10pm
 
 Join us as we open this exciting forum exploring how AI is transforming the digital marketing landscape. This opening address will set the stage for an evening of cutting-edge insights into video intelligence, budget optimization, and the future of intelligent advertising systems.
@@ -139,9 +139,9 @@ An interactive dialogue exploring how AI is reshaping marketing strategies, tech
 
 ## Premium Networking &amp; Deep Discussions (7:30pm ~ 8pm)
 
-SVAIN Members' favorite time! The very moment everyone awaits!
+K-PAI Nexus Members' favorite time! The very moment everyone awaits!
 —
-This extended networking session provides a unique opportunity to engage directly with our expert speakers and fellow attendees. **Connect with marketing professionals** leveraging AI for campaign optimization, **engage with engineering leaders** building scalable adtech platforms, and **collaborate with entrepreneurs** creating innovative marketing solutions. **SVAIN members are encouraged to introduce themselves and their companies**, creating opportunities for meaningful business connections and potential collaborations in the rapidly evolving marketing technology space. Previous forums have seen transformative partnerships emerge during these dynamic discussions, where marketing strategists, AI technologists, product managers, and entrepreneurs bridge creative vision with technical innovation in real-time conversations.
+This extended networking session provides a unique opportunity to engage directly with our expert speakers and fellow attendees. **Connect with marketing professionals** leveraging AI for campaign optimization, **engage with engineering leaders** building scalable adtech platforms, and **collaborate with entrepreneurs** creating innovative marketing solutions. **K-PAI Nexus members are encouraged to introduce themselves and their companies**, creating opportunities for meaningful business connections and potential collaborations in the rapidly evolving marketing technology space. Previous forums have seen transformative partnerships emerge during these dynamic discussions, where marketing strategists, AI technologists, product managers, and entrepreneurs bridge creative vision with technical innovation in real-time conversations.
 
 # Why Attend?
 
@@ -171,4 +171,4 @@ We look forward to your participation in this transformative forum! If you have 
 
 Best regards,
 
-[SVAIN Committee](/committee)
+[K-PAI Nexus Committee](/committee)

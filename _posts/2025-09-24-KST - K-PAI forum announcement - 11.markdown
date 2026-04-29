@@ -1,7 +1,7 @@
 ---
 date: Tue Sep 23 10:26:16 PDT 2025
 last_modified_at: Thu Jan 22 01:53:39 PST 2026
-title: "SVAIN's 11th Chapter: Power Paradigm - AI-Driven Solutions for Energy's Future"
+title: "K-PAI Nexus's 11th Chapter: Power Paradigm - AI-Driven Solutions for Energy's Future"
 permalink: /event-announcements/11
 categories:
  - blog
@@ -35,7 +35,7 @@ Innovators, Energy Leaders, and AI Pioneers!
 
 <a href="https://sungheeyun-seminars-01.github.io/resource/k-privateai.github.io/11 - 29-Sep-2025/K-PAI - Power Paradigm - Sep-2025.pdf">Main agenda slides (PDF)</a>
 
-We are thrilled to invite you to the eleventh edition of the [SVAIN Forum](/),
+We are thrilled to invite you to the eleventh edition of the [K-PAI Nexus Forum](/),
 a premier gathering for researchers, industry leaders,
 and innovators exploring the frontier of privacy-first AI technologies.
 Following the tremendous success of our ["The Human-Centric AI Revolution - From Technical Compliance to Humanistic Leadership"](/event-announcements/10) forum,
@@ -56,19 +56,19 @@ and thought leaders who are shaping the future of sustainable AI and intelligent
 Check out [{{ post.title }}]({{ post.url }}) to see how our previous Human-Centric AI Revolution event brought together legal experts from Quinn Emanuel and humanistic leaders for transformative discussions on AI ethics and leadership!
 
 - <font color="red"><strong>Please RSVP via <a href="https://luma.com/7vaaf42b">this link</a>!</strong></font>
-- Please visit [SVAIN Membership](/membership) to learn about our SVAIN membership for the qualification and all exclusive perks you can enjoy!
+- Please visit [K-PAI Nexus Membership](/membership) to learn about our K-PAI Nexus membership for the qualification and all exclusive perks you can enjoy!
 
 ## Historic Partnership Announcement
 
-**🎉 MAJOR ANNOUNCEMENT: SVAIN &amp; KOTRA Silicon Valley Perpetual Partnership! 🎉**
+**🎉 MAJOR ANNOUNCEMENT: K-PAI Nexus &amp; KOTRA Silicon Valley Perpetual Partnership! 🎉**
 
-We are thrilled to announce a groundbreaking **<font color="#ee0000">Perpetual Partnership</font>** between [SVAIN](/) and [KOTRA Silicon Valley (SV)](https://www.connectkotrasv.org/) as a type of **<font color="#ee0000">Strategic Alliances</font>** that will transform how we foster innovation and collaboration in the AI ecosystem! This strategic alliance represents a new chapter in bridging Korean and Silicon Valley AI communities.
+We are thrilled to announce a groundbreaking **<font color="#ee0000">Perpetual Partnership</font>** between [K-PAI Nexus](/) and [KOTRA Silicon Valley (SV)](https://www.connectkotrasv.org/) as a type of **<font color="#ee0000">Strategic Alliances</font>** that will transform how we foster innovation and collaboration in the AI ecosystem! This strategic alliance represents a new chapter in bridging Korean and Silicon Valley AI communities.
 
 **Partnership Highlights:**
-- **Co-hosted Forums**: Minimum twice yearly collaborative SVAIN Forum events
-- **Technical Consultation**: SVAIN provides cutting-edge technical, business, and entrepreneurial consultation to KOTRA SV
-- **Network Access**: KOTRA SV shares its extensive academic and industry networks with SVAIN community
-- **Event Spaces**: KOTRA SV provides premium venue access for SVAIN events and activities
+- **Co-hosted Forums**: Minimum twice yearly collaborative K-PAI Nexus Forum events
+- **Technical Consultation**: K-PAI Nexus provides cutting-edge technical, business, and entrepreneurial consultation to KOTRA SV
+- **Network Access**: KOTRA SV shares its extensive academic and industry networks with K-PAI Nexus community
+- **Event Spaces**: KOTRA SV provides premium venue access for K-PAI Nexus events and activities
 
 This partnership exemplifies the vision of creating synergistic relationships that amplify innovation while fostering international collaboration. This Forum marks the beginning of this exciting new era!
 
@@ -99,13 +99,13 @@ This welcoming atmosphere provides the perfect setting for meaningful connection
 
 ## Opening Remarks (6pm ~ 6:10pm)
 
-## Announcement of the Perpetual Partnership between SVAIN and KOTRA SV
+## Announcement of the Perpetual Partnership between K-PAI Nexus and KOTRA SV
 
-- **Speakers**: [Sunghee Yun](https://sungheeyun.github.io) (Leader of [SVAIN](/)) and [Oh Hyoung Kwon](https://www.linkedin.com/in/oh-hyoung-kwon-0183b7338/) (Managing Director of [KOTRA Silicon Valley](https://www.connectkotrasv.org/))
+- **Speakers**: [Sunghee Yun](https://sungheeyun.github.io) (Leader of [K-PAI Nexus](/)) and [Oh Hyoung Kwon](https://www.linkedin.com/in/oh-hyoung-kwon-0183b7338/) (Managing Director of [KOTRA Silicon Valley](https://www.connectkotrasv.org/))
 - **Time**: 6pm ~ 6:10pm
 - <a href="https://sungheeyun-seminars-01.github.io/resource/k-privateai.github.io/11 - 29-Sep-2025/K-PAI - Power Paradigm - Sep-2025.pdf">slides</a>
 
-Join us for this historic moment as we officially announce the groundbreaking perpetual partnership between SVAIN and KOTRA Silicon Valley. This opening ceremony will formalize the strategic alliance that will transform how we foster innovation and collaboration in the AI ecosystem, bridging Korean and Silicon Valley AI communities while setting the stage for an evening of transformative discussions about the intersection of AI and energy systems.
+Join us for this historic moment as we officially announce the groundbreaking perpetual partnership between K-PAI Nexus and KOTRA Silicon Valley. This opening ceremony will formalize the strategic alliance that will transform how we foster innovation and collaboration in the AI ecosystem, bridging Korean and Silicon Valley AI communities while setting the stage for an evening of transformative discussions about the intersection of AI and energy systems.
 
 ## Featured Presentations (6:10pm ~ 7:40pm)
 
@@ -141,9 +141,9 @@ As the energy grid becomes increasingly complex and dynamic, utility control cen
 
 ## Q&A & Further Networking (7:40pm ~ 8pm)
 
-SVAIN Members' favorite time! The very moment everyone awaits!
+K-PAI Nexus Members' favorite time! The very moment everyone awaits!
 —
-This extended networking session provides a unique opportunity to engage directly with our expert speakers and fellow attendees. **Connect with energy industry professionals** from PG&E and NREL, **engage with renewable energy leaders** from Hanwha Qcells, and **collaborate with AI researchers** pioneering energy-efficient AI systems. **SVAIN members are encouraged to introduce themselves and their companies**, creating opportunities for meaningful business connections and potential collaborations in the rapidly growing AI-energy intersection. Previous forums have seen transformative partnerships emerge during these dynamic discussions, where energy experts, AI technologists, policy professionals, and entrepreneurs bridge sustainability challenges with innovative AI solutions in real-time conversations.
+This extended networking session provides a unique opportunity to engage directly with our expert speakers and fellow attendees. **Connect with energy industry professionals** from PG&E and NREL, **engage with renewable energy leaders** from Hanwha Qcells, and **collaborate with AI researchers** pioneering energy-efficient AI systems. **K-PAI Nexus members are encouraged to introduce themselves and their companies**, creating opportunities for meaningful business connections and potential collaborations in the rapidly growing AI-energy intersection. Previous forums have seen transformative partnerships emerge during these dynamic discussions, where energy experts, AI technologists, policy professionals, and entrepreneurs bridge sustainability challenges with innovative AI solutions in real-time conversations.
 
 # Why Attend?
 
@@ -172,5 +172,5 @@ We look forward to your participation in this transformative forum! If you have 
 
 Best regards,
 
-[SVAIN Committee](/committee)
+[K-PAI Nexus Committee](/committee)
 

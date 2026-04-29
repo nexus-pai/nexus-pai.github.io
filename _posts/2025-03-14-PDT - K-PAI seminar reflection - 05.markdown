@@ -1,7 +1,7 @@
 ---
 date: Fri Mar 14 17:43:50 PDT 2025
 last_modified_at: Thu Jan 22 00:58:54 PST 2026
-title: Unlocking Innovation - Blockchain and AI at SVAIN 5
+title: Unlocking Innovation - Blockchain and AI at K-PAI Nexus 5
 permalink: /seminar-reflections/05
 categories:
  - blog
@@ -26,7 +26,7 @@ Use this link
 to share!
 </blockquote>
 
-[The 5th Silicon Valley AI Nexus (SVAIN)](/seminar-announcements/05)
+[The 5th Silicon Valley AI Nexus (K-PAI Nexus)](/seminar-announcements/05)
 marked a significant milestone by delving into the convergence of blockchain technology and artificial intelligence (AI).
 Hosted at the LG Silicon Valley Lab, the event attracted a diverse group of entrepreneurs, engineers, scientists, investors, and thought leaders, all eager to explore how these two transformative technologies can synergize to foster fairness, transparency, and innovation.
 
@@ -37,9 +37,9 @@ The evening commenced with a networking session, where attendees connected over 
 This informal gathering set the stage for collaborative discussions, reflecting the forum's commitment to fostering a vibrant tech community in Silicon Valley.
 -->
 
-The fifth SVAIN forum kicked off with a lively networking session, where participants from across the private AI landscape connected over a thoughtfully catered dinner.
+The fifth K-PAI Nexus forum kicked off with a lively networking session, where participants from across the private AI landscape connected over a thoughtfully catered dinner.
 Researchers shared insights with startup founders, industry veterans mingled with emerging talents, and new collaborations began to take shape amid the relaxed conversation.
-This informal gathering embodied SVAIN's dedication to building a genuine community rather than just another tech event.
+This informal gathering embodied K-PAI Nexus's dedication to building a genuine community rather than just another tech event.
 As conversations flowed, the boundaries between organizations dissolved, creating exactly the kind of authentic exchange that has become the hallmark of
 these Silicon Valley Private AI Forum events.
 
@@ -120,7 +120,7 @@ with multiple "aha moments" emerging from these unlikely partnerships rather tha
 # Looking Ahead
 
 <!--
-The 5th SVAIN Forum successfully illuminated the promising convergence of blockchain and AI, inspiring attendees to explore new frontiers in technology. As these fields continue to evolve, forums like SVAIN play a crucial role in fostering dialogue, collaboration, and innovation within the tech community.
+The 5th K-PAI Nexus Forum successfully illuminated the promising convergence of blockchain and AI, inspiring attendees to explore new frontiers in technology. As these fields continue to evolve, forums like K-PAI Nexus play a crucial role in fostering dialogue, collaboration, and innovation within the tech community.
 -->
 
-The 5th SVAIN Forum opened up fresh perspectives on the blockchain-AI intersection, leaving participants with both practical insights and provocative questions to explore. As these technologies mature on parallel but increasingly interconnected paths, community-driven gatherings like SVAIN serve as crucial incubators where speculative ideas transform into actionable research. Many attendees departed already marking their calendars for the next forum, eager to return with progress updates on collaborations sparked during this evening's exchange.
+The 5th K-PAI Nexus Forum opened up fresh perspectives on the blockchain-AI intersection, leaving participants with both practical insights and provocative questions to explore. As these technologies mature on parallel but increasingly interconnected paths, community-driven gatherings like K-PAI Nexus serve as crucial incubators where speculative ideas transform into actionable research. Many attendees departed already marking their calendars for the next forum, eager to return with progress updates on collaborations sparked during this evening's exchange.

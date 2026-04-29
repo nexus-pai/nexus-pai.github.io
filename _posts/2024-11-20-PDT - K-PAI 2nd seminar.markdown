@@ -1,7 +1,7 @@
 ---
 date: Thu Nov 21 10:51:49 PST 2024
 last_modified_at: Tue Apr  7 00:47:12 PDT 2026
-title: Reflections on the 2nd SVAIN Seminar (20-Nov-2024)
+title: Reflections on the 2nd K-PAI Nexus Seminar (20-Nov-2024)
 categories:
  - blog
 tags:
@@ -19,16 +19,16 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 {: .notice--primary}
 
 
-The 2nd SVAIN seminar was successfully held on November 20, 2024, drawing an impressive crowd of over 35 attendees. The event was a unique opportunity to delve into the intriguing theory and technology of homomorphic cryptography, explore its recent advancements, and understand its practical applications across various industries.
+The 2nd K-PAI Nexus seminar was successfully held on November 20, 2024, drawing an impressive crowd of over 35 attendees. The event was a unique opportunity to delve into the intriguing theory and technology of homomorphic cryptography, explore its recent advancements, and understand its practical applications across various industries.
 
 The attendees had the chance to network with key figures from Silicon Valley's tech scene, including engineers, scientists, market analysts, HR professionals, entrepreneurs, investors, and journalists, representing both burgeoning startups and established tech giants from the South Bay area.
 
 <!--
-The seminar concluded on a high note, leaving us with a strong sense of optimism about SVAIN's growth and a shared anticipation for the exciting seminar and non-seminar events planned for the future.
+The seminar concluded on a high note, leaving us with a strong sense of optimism about K-PAI Nexus's growth and a shared anticipation for the exciting seminar and non-seminar events planned for the future.
 -->
 
 <a href="https://www.reddit.com/r/StarWars/comments/1fbaqis/i_have_a_bad_feeling_about_this/">We had a very good feeling about this</a>
-leaving the event with a strong sense of optimism about SVAIN's trajectory,
+leaving the event with a strong sense of optimism about K-PAI Nexus's trajectory,
 looking forward to a multitude of exciting seminars and other events yet to come!
 
 

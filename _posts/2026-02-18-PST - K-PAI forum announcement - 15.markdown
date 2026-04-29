@@ -2,7 +2,7 @@
 date: Wed Feb 18 20:58:09 PST 2026
 last_modified_at: Thu Mar 12 18:00:32 PDT 2026
 layout: single
-title: "SVAIN's 15th Chapter: Powering the Future - Battery Innovation & Investment Frontiers"
+title: "K-PAI Nexus's 15th Chapter: Powering the Future - Battery Innovation & Investment Frontiers"
 permalink: /event-announcements/15
 categories:
  - blog
@@ -42,19 +42,19 @@ to share this forum!
 
 # Invitation
 
-SVAIN Community Members, Friends, Innovators, Energy Enthusiasts, and Investors!
+K-PAI Nexus Community Members, Friends, Innovators, Energy Enthusiasts, and Investors!
 
-⚡ **POWERING THE FUTURE WITH SVAIN!** ⚡
+⚡ **POWERING THE FUTURE WITH K-PAI Nexus!** ⚡
 
 2026 has already started with incredible momentum! Our [historic New Year Celebration]({{ prev_announcement.url }}){:target="_blank"} brought our community together in ways we've never experienced before—with powerful reflections on leadership, record-breaking fundraising, and pure joy that reminded us why relationships are fundamental to everything we do.
 
 Now we're ready to dive back into the cutting edge of technology—but with a twist!
 
-We are **<span style="color: red;">thrilled</span>** to invite you to SVAIN's **<span style="color: red;">15th Forum</span>**—a unique dual-track exploration connecting the physical foundations of our AI future (battery technology) with the financial engines that bring innovation to market (venture capital and startup ecosystems).
+We are **<span style="color: red;">thrilled</span>** to invite you to K-PAI Nexus's **<span style="color: red;">15th Forum</span>**—a unique dual-track exploration connecting the physical foundations of our AI future (battery technology) with the financial engines that bring innovation to market (venture capital and startup ecosystems).
 
 But here's what makes this Forum truly special &ndash; **<span style="color: red;">Nearly 2 hours of energized networking!</span>**
 
-After comprehensive presentations on battery science, investment wisdom, and practical resources for global expansion, we're dedicating extended time for the kind of **active, interactive, energized networking you can only experience at SVAIN**. Connect with battery engineers, AI researchers, investors, founders, legal professionals, and fellow innovators in an environment designed for meaningful conversations and lasting relationships.
+After comprehensive presentations on battery science, investment wisdom, and practical resources for global expansion, we're dedicating extended time for the kind of **active, interactive, energized networking you can only experience at K-PAI Nexus**. Connect with battery engineers, AI researchers, investors, founders, legal professionals, and fellow innovators in an environment designed for meaningful conversations and lasting relationships.
 
 - **Date**: 25-Feb-2026 (wed)
 - **Time**: 5pm - 9pm
@@ -80,11 +80,11 @@ As AI scales exponentially, two questions become increasingly critical!
 
 1. **How do breakthrough technologies reach global scale?** The journey from innovation to impact requires more than brilliant engineering—it demands strategic capital, market understanding, and the hard-earned wisdom of those who've built companies across continents.
 
-[Feb-2026 SVAIN Forum]({{ page.url }}) brings both perspectives together in one evening, followed by the networking time to forge connections that bridge technical excellence and business reality.
+[Feb-2026 K-PAI Nexus Forum]({{ page.url }}) brings both perspectives together in one evening, followed by the networking time to forge connections that bridge technical excellence and business reality.
 
 - <font color="red"><strong>Please RSVP via <a target="_blank" href="https://luma.com/mhiv0vgh">this link</a>!</strong></font>
-- Please visit [SVAIN Membership](/membership){:target="_blank"} to learn about our SVAIN membership for qualification and all exclusive perks you can enjoy!
-- Join us at SVAIN Members Kakaotalk Chatroom using [this info](/#join-us-at-kakaotalk){:target="_blank"} (if you're qualified)!
+- Please visit [K-PAI Nexus Membership](/membership){:target="_blank"} to learn about our K-PAI Nexus membership for qualification and all exclusive perks you can enjoy!
+- Join us at K-PAI Nexus Members Kakaotalk Chatroom using [this info](/#join-us-at-kakaotalk){:target="_blank"} (if you're qualified)!
 
 # Event Schedule: Built for Connection
 
@@ -95,7 +95,7 @@ This Forum features a networking-optimized format.
 | 5pm - 5:30pm | **Registration & Early Networking** |
 | 5:30pm - 6:10pm | **Talk 1 - Battery Technology Deep Dive** + Q&A |
 | 6:10pm - 6:50pm | **Talk 2 - Investment Landscape & Founder Journey** + Q&A |
-| 6:50pm - 7pm | **MiSook Chung - SVAIN Groups Initiative** |
+| 6:50pm - 7pm | **MiSook Chung - K-PAI Nexus Groups Initiative** |
 | 7pm - 7:15pm | **Junsung Kim - KOTRA - Your Gateway to Global Expansion** |
 | 7:15pm - 9pm | **🎉 Extended Networking Dinner (Nearly 2 Hours!) 🎉** |
 
@@ -115,9 +115,9 @@ This talk begins with the fundamentals of lithium-ion chemistry, cell architectu
 
 As artificial intelligence drives unprecedented computational demand and clean energy transitions reshape global infrastructure, battery technology emerges as a critical bottleneck and opportunity. This comprehensive session examines lithium-ion batteries from first principles to market realities.
 
-**What Makes This Relevant to SVAIN!**
+**What Makes This Relevant to K-PAI Nexus!**
 
-Battery technology intersects with SVAIN's core themes in unexpected ways.
+Battery technology intersects with K-PAI Nexus's core themes in unexpected ways.
 
 - **AI-driven optimization** - Battery manufacturing, supply chain logistics, and performance prediction increasingly leverage ML
 - **Energy infrastructure** - The power demands of AI datacenters connect directly to grid-scale storage
@@ -136,25 +136,25 @@ Drawing on his experience backing over 150 companies, including giants like Face
 
 In this candid session, David shares hard-won lessons from two decades at the intersection of technology, capital, and entrepreneurship.
 
-**What Makes This Relevant to SVAIN!**
+**What Makes This Relevant to K-PAI Nexus!**
 
-Many SVAIN members are founders, aspiring founders, or early employees at startups. David's perspective offers something rare - a view from inside the room where investment decisions happen, informed by actual operational experience building companies.
+Many K-PAI Nexus members are founders, aspiring founders, or early employees at startups. David's perspective offers something rare - a view from inside the room where investment decisions happen, informed by actual operational experience building companies.
 
 Whether you're seeking funding, considering joining a startup, evaluating career moves, or simply curious about how Silicon Valley actually works behind the buzzwords—this session provides unfiltered insights from someone who has seen it all, succeeded and failed, and kept building anyway.
 
-## Special Session - SVAIN Groups Initiative
+## Special Session - K-PAI Nexus Groups Initiative
 
 **Presented by** <a target="_blank" href="https://www.linkedin.com/in/misook-chung/">MiSook Chung</a> - Former HR Leader @ Micron, Wharton CHRO, Connecting People, Purpose & Innovation
 
-After our talks, MiSook Chung will introduce **SVAIN's organic groups (소모임) initiative**—a framework for members to self-organize around shared interests, professional goals, and personal passions.
+After our talks, MiSook Chung will introduce **K-PAI Nexus's organic groups (소모임) initiative**—a framework for members to self-organize around shared interests, professional goals, and personal passions.
 
 **Why this matters?**
 
-Our New Year Party taught us something important - SVAIN's value isn't just in quarterly forums—it's in ongoing relationships. SVAIN Groups provide structure for those relationships to deepen between our main events.
+Our New Year Party taught us something important - K-PAI Nexus's value isn't just in quarterly forums—it's in ongoing relationships. K-PAI Nexus Groups provide structure for those relationships to deepen between our main events.
 
 By the time we transition to dinner, you'll have everything you need to either join an existing group or start your own!
 
-*For more information, visit our [Groups page](/groups){:target="_blank"} showcasing existing SVAIN Groups and their activities.*
+*For more information, visit our [Groups page](/groups){:target="_blank"} showcasing existing K-PAI Nexus Groups and their activities.*
 
 ## Special Presentation - KOTRA - Your 'Control-C, Control-V' for Global Expansion
 
@@ -163,13 +163,13 @@ By the time we transition to dinner, you'll have everything you need to either j
 
 In this practical 15-minute session, Junsung Kim will demystify how KOTRA (Korea Trade-Investment Promotion Agency) serves as your strategic partner for global business expansion—making international growth as simple as "copy-paste."
 
-**Why This Matters to SVAIN**
+**Why This Matters to K-PAI Nexus**
 
-Many SVAIN members are founders, early employees, or professionals at companies navigating the Korea-US corridor. Whether you're a Korean startup exploring Silicon Valley expansion, a US company considering Korean markets, or a professional facilitating cross-border collaboration, KOTRA provides institutional support that can dramatically accelerate your efforts.
+Many K-PAI Nexus members are founders, early employees, or professionals at companies navigating the Korea-US corridor. Whether you're a Korean startup exploring Silicon Valley expansion, a US company considering Korean markets, or a professional facilitating cross-border collaboration, KOTRA provides institutional support that can dramatically accelerate your efforts.
 
 This session offers practical insights into how to access government resources designed specifically to support the kind of trans-Pacific innovation our community embodies.
 
-## Nearly 2 Hours of THE SVAIN Networking
+## Nearly 2 Hours of THE K-PAI Nexus Networking
 
 **7:15pm - 9pm - This is why you came!**
 
@@ -201,7 +201,7 @@ Light dinner and refreshments, generously sponsored by **Erudio Bio Korea, Inc.*
 **And Yes, Fun!**
 - Because the best conversations often happen when you're laughing
 - Because professional networking doesn't mean being professionally boring
-- Because SVAIN knows how to celebrate community
+- Because K-PAI Nexus knows how to celebrate community
 
 **Pro Tips for Networking Success**
 
@@ -221,7 +221,7 @@ We are deeply grateful to **Erudio Bio Korea, Inc.** for sponsoring the light di
 
 ## About Erudio Bio
 
-Erudio Bio represents the convergence of AI innovation and biomedical breakthroughs that SVAIN exists to celebrate. Founded with dual presence in the United States (Erudio Bio, Inc.) and Korea (Erudio Bio Korea, Inc.), Erudio Bio is pioneering AI-powered platforms that are transforming cancer diagnostics and drug discovery.
+Erudio Bio represents the convergence of AI innovation and biomedical breakthroughs that K-PAI Nexus exists to celebrate. Founded with dual presence in the United States (Erudio Bio, Inc.) and Korea (Erudio Bio Korea, Inc.), Erudio Bio is pioneering AI-powered platforms that are transforming cancer diagnostics and drug discovery.
 
 **Two Revolutionary Platforms:**
 
@@ -263,7 +263,7 @@ Erudio Bio's work has garnered significant recognition:
 
 **If you're an investor or considering venture capital**
 - Hear David Lee's perspective on evaluating startups in 2026
-- Network with founders and operators in SVAIN's community
+- Network with founders and operators in K-PAI Nexus's community
 - Explore technical domains (like battery tech) that inform investment theses
 
 **If you're a legal professional**
@@ -281,7 +281,7 @@ Erudio Bio's work has garnered significant recognition:
 - Meet people who can open doors and provide guidance
 - Get exposure to both technical depth and business strategy
 
-**If you're part of SVAIN's community**
+**If you're part of K-PAI Nexus's community**
 - Reconnect with friends from past forums
 - Meet new members who've joined since you last attended
 - Participate in the 소모임 initiative and find your tribe
@@ -289,12 +289,12 @@ Erudio Bio's work has garnered significant recognition:
 
 # Target Audience
 
-**Everyone who is or wants to be part of the [SVAIN](/) community!**
+**Everyone who is or wants to be part of the [K-PAI Nexus](/) community!**
 
-- Current [SVAIN](/) members (you're the guests of honor!)
+- Current [K-PAI Nexus](/) members (you're the guests of honor!)
 - Past forum attendees (welcome back!)
 - Anyone interested in joining our community
-- Friends and colleagues of [SVAIN](/) members
+- Friends and colleagues of [K-PAI Nexus](/) members
 - Technology professionals across all domains
 - Anyone passionate about responsible AI development
 - People who value genuine professional community
@@ -302,4 +302,4 @@ Erudio Bio's work has garnered significant recognition:
 We will see you all there!
 
 Best regards,<br>
-[SVAIN Committee](/committee)
+[K-PAI Nexus Committee](/committee)
