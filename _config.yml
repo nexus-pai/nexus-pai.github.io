@@ -16,9 +16,9 @@
 
 repository: nexus-pai/nexus-pai.github.io
 
-title: "Silicon Valley AI Nexus (K-PAI 2.0)"
+title: "Silicon Valley AI Nexus (K-PAI Nexus)"
 email: sunghee.yun@gmail.com
-description: K-PAI 2.0 Homepage
+description: K-PAI Nexus Homepage
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
@@ -67,7 +67,7 @@ plugins:
 
 # Site Author
 author:
-  name             : "K-PAI 2.0"
+  name             : "K-PAI Nexus"
   avatar           : "/assets/images/n-pai-logo.png"
   bio              : "Silicon Valley AI Nexus"
 #  location         : "Silicon Valley, CA, USA"
