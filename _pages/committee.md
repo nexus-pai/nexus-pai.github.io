@@ -1,5 +1,5 @@
 ---
-last_modified_at: Tue Apr 28 19:41:21 PDT 2026
+last_modified_at: Tue Apr 28 22:46:31 PDT 2026
 layout: single
 title: Committees
 permalink: /committee/
@@ -55,29 +55,6 @@ author_profile: false
 <table class="borderless-table">
 <tr>
 <td class="role" style="color: #0000dd;">
-	K-PAI Nexus Leader
-</td>
-<td class="kor-name">
-	윤성희
-</td>
-<td class="eng-name">
-	<a target="_blank" href="https://sungheeyun.github.io/">Sunghee Yun</a>
-</td>
-</tr>
-<tr>
-<td class="role" style="color: #0000dd;" id="hospitality-and-catering-director">
-	Community Engagement Chair
-</td>
-<td class="kor-name">
-	정미숙
-</td>
-<td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/misook-chung/">MiSook Chung</a>
-</td>
-</tr>
-<tr>
-<td class="role" style="color: #0000dd;">
-	Marketing Leader
 </td>
 <td class="kor-name">
 	김수연
@@ -88,7 +65,6 @@ author_profile: false
 </tr>
 <tr>
 <td class="role" style="color: #0000dd;">
-	Legal Affairs Advisor
 </td>
 <td class="kor-name">
 	송영욱
@@ -99,13 +75,33 @@ author_profile: false
 </tr>
 <tr>
 <td class="role" style="color: #0000dd;">
-	Legal Affairs Advisor
+	Chair of the Board
+</td>
+<td class="kor-name">
+	윤성희
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://sungheeyun.github.io/">Sunghee Yun</a>
+</td>
+</tr>
+<tr>
+<td class="role" style="color: #0000dd;">
 </td>
 <td class="kor-name">
 	이보형
 </td>
 <td class="eng-name">
 	<a target="_blank" href="https://www.linkedin.com/in/bohyounglee/">Bo Hyoung (Jeff) Lee</a>
+</td>
+</tr>
+<tr>
+<td class="role" style="color: #0000dd;" id="hospitality-and-catering-director">
+</td>
+<td class="kor-name">
+	정미숙
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/misook-chung/">MiSook Chung</a>
 </td>
 </tr>
 <tr>
@@ -125,7 +121,17 @@ author_profile: false
 <table class="borderless-table">
 <tr>
 <td class="role" style="color: #0000dd;">
-	Vision &amp; Principles Committee Chair
+</td>
+<td class="kor-name">
+	성종민
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/jongmin-sung/">Jongmin Sung</a>
+</td>
+</tr>
+<tr>
+<td class="role" style="color: #0000dd;">
+	Committee Chair
 </td>
 <td class="kor-name">
 	윤성희
@@ -162,16 +168,6 @@ author_profile: false
 </td>
 <td class="eng-name">
 	<a target="_blank" href="https://www.linkedin.com/in/bohyounglee/">Bo Hyoung (Jeff) Lee</a>
-</td>
-</tr>
-<tr>
-<td class="role" style="color: #0000dd;">
-</td>
-<td class="kor-name">
-	성종민
-</td>
-<td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/jongmin-sung/">Jongmin Sung</a>
 </td>
 </tr>
 </table>
@@ -250,6 +246,17 @@ author_profile: false
 # Program &amp; Content Committee
 
 <table class="borderless-table">
+<tr>
+<td class="role" style="color: #0000dd;">
+	K-PAI Nexus Leader
+</td>
+<td class="kor-name">
+	윤성희
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://sungheeyun.github.io/">Sunghee Yun</a>
+</td>
+</tr>
 <tr>
 <td class="role" style="color: #0000dd;" id="hospitality-and-catering-director">
 	Community Engagement Chair
