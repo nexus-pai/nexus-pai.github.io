@@ -1,5 +1,5 @@
 ---
-last_modified_at: Tue Apr 28 23:37:23 PDT 2026
+last_modified_at: Wed Apr 29 12:39:04 PDT 2026
 layout: single
 title: Committees
 permalink: /committee/
@@ -54,7 +54,7 @@ author_profile: false
 
 <table class="borderless-table">
 <tr>
-<td class="role" style="color: #0000dd;">
+<td class="role" style="color: #3333ff;">
 </td>
 <td class="kor-name">
 	김수연
@@ -64,7 +64,7 @@ author_profile: false
 </td>
 </tr>
 <tr>
-<td class="role" style="color: #0000dd;">
+<td class="role" style="color: #3333ff;">
 </td>
 <td class="kor-name">
 	송영욱
@@ -85,7 +85,7 @@ author_profile: false
 </td>
 </tr>
 <tr>
-<td class="role" style="color: #0000dd;">
+<td class="role" style="color: #3333ff;">
 </td>
 <td class="kor-name" id="jeff">
 	이보형
@@ -95,7 +95,7 @@ author_profile: false
 </td>
 </tr>
 <tr>
-<td class="role" style="color: #0000dd;" id="hospitality-and-catering-director">
+<td class="role" style="color: #3333ff;" id="hospitality-and-catering-director">
 </td>
 <td class="kor-name">
 	정미숙
@@ -120,7 +120,7 @@ author_profile: false
 
 <table class="borderless-table">
 <tr>
-<td class="role" style="color: #0000dd;">
+<td class="role" style="color: #3333ff;">
 </td>
 <td class="kor-name">
 	성종민
@@ -141,7 +141,7 @@ author_profile: false
 </td>
 </tr>
 <tr>
-<td class="role" style="color: #0000dd;">
+<td class="role" style="color: #3333ff;">
 </td>
 <td class="kor-name">
 	정미숙
@@ -151,7 +151,7 @@ author_profile: false
 </td>
 </tr>
 <tr>
-<td class="role" style="color: #0000dd;">
+<td class="role" style="color: #3333ff;">
 </td>
 <td class="kor-name">
 	송영욱
@@ -161,7 +161,7 @@ author_profile: false
 </td>
 </tr>
 <tr>
-<td class="role" style="color: #0000dd;">
+<td class="role" style="color: #3333ff;">
 </td>
 <td class="kor-name">
 	이보형
@@ -176,7 +176,7 @@ author_profile: false
 
 <table class="borderless-table">
 <tr>
-<td class="role" style="color: #0000dd;">
+<td class="role" style="color: #3333ff;">
 	UI/UX Lead
 </td>
 <td class="kor-name" id="soo">
@@ -187,7 +187,7 @@ author_profile: false
 </td>
 </tr>
 <tr>
-<td class="role" style="color: #0000dd;">
+<td class="role" style="color: #3333ff;">
 	Marketing Leader
 </td>
 <td class="kor-name">
@@ -198,7 +198,7 @@ author_profile: false
 </td>
 </tr>
 <tr>
-<td class="role" style="color: #0000dd;">
+<td class="role" style="color: #3333ff;">
 	Website &amp; Content Lead
 </td>
 <td class="kor-name">
@@ -220,7 +220,7 @@ author_profile: false
 </td>
 </tr>
 <tr>
-<td class="role" style="color: #0000dd;">
+<td class="role" style="color: #3333ff;">
 	Social Media Manager
 </td>
 <td class="kor-name">
@@ -231,7 +231,7 @@ author_profile: false
 </td>
 </tr>
 <tr>
-<td class="role" style="color: #0000dd;">
+<td class="role" style="color: #3333ff;">
 	Website &amp; Content Lead
 </td>
 <td class="kor-name">
@@ -277,7 +277,7 @@ author_profile: false
 </td>
 </tr>
 <tr>
-<td class="role" style="color: #0000dd;" id="legal-affairs-advisor">
+<td class="role" style="color: #3333ff;" id="legal-affairs-advisor">
 	Legal Affairs Advisor
 </td>
 <td class="kor-name">
@@ -299,7 +299,7 @@ author_profile: false
 </td>
 </tr>
 <tr>
-<td class="role" style="color: #0000dd;">
+<td class="role" style="color: #3333ff;">
 	Legal Affairs Advisor
 </td>
 <td class="kor-name">
@@ -350,7 +350,7 @@ author_profile: false
 </td>
 </tr>
 <tr>
-<td class="role" style="color: #0000dd;" id="hospitality-and-catering-director">
+<td class="role" style="color: #3333ff;" id="hospitality-and-catering-director">
 	Community Engagement Chair
 </td>
 <td class="kor-name">
