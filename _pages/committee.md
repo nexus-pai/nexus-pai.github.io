@@ -1,5 +1,5 @@
 ---
-last_modified_at: Sun Apr 26 21:31:00 PDT 2026
+last_modified_at: Tue Apr 28 19:39:47 PDT 2026
 layout: single
 title: Committees
 permalink: /committee/
@@ -50,7 +50,7 @@ author_profile: false
 </style>
 </head>
 
-# Board of Directors (tentative)
+# Board of Directors
 
 <table class="borderless-table">
 <tr>
@@ -91,6 +91,17 @@ author_profile: false
 	Legal Affairs Advisor
 </td>
 <td class="kor-name">
+	송영욱
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/youngwook-hayden-song-a5177019/">Youngwook (Hayden) Song</a>
+</td>
+</tr>
+<tr>
+<td class="role" style="color: #0000dd;">
+	Legal Affairs Advisor
+</td>
+<td class="kor-name">
 	이보형
 </td>
 <td class="eng-name">
@@ -101,27 +112,10 @@ author_profile: false
 <td>
 </td>
 <td class="kor-name">
-	TBD
+	황민하
 </td>
 <td class="eng-name">
-</td>
-</tr>
-<tr>
-<td>
-</td>
-<td class="kor-name">
-	TBD
-</td>
-<td class="eng-name">
-</td>
-</tr>
-<tr>
-<td>
-</td>
-<td class="kor-name">
-	TBD
-</td>
-<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/minha-hwang-7440771/">Minha Hwang</a>
 </td>
 </tr>
 </table>
@@ -411,9 +405,11 @@ author_profile: false
 </tr>
 </table>
 
+<!--
 # SNU School of Eng Internship Committee {#snu-internship-committee}
+-->
 
-<table class="borderless-table">
+<!--table class="borderless-table">
 <tr>
 <td class="role" style="color: #0000dd;">
 	Committee Chair
@@ -445,4 +441,4 @@ author_profile: false
 	<a target="_blank" href="https://www.linkedin.com/in/yerang-d-hur-5378564/">Yerang Hur</a>
 </td>
 </tr>
-</table>
+</table-->
