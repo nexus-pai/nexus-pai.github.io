@@ -1,5 +1,5 @@
 ---
-last_modified_at: Wed Apr 29 12:39:04 PDT 2026
+last_modified_at: Thu Apr 30 01:19:03 PDT 2026
 layout: single
 title: Committees
 permalink: /committee/
@@ -50,7 +50,7 @@ author_profile: false
 </style>
 </head>
 
-# Board of Directors
+# Board of Directors {#board-of-directors}
 
 <table class="borderless-table">
 <tr>
@@ -243,7 +243,7 @@ author_profile: false
 </tr>
 </table>
 
-# Program &amp; Content Committee
+# Program &amp; Content Committee {#program-and-content-committee}
 
 <table class="borderless-table">
 <tr>
@@ -408,6 +408,21 @@ author_profile: false
 </td>
 <td class="eng-name">
 	<a target="_blank" href="https://www.linkedin.com/in/yerang-d-hur-5378564/">Daniel Hur</a>
+</td>
+</tr>
+</table>
+
+# AI &amp; Humanity Council {#ai-and-humanity-council}
+
+<table class="borderless-table">
+<tr>
+<td class="role" style="color: #0000dd;">
+</td>
+<td class="kor-name">
+	윤성희
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://sungheeyun.github.io/">Sunghee Yun</a>
 </td>
 </tr>
 </table>
