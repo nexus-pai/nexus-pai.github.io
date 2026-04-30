@@ -1,6 +1,6 @@
 ---
 date: Thu Apr 30 00:12:17 PDT 2026
-last_modified_at: Thu Apr 30 02:06:49 PDT 2026
+last_modified_at: Thu Apr 30 02:44:46 PDT 2026
 layout: single
 title: "PR/FAQ - K-PAI Nexus: The Definitive AI Community"
 permalink: /pr-faq/2028
@@ -333,11 +333,11 @@ K-PAI Nexus's Korean-American roots and engagement with Korean government entiti
 | Milestone | Target Date |
 |-----------|-------------|
 | Board of Directors formation | Q2 2026 ✅ |
-| Non-profit 501(c)(3) filing | Q3 2026 |
-| K-PAI Nexus official launch announcement | Q3 2026 |
-| Vision & Principles Manifesto published | Q4 2026 |
-| AI & Humanity Council launched | Q4 2026 |
-| Broadcasting capability live | Q3 2026 |
+| Non-profit 501(c)(3) filing | Q2 2026 |
+| K-PAI Nexus official launch announcement | Q2 2026 |
+| Vision & Principles Manifesto published | Q3 2026 |
+| AI & Humanity Council launched | Q3 2026 |
+| Broadcasting capability live | Q2 2026 |
 | 500 qualified members | Q4 2027 |
 | AI & Humanity Council Report #1 | Q2 2027 |
 | First for-profit spinoff launched | Q4 2027 |
