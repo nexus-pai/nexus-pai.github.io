@@ -1,8 +1,8 @@
 ---
 date: Thu Apr 30 00:12:17 PDT 2026
-last_modified_at: Thu Apr 30 18:35:50 PDT 2026
+last_modified_at: Fri May  1 02:52:15 PDT 2026
 layout: single
-title: "PR/FAQ - K-PAI Nexus: The Definitive AI Community"
+title: "[PR/FAQ] K-PAI Nexus - The Definitive AI Community"
 permalink: /pr-faq/2028
 categories:
  - blog
