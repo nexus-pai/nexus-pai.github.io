@@ -1,5 +1,5 @@
 ---
-last_modified_at: Thu Apr 30 01:19:03 PDT 2026
+last_modified_at: Fri May  1 03:05:07 PDT 2026
 layout: single
 title: Committees
 permalink: /committee/
@@ -55,6 +55,7 @@ author_profile: false
 <table class="borderless-table">
 <tr>
 <td class="role" style="color: #3333ff;">
+	Marketing Leader
 </td>
 <td class="kor-name">
 	김수연
@@ -65,6 +66,7 @@ author_profile: false
 </tr>
 <tr>
 <td class="role" style="color: #3333ff;">
+	Legal Affairs Advisor
 </td>
 <td class="kor-name">
 	송영욱
@@ -86,6 +88,7 @@ author_profile: false
 </tr>
 <tr>
 <td class="role" style="color: #3333ff;">
+	Legal Affairs Advisor
 </td>
 <td class="kor-name" id="jeff">
 	이보형
@@ -96,6 +99,7 @@ author_profile: false
 </tr>
 <tr>
 <td class="role" style="color: #3333ff;" id="hospitality-and-catering-director">
+	Community Engagement Chair
 </td>
 <td class="kor-name">
 	정미숙
@@ -105,7 +109,8 @@ author_profile: false
 </td>
 </tr>
 <tr>
-<td>
+<td class="role" style="color: #3333ff;">
+	AI Master
 </td>
 <td class="kor-name">
 	황민하
