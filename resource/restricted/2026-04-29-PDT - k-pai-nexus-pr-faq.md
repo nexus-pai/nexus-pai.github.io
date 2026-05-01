@@ -1,6 +1,6 @@
 ---
 date: Thu Apr 30 00:12:17 PDT 2026
-last_modified_at: Thu Apr 30 18:11:41 PDT 2026
+last_modified_at: Thu Apr 30 18:29:28 PDT 2026
 layout: single
 title: "PR/FAQ - K-PAI Nexus: The Definitive AI Community"
 permalink: /pr-faq/2028
@@ -101,7 +101,7 @@ K-PAI Nexus's leadership recognizes that the organization's first four years rep
 
 "We've proven the model works," said [Sunghee Yun](https://sungheeyun.github.io). "A diverse, mission-driven community can produce world-class thought leadership, launch successful companies, educate thousands, and advise governments—all while remaining true to the conviction that AI must serve human flourishing. The next four years will be about deepening that impact and extending it globally. The best is yet to come."
 
-**For more information, visit [{{ site.url }}]({{ site.url }}).**
+**For more information, visit [{{ site.url }}](/).**
 
 **Media Contact:**
 K-PAI Nexus Communications Team
@@ -165,7 +165,7 @@ K-PAI Nexus does not charge membership fees. Qualification is earned through par
 
 ### Q7: How can I get involved?
 
-- **Attend a forum:** Visit [{{ site.url }}]({{ site.url }}) for upcoming events
+- **Attend a forum:** Visit [{{ site.url }}](/) for upcoming events
 - **Become a qualified member:** Attend two forums to join the Members chatroom
 - **Join an interest group:** Browse 30+ active groups spanning technology, law, ethics, healthcare, FinTech, and more
 - **Pitch your startup:** Apply for a 1-minute pitch slot at an upcoming forum
@@ -279,7 +279,7 @@ K-PAI Nexus operates as a 501(c)(3) non-profit with multiple revenue streams:
 - Year 3 (2028): $500K–$1M (diversified revenue)
 
 **Infrastructure:**
-- Professional website and member platform ([{{ site.url }}]({{ site.url }}))
+- Professional website and member platform ([{{ site.url }}](/))
 - Broadcasting/streaming capability for remote participation
 - Event management systems
 - CRM and member engagement tools
