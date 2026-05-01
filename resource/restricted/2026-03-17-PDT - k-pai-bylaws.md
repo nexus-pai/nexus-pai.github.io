@@ -1,9 +1,9 @@
 ---
 date: Tue Mar 17 03:38:07 PDT 2026
-last_modified_at: Tue Mar 17 12:42:30 PDT 2026
+last_modified_at: Fri May  1 14:11:01 PDT 2026
 layout: single
 title: Silicon Valley AI Nexus (K-PAI Nexus) Bylaws
-permalink: /bylaws/
+permalink: /bylaws/k-pai
 categories:
  - document
 tags:
