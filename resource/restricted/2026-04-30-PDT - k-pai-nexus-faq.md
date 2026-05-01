@@ -1,8 +1,8 @@
 ---
 date: Thu Apr 30 16:06:27 PDT 2026
-last_modified_at: Fri May  1 00:42:42 PDT 2026
+last_modified_at: Fri May  1 01:02:24 PDT 2026
 layout: single
-title: "K-PAI Nexus FAQ - Frequently Asked Questions"
+title: "K-PAI Nexus FAQs"
 permalink: /faq/k-pai-nexus
 categories:
  - faq
