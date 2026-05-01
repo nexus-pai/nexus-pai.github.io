@@ -1,6 +1,6 @@
 ---
 date: Thu Apr 30 00:12:17 PDT 2026
-last_modified_at: Thu Apr 30 18:29:28 PDT 2026
+last_modified_at: Thu Apr 30 18:35:50 PDT 2026
 layout: single
 title: "PR/FAQ - K-PAI Nexus: The Definitive AI Community"
 permalink: /pr-faq/2028
@@ -174,7 +174,7 @@ K-PAI Nexus does not charge membership fees. Qualification is earned through par
 
 ### Q8: I'm not Korean or Korean-American. Is K-PAI Nexus for me?
 
-Absolutely. While K-PAI Nexus has roots in the Korean-American professional community in Silicon Valley, our mission—exploring AI's comprehensive impact on humanity—is universal. Our forums, interest groups, and the AI & Humanity Council's work are conducted in English and are open to anyone who shares our commitment to understanding AI through a holistic, human-centered lens. Our community's diversity—spanning nationalities, disciplines, industries, and perspectives—is one of our greatest strengths.
+Absolutely. While K-PAI Nexus has roots in the Korean professional community in Silicon Valley, our mission—exploring AI's comprehensive impact on humanity—is universal. Our forums, interest groups, and the AI & Humanity Council's work are conducted in both English and Korean and are open to anyone who shares our commitment to understanding AI through a holistic, human-centered lens. Our community's diversity—spanning nationalities, disciplines, industries, and perspectives—is one of our greatest strengths.
 
 ### Q9: What makes K-PAI Nexus different from other AI communities or organizations?
 
