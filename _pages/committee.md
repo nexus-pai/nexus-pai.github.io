@@ -1,5 +1,5 @@
 ---
-last_modified_at: Fri May  1 03:05:07 PDT 2026
+last_modified_at: Fri May  1 03:59:26 PDT 2026
 layout: single
 title: Committees
 permalink: /committee/
@@ -79,7 +79,7 @@ author_profile: false
 <td class="role" style="color: #0000dd;">
 	Board Chair
 </td>
-<td class="kor-name">
+<td id="sunghee" class="kor-name">
 	윤성희
 </td>
 <td class="eng-name">
