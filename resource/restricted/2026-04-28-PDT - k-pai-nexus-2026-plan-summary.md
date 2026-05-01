@@ -1,6 +1,6 @@
 ---
 date: Tue Apr 28 23:21:51 PDT 2026
-last_modified_at: Wed Apr 29 10:51:52 PDT 2026
+last_modified_at: Fri May  1 04:29:01 PDT 2026
 layout: single
 title: K-PAI Nexus 2026 Plan & Vision
 permalink: /leadership/plan/2026
@@ -21,7 +21,7 @@ toc_sticky: true
 | **7월** | K-PAI Nexus - KASC Joint Colloquium (w/ 25 students from US/Korea) | ✅ Confirmed |
 | **8-10월** | Samsung Research / Consulate General of the Republic of Korea / Launch AI & Humanity Council (AI 미래 대비 포럼) | 🔄 Strategic decision |
 | **11월** | Legal Frontiers ([Jeff Lee](/committee/#jeff){:target="_blank"} leading, [Prof. Michael Sandel](https://en.wikipedia.org/wiki/Michael_Sandel){:target="_blank"} being explored) | ✅ Planned |
-| **12월** | Year End Party! 🎉 | ✅ Locked |
+| **12월** | Co-hosting Year End Party with our perpetual partner, KOTRA! 🎉 | ✅ Locked |
 
 <span style="color: red; font-style: italic; font-weight: bold;">Plus &ndash; A potential **"AI 미래 준비 위원회"** launch in 9-10-11월 with Stanford Professors and policy paper output for global governments + Korean government.</span>
 
