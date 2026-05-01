@@ -1,6 +1,6 @@
 ---
 date: Thu Apr 30 16:06:27 PDT 2026
-last_modified_at: Thu Apr 30 18:56:27 PDT 2026
+last_modified_at: Fri May  1 00:42:42 PDT 2026
 layout: single
 title: "K-PAI Nexus FAQ - Frequently Asked Questions"
 permalink: /faq/k-pai-nexus
@@ -253,7 +253,7 @@ Three fundamental differences:
 
 **1. Holistic scope.** Most AI communities focus on technology. K-PAI Nexus spans technology, industry, markets, entrepreneurship, law, policy, ethics, philosophy, psychology, and existential questions.
 
-**2. Contribution-based belonging.** <span class="emph">Membership is earned through participation, not purchased.</span> Board membership and leadership positions follow the same principle: they are earned through demonstrated contribution to the community's mission and sustained engagement with its work. <span style="color: red; font-weight: bold;">Academic credentials, professional titles, and industry reputation are valued—but they do not substitute for actual contribution.</span> <span class="emph">This ensures that governance reflects genuine commitment and creates networks built on trust and mutual accountability.</span>
+**2. <span id="contribution-based-belonging">Contribution-based belonging.</span>** <span class="emph">Membership is earned through participation, not purchased.</span> Board membership and leadership positions follow the same principle: they are earned through demonstrated contribution to the community's mission and sustained engagement with its work. <span style="color: red; font-weight: bold;">Academic credentials, professional titles, and industry reputation are valued—but they do not substitute for actual contribution.</span> <span class="emph">This ensures that governance reflects genuine commitment and creates networks built on trust and mutual accountability.</span>
 
 **3. Action-oriented impact.** K-PAI Nexus produces actionable reports that guide governments, launches companies that create economic value, delivers educational programs that transform careers, and builds a community that generates real connections daily.
 
