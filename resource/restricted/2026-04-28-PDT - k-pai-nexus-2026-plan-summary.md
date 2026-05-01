@@ -1,6 +1,6 @@
 ---
 date: Tue Apr 28 23:21:51 PDT 2026
-last_modified_at: Fri May  1 04:31:07 PDT 2026
+last_modified_at: Fri May  1 14:10:11 PDT 2026
 layout: single
 title: K-PAI Nexus 2026 Plan & Vision
 permalink: /leadership/plan/2026
@@ -85,9 +85,9 @@ Adding **2-3 member startup pitches (1 min each)** between main talks at every f
 - [x] 5월 - The AI Foundry (Amazon + OpenAI)
 - [x] 6월 - The Silicon Stethoscope
 - [x] 7월 - KASC Joint Colloquium
-- [ ] 8-10월 - Samsung Research / Consulate General of the Republic of Korea / K-ASIC (pick 2)
+- [ ] 8-10월 - Samsung Research / Consulate General of the Republic of Korea / K-ASIC
 - [ ] 11월 - Legal Frontiers (Jeff leading)
-- [ ] 12월 - Year End Party
+- [ ] 12월 - Year End Party (co-hosted by KOTRA SV)
 
 ## 🌐 New Initiatives
 - [ ] "K-PAI Nexus - AI & Humanity Council" launch
