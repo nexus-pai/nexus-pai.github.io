@@ -1,6 +1,6 @@
 ---
 date: Tue Nov  4 14:28:34 PST 2025
-last_modified_at: Sat Apr  4 02:58:01 KST 2026
+last_modified_at: Fri May  1 23:10:26 PDT 2026
 layout: single
 title: K-PAI Nexus Groups
 permalink: /groups/
@@ -19,6 +19,7 @@ toc_sticky: true
 |<span id="karaoke-group">Karaoke</span>|[Hayden](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/){:target="_blank"} [Jeff](https://www.linkedin.com/in/bohyounglee/){:target="_blank"} [Sunghee](https://sungheeyun.github.io) [Yeseul](https://www.linkedin.com/in/yeseul-lee-7980381ba/){:target="_blank"} (4)|Sunghee|
 |<span id="ai-hands-on-group">AI Hands-on</span>|[Chanik](https://www.linkedin.com/in/chanik-park-14878b32/){:target="_blank"} James [Kyoung Whan](https://www.linkedin.com/in/kywch/){:target="_blank"} [Minha](https://www.linkedin.com/in/minha-hwang-7440771/){:target="_blank"} [Sunghee](https://sungheeyun.github.io) (5)|Sunghee|
 |<span id="legal-prof-group">Legal Professionals</span>|[Dayoung](https://www.linkedin.com/in/dayoungjeong/){:target="_blank"} [Deborah](https://www.linkedin.com/in/dlysl/){:target="_blank"} [Ha Young](https://www.linkedin.com/in/hayoungkim5064/){:target="_blank"} [Hayden](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/){:target="_blank"} [Hyojin](https://www.linkedin.com/in/hyojin-lee-7b43a2260/){:target="_blank"} [Hyung Won](https://www.linkedin.com/in/hyung-won-eric-nahm-511599171/){:target="_blank"} [Hyunjung](https://www.linkedin.com/in/hyunjung-annie-yu/){:target="_blank"} [Jaewon](https://www.linkedin.com/in/jaewon-hwang/?originalSubdomain=kr){:target="_blank"} [Jeff](https://www.linkedin.com/in/bohyounglee/){:target="_blank"} Jiyoon [Joo Hyong](https://www.linkedin.com/in/daniel-joo-hyong-lee/){:target="_blank"} [Natalie](https://www.linkedin.com/in/natalie-huh-03b2221b7/){:target="_blank"} [Yeseul](https://www.linkedin.com/in/yeseul-lee-7980381ba/){:target="_blank"} (13)|Hayden Jeff Natalie|
+|<span id="legal-prof-group">East Bay</span>|[Daniel](https://www.linkedin.com/in/yerang-d-hur-5378564/){:target="_blank"} [Eugene](https://www.linkedin.com/in/ekjoo/){:target="_blank"} [Hyunjung](https://www.linkedin.com/in/hyunjung-annie-yu/){:target="_blank"} [Linda](https://www.linkedin.com/in/linda-woonju-baek/){:target="_blank"} [MiSook](https://www.linkedin.com/in/misook-chung/){:target="_blank"} [MJ](https://www.linkedin.com/in/mjkang8/){:target="_blank"} [Sunghee](https://sungheeyun.github.io) (7)|Hyunjung|
 
 (Members alphabetically ordered by their first names.)
 
