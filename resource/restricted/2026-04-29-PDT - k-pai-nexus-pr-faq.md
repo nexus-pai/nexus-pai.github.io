@@ -1,6 +1,6 @@
 ---
-date: Thu Apr 30 00:12:17 PDT 2026
-last_modified_at: Fri May  1 02:52:15 PDT 2026
+date: Wed Apr 29 23:12:17 PDT 2026
+last_modified_at: Sat May  2 22:18:17 PDT 2026
 layout: single
 title: "[PR/FAQ] K-PAI Nexus - The Definitive AI Community"
 permalink: /pr-faq/2028
@@ -18,6 +18,7 @@ toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
 toc_sticky: true
+author_profile: true
 ---
 
 posted: {{ page.date | date: "%d-%b-%Y" }}
@@ -30,6 +31,87 @@ The Press Release is written as if the vision has already been realized on **01-
 The FAQ section addresses both external and internal questions.
 This document is intended to align [K-PAI Nexus](/) leadership on our shared vision and to serve as our North Star.
 {: .notice--info}
+
+<div class="img-container-justified">
+	<div style="width: 49%; border: 1px solid #ccc; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin: 20px 0;">
+		<div style="background-color: #2c3e50; color: white; padding: 10px 15px; font-size: 14px;">
+			<strong>Deep Dive - The K-PAI Nexus 2028 AI Blueprint!</strong>
+			<span style="opacity: 0.8;">(40:41)</span>
+		</div>
+		<div style="padding: 10px; background-color: #ecf0f1;">
+			<audio id="podcast-audio-deep-dive-long-01" controls style="width: 100%;">
+				<source type="audio/mp4" src="https://sungheeyun-podcasts-04.github.io/resource/nexus-pai.github.io/posts/2026-04-29-PDT - k-pai-nexus-pr-faq/Deep Dive - The_K-PAI_Nexus_2028_AI_Blueprint.m4a">
+				Your browser does not support this audio element.
+			</audio>
+		</div>
+	</div>
+	<div style="width: 49%; border: 1px solid #ccc; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin: 20px 0;">
+		<div style="background-color: #2c3e50; color: white; padding: 10px 15px; font-size: 14px;">
+			<strong>Deep Dive - The 2028 Blueprint for K-PAI Nexus!</strong>
+			<span style="opacity: 0.8;">(34:39)</span>
+		</div>
+		<div style="padding: 10px; background-color: #ecf0f1;">
+			<audio id="podcast-audio-deep-dive-long-02" controls style="width: 100%;">
+				<source type="audio/mp4" src="https://sungheeyun-podcasts-04.github.io/resource/nexus-pai.github.io/posts/2026-04-29-PDT - k-pai-nexus-pr-faq/Deep Dive - The_2028_blueprint_for_K-PAI_Nexus.m4a">
+				Your browser does not support this audio element.
+			</audio>
+		</div>
+	</div>
+</div>
+
+<div class="img-container-justified">
+	<div style="width: 49%; border: 1px solid #ccc; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin: 20px 0;">
+		<div style="background-color: #2c3e50; color: white; padding: 10px 15px; font-size: 14px;">
+			<strong>Deep Dive - The K-PAI Nexus Holistic AI Blueprint!</strong>
+			<span style="opacity: 0.8;">(24:06)</span>
+		</div>
+		<div style="padding: 10px; background-color: #ecf0f1;">
+			<audio id="podcast-audio-deep-dive-01" controls style="width: 100%;">
+				<source type="audio/mp4" src="https://sungheeyun-podcasts-04.github.io/resource/nexus-pai.github.io/posts/2026-04-29-PDT - k-pai-nexus-pr-faq/Deep Dive - The_K-PAI_Nexus_holistic_AI_blueprint.m4a">
+				Your browser does not support this audio element.
+			</audio>
+		</div>
+	</div>
+	<div style="width: 49%; border: 1px solid #ccc; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin: 20px 0;">
+		<div style="background-color: #2c3e50; color: white; padding: 10px 15px; font-size: 14px;">
+			<strong>Deep Dive - K-PAI Nexus Human Centric AI Blueprint!</strong>
+			<span style="opacity: 0.8;">(21:15)</span>
+		</div>
+		<div style="padding: 10px; background-color: #ecf0f1;">
+			<audio id="podcast-audio-deep-dive-02" controls style="width: 100%;">
+				<source type="audio/mp4" src="https://sungheeyun-podcasts-04.github.io/resource/nexus-pai.github.io/posts/2026-04-29-PDT - k-pai-nexus-pr-faq/Deep Dive - K-PAI_Nexus_Human_Centric_AI_Blueprint.m4a">
+				Your browser does not support this audio element.
+			</audio>
+		</div>
+	</div>
+</div>
+
+<div class="img-container-justified">
+	<div style="width: 49%; border: 1px solid #ccc; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin: 20px 0;">
+		<div style="background-color: #2c3e50; color: white; padding: 10px 15px; font-size: 14px;">
+			<strong>Deep Dive - The 2028 K-PAI Nexus AI Blueprint!</strong>
+			<span style="opacity: 0.8;">(19:28)</span>
+		</div>
+		<div style="padding: 10px; background-color: #ecf0f1;">
+			<audio id="podcast-audio-deep-dive-03" controls style="width: 100%;">
+				<source type="audio/mp4" src="https://sungheeyun-podcasts-04.github.io/resource/nexus-pai.github.io/posts/2026-04-29-PDT - k-pai-nexus-pr-faq/Deep Dive - The_2028_K-PAI_Nexus_AI_Blueprint.m4a">
+				Your browser does not support this audio element.
+			</audio>
+		</div>
+	</div>
+	<div style="width: 49%; border: 1px solid #ccc; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin: 20px 0;">
+		<div style="background-color: #2c3e50; color: white; padding: 10px 15px; font-size: 14px;">
+			<strong>Debate - Bridging AI Startups and Existential Philosophy!</strong>
+			<span style="opacity: 0.8;">(22:04)</span>
+		</div>
+		<div style="padding: 10px; background-color: #ecf0f1;">
+			<audio id="podcast-audio-debate-01" controls style="width: 100%;">
+				<source type="audio/mp4" src="https://sungheeyun-podcasts-04.github.io/resource/nexus-pai.github.io/posts/2026-04-29-PDT - k-pai-nexus-pr-faq/Debate - Bridging_AI_Startups_and_Existential_Philosophy.m4a">
+				Your browser does not support this audio element.
+			</audio>
+		</div>
+	</div>
+</div>
 
 # PRESS RELEASE
 
