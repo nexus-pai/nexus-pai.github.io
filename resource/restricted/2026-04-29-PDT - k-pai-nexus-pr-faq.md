@@ -1,6 +1,6 @@
 ---
 date: Wed Apr 29 23:12:17 PDT 2026
-last_modified_at: Sat May  2 23:06:08 PDT 2026
+last_modified_at: Sat May  2 23:14:54 PDT 2026
 layout: single
 title: "[PR/FAQ] K-PAI Nexus - The Definitive AI Community"
 permalink: /pr-faq/2028
@@ -161,7 +161,7 @@ Perhaps most remarkably, K-PAI Nexus has demonstrated that nonprofit status and 
 
 K-PAI Nexus has contributed to the dissemination of knowledge by partnering with over twenty leading universities across the United States and South Korea—including Stanford, MIT, UC Berkeley, UCLA, University of Pennsylvania, Georgia Tech, Purdue, Duke, Texas A&M, University of Texas at Austin, Seoul National University, KAIST, POSTECH, Yonsei University, Korea University, Sungkyunkwan University, Tech University of Korea, Hanyang University, Gachon University, and Taejae University—to deliver differentiated education, hands-on AI lectures, immersive workshops, and real-world mentoring programs. Through partnerships with organizations like [Valley Innovation Partners](https://valleyinnovationpartners.com/){:target="_blank"} and [SVreboot](https://svreboot.com/){:target="_blank"}, K-PAI Nexus has provided students and the general public with educational experiences that simply cannot be found in traditional academic settings—bridging the gap between classroom theory and Silicon Valley practice.
 
-### The AI & Humanity Council: Where Thought Leadership Meets Real-World Impact
+## The AI & Humanity Council: Where Thought Leadership Meets Real-World Impact
 
 Perhaps K-PAI Nexus's most consequential contribution has been [the AI & Humanity Council](/committee/#ai-and-humanity-council){:target="_blank"}, a multidisciplinary think tank that has fundamentally changed how governments, institutions, and individuals understand and respond to artificial intelligence.
 
@@ -181,7 +181,7 @@ This comprehensive, action-oriented approach has been made possible by assemblin
 
 "The AI & Humanity Council represents something genuinely new," said [Prof. Michael Sandel](https://en.wikipedia.org/wiki/Michael_Sandel){:target="_blank"}, a political philosopher and the Anne T. and [Robert M. Bass](https://en.wikipedia.org/wiki/Robert_Bass_(businessman)){:target="_blank"} Professor of Government at [Harvard University](https://www.harvard.edu/){:target="_blank"}. "Most AI reports tell you what's happening. The Council's reports tell you what's happening, why it matters for every dimension of human experience, and most importantly, what we should do about it. They have become indispensable to anyone who takes seriously their responsibility to shape AI's trajectory."
 
-### K-PAI Nexus's Three Foundational Pillars
+## K-PAI Nexus's Three Foundational Pillars
 
 Every initiative, partnership, forum, report, and community activity traces back to K-PAI Nexus's three foundational pillars:
 
@@ -191,7 +191,7 @@ Every initiative, partnership, forum, report, and community activity traces back
 
 **3. Give Back to Society.** K-PAI Nexus channels its insights, connections, and innovations into tangible contributions that serve the broader world. The AI & Humanity Council's reports, the university partnerships, the educational outreach, and even the for-profit spinoffs—every output is measured not only by its direct value but by its contribution to human flourishing. Technology's progress is meaningful only when it advances human dignity and well-being.
 
-### Looking Forward
+## Looking Forward
 
 K-PAI Nexus's leadership recognizes that the organization's first four years represent only the foundation. As AI continues to advance at an unprecedented pace—with implications that grow more consequential by the month—the need for K-PAI Nexus's holistic, human-centered, action-oriented approach will only intensify.
 
