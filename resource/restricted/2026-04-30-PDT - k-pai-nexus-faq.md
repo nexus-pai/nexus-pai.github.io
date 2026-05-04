@@ -1,6 +1,6 @@
 ---
 date: Thu Apr 30 16:06:27 PDT 2026
-last_modified_at: Sat May  2 23:48:44 PDT 2026
+last_modified_at: Sun May  3 20:56:52 PDT 2026
 layout: single
 title: "K-PAI Nexus FAQs"
 permalink: /faq/k-pai-nexus
@@ -15,6 +15,7 @@ toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
 toc_sticky: true
+author_profile: true
 ---
 
 posted: {{ page.date | date: "%d-%b-%Y" }}

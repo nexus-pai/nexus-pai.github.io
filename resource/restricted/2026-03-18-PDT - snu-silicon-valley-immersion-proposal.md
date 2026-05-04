@@ -1,6 +1,6 @@
 ---
 date: Wed Mar 18 03:12:09 PDT 2026
-last_modified_at: Tue Apr  7 01:14:17 PDT 2026
+last_modified_at: Sun May  3 20:56:15 PDT 2026
 layout: single
 title: K-PAI Nexus × SNU College of Engineering Silicon Valley Immersion Program Proposal
 permalink: /proposals/snu-silicon-valley-immersion/
@@ -14,14 +14,15 @@ toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
 toc_sticky: true
+author_profile: true
 ---
 
 # K-PAI Nexus × SNU COLLEGE OF ENGINEERING
 ## SILICON VALLEY IMMERSION PROGRAM PROPOSAL
 
-**Prepared by:** K-PAI Nexus (Silicon Valley AI Nexus)  
-**Date:** March 17, 2026  
-**Contact:** Sunghee Yun (sunghee.yun@gmail.com) & Chanik Park
+**Prepared by:** K-PAI Nexus (Silicon Valley AI Nexus)\
+**Date:** March 17, 2026\
+**Contact:** Sunghee Yun (sunghee.yun@gmail.com)
 
 ---
 
@@ -53,7 +54,7 @@ On February 2, 2026, K-PAI Nexus and Seoul National University College of Engine
 The partnership garnered significant media attention, featured in more than 20 news medias including
 - **조선비즈** (Hong Areum, reporter): Coverage highlighting the strategic importance of Silicon Valley-Korea academic bridges
 - **국민일보** (Jang Eunhyun, reporter): Focus on talent development and global competitiveness
-- **서울경제** (Jung Yoona, reporter): Analysis of technology partnership implications  
+- **서울경제** (Jung Yoona, reporter): Analysis of technology partnership implications
 - **베리타스 알파** (Kim Hayeon, reporter): Educational innovation and international collaboration perspectives
 
 **This Silicon Valley Immersion Program represents the practical implementation of our MOU's vision—creating tangible, high-impact opportunities for SNU students to engage with Silicon Valley's innovation ecosystem.**
@@ -78,16 +79,16 @@ K-PAI Nexus is not a traditional academic organization or consulting firm. We ar
 
 The Silicon Valley Immersion Program is designed to achieve four core objectives:
 
-1. **Accelerate Startup Capabilities**  
+1. **Accelerate Startup Capabilities**\
    Equip SNU startup teams with practical knowledge, frameworks, and perspectives that directly enhance their ability to build, scale, and succeed
 
-2. **Provide Differentiated AI Education**  
+2. **Provide Differentiated AI Education**\
    Deliver technical AI lectures and insights that students cannot find in textbooks, traditional courses, or Korean institutions—bridging the gap between academic knowledge and industry practice
 
-3. **Enable Global Perspective**  
+3. **Enable Global Perspective**\
    Immerse students in Silicon Valley's unique innovation culture, helping them understand how the world's most successful technology ecosystem actually operates
 
-4. **Build Lasting Connections**  
+4. **Build Lasting Connections**\
    Create meaningful relationships between SNU students and Silicon Valley professionals that continue beyond the two-week program, forming a sustained talent pipeline
 
 ### Program Duration & Participants
@@ -422,63 +423,63 @@ For students in SNU's startup program, this immersion provides:
 
 ### Immediate Actions (March-April 2026)
 
-1. **SNU Review & Approval** ✅  
+1. **SNU Review & Approval** ✅
    - SNU College of Engineering reviews this proposal
    - Dean Kim and relevant administrators provide feedback
    - Budget allocation and approval process initiated
 
-2. **Program Refinement** ✅  
+2. **Program Refinement** ✅
    - K-PAI Nexus and SNU jointly finalize program details
    - Confirm preferred dates (likely Summer 2026)
    - Agree on specific learning objectives and priorities
 
-3. **MOU Addendum** ✅  
+3. **MOU Addendum** ✅
    - Create formal addendum to existing K-PAI Nexus × SNU MOU
    - Specify roles, responsibilities, and commitments
    - Address legal, insurance, and liability considerations
 
 ### Planning Phase (May-June 2026)
 
-4. **Student Selection** 📋  
+4. **Student Selection** 📋
    - SNU defines selection criteria for 23 participants
    - Application and interview process
    - Pre-program orientation materials distributed
 
-5. **Partner Outreach** 📋  
+5. **Partner Outreach** 📋
    - K-PAI Nexus begins company tour negotiations
    - Speaker and mentor recruitment
    - Venue and logistics booking
 
-6. **Curriculum Development** 📋  
+6. **Curriculum Development** 📋
    - Finalize lecture topics and speakers
    - Develop mentoring session frameworks
    - Create program handbook for students
 
 ### Execution Phase (July-August 2026)
 
-7. **Pre-Departure Preparation** ✈️  
+7. **Pre-Departure Preparation** ✈️
    - Student visas (if required) and travel booking
    - Pre-program webinars and orientation
    - Emergency contact protocols established
 
-8. **Program Delivery** 🎓  
+8. **Program Delivery** 🎓
    - Two-week immersion program in Silicon Valley
    - Real-time adjustments based on student feedback
    - Documentation (photos, videos, testimonials)
 
 ### Follow-Up Phase (September 2026 onwards)
 
-9. **Program Assessment** 📊  
+9. **Program Assessment** 📊
    - Student surveys and feedback collection
    - Partner debrief and lessons learned
    - Success metrics tracking initiated
 
-10. **Alumni Engagement** 🤝  
+10. **Alumni Engagement** 🤝
     - Monthly online check-ins with cohort
     - Invitation to K-PAI Nexus monthly forums (virtual participation)
     - Ongoing mentorship through K-PAI Nexus network
 
-11. **Future Planning** 🔄  
+11. **Future Planning** 🔄
     - Evaluate program for potential annual repetition
     - Consider expansion to other Korean universities
     - Explore reciprocal programs (Silicon Valley students to Korea)
@@ -499,18 +500,13 @@ We are excited about the opportunity to bring this vision to life and look forwa
 
 **K-PAI Nexus Program Leads:**
 
-**Sunghee Yun**  
-Co-Founder & Leader, K-PAI Nexus  
-Co-Founder & CTO, Erudio Bio  
-Email: sunghee.yun@gmail.com  
+**Sunghee Yun**\
+Co-Founder & Leader, K-PAI Nexus\
+Co-Founder & CTO, Erudio Bio\
+Email: sunghee.yun@gmail.com\
 Website: https://sungheeyun.github.io
 
-**Chanik Park**  
-Co-Leader, K-PAI Nexus  
-Email: [chanik.park contact info]  
-LinkedIn: https://www.linkedin.com/in/chanik-park-14878b32/
-
-**K-PAI Nexus Website:** https://k-privateai.github.io  
+**K-PAI Nexus Website:** https://k-privateai.github.io\
 **K-PAI Nexus Email:** [contact email if applicable]
 
 ---
