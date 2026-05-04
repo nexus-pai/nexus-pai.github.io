@@ -1,6 +1,6 @@
 ---
 date: Tue Apr 28 23:21:51 PDT 2026
-last_modified_at: Sun May  3 20:56:34 PDT 2026
+last_modified_at: Mon May  4 00:54:36 PDT 2026
 layout: single
 title: K-PAI Nexus 2026 Plan & Vision
 permalink: /leadership/plan/2026
@@ -10,6 +10,14 @@ toc_icon: "fa-solid fa-list"
 toc_sticky: true
 author_profile: true
 ---
+
+posted: {{ page.date| date: "%d-%b-%Y" }}
+&amp;
+updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
+{: .notice--primary}
+
+⚠️  Confidential &#124; K-PAI Nexus Leadership Only &#124; Not Publicly Listed\
+{: .notice--danger}
 
 # 🏛️ THE BIG PICTURE - K-PAI NEXUS 2026 PLAN
 

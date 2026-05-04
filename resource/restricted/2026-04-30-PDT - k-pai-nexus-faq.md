@@ -1,6 +1,6 @@
 ---
 date: Thu Apr 30 16:06:27 PDT 2026
-last_modified_at: Sun May  3 20:56:52 PDT 2026
+last_modified_at: Mon May  4 00:48:48 PDT 2026
 layout: single
 title: "K-PAI Nexus FAQs"
 permalink: /faq/k-pai-nexus
@@ -22,6 +22,10 @@ posted: {{ page.date | date: "%d-%b-%Y" }}
 &amp;
 updated: {{ page.last_modified_at | date: "%d-%b-%Y" }}
 {: .notice--primary}
+
+⚠️  Confidential &#124; K-PAI Nexus Leadership Only &#124; Not Publicly Listed\
+📅 Will be released publicly after Internal Board Review!
+{: .notice--danger}
 
 <div class="img-container-justified">
 	<div style="width: 49%; border: 1px solid #ccc; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin: 20px 0;">

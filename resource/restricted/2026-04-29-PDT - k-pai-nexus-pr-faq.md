@@ -1,6 +1,6 @@
 ---
 date: Wed Apr 29 23:12:17 PDT 2026
-last_modified_at: Sun May  3 01:54:44 PDT 2026
+last_modified_at: Mon May  4 00:47:58 PDT 2026
 layout: single
 title: "[PR/FAQ] K-PAI Nexus - The Definitive AI Community"
 permalink: /pr-faq/2028
@@ -25,6 +25,10 @@ posted: {{ page.date | date: "%d-%b-%Y" }}
 &amp;
 updated: {{ page.last_modified_at | date: "%d-%b-%Y" }}
 {: .notice--primary}
+
+⚠️  Confidential &#124; K-PAI Nexus Leadership Only &#124; Not Publicly Listed\
+📅 Will be released publicly after Internal Board Review!
+{: .notice--danger}
 
 This document follows [Amazon's PR/FAQ ("Working Backwards") methodology](https://workingbackwards.com/resources/working-backwards-pr-faq/){:target="_blank"}.
 The Press Release is written as if the vision has already been realized on **01-Dec-2028**.

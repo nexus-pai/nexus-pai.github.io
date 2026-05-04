@@ -1,6 +1,6 @@
 ---
 date: Tue Mar 17 03:38:07 PDT 2026
-last_modified_at: Fri May  1 14:11:01 PDT 2026
+last_modified_at: Mon May  4 00:53:06 PDT 2026
 layout: single
 title: Silicon Valley AI Nexus (K-PAI Nexus) Bylaws
 permalink: /bylaws/k-pai
@@ -15,6 +15,14 @@ toc_sticky: true
 usemathjax: false
 author_profile: true
 ---
+
+posted: {{ page.date| date: "%d-%b-%Y" }}
+&amp;
+updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
+{: .notice--primary}
+
+⚠️  Confidential &#124; K-PAI Nexus Board Only &#124; Not Publicly Listed\
+{: .notice--danger}
 
 # BYLAWS OF Silicon Valley AI Nexus (K-PAI Nexus)
 

@@ -1,6 +1,6 @@
 ---
 date: Wed Mar 18 03:12:09 PDT 2026
-last_modified_at: Sun May  3 20:56:15 PDT 2026
+last_modified_at: Mon May  4 00:53:55 PDT 2026
 layout: single
 title: K-PAI Nexus × SNU College of Engineering Silicon Valley Immersion Program Proposal
 permalink: /proposals/snu-silicon-valley-immersion/
@@ -16,6 +16,14 @@ toc_icon: "fa-solid fa-list"
 toc_sticky: true
 author_profile: true
 ---
+
+posted: {{ page.date| date: "%d-%b-%Y" }}
+&amp;
+updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
+{: .notice--primary}
+
+⚠️  Confidential &#124; K-PAI Nexus Internal Review Only &#124; Not Publicly Listed\
+{: .notice--danger}
 
 # K-PAI Nexus × SNU COLLEGE OF ENGINEERING
 ## SILICON VALLEY IMMERSION PROGRAM PROPOSAL
