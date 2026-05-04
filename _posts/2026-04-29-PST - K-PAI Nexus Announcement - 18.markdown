@@ -1,6 +1,6 @@
 ---
 date: Wed Apr 29 00:15:35 PDT 2026
-last_modified_at: Wed Apr 29 00:32:02 PDT 2026
+last_modified_at: Sun May  3 22:21:15 PDT 2026
 layout: single
 title: "[K-PAI Nexus's 18th Chapter] The Silicon Stethoscope - Bridging Seoul's Medical Reality and Silicon Valley's AI Vision in Healthcare's Trillion Dollar Transformation"
 permalink: /event-announcements/18
@@ -67,8 +67,8 @@ This forum brings together clinical reality, Silicon Valley startup thinking, Ko
 - **Time**: 5pm - 8pm
 - **Venue**: [Alaska @ KOTRA](https://maps.app.goo.gl/rodukzZGtDmz2XZM9){:target="_blank"}
 - **Speakers**
-  - [Jong Hyeok Kim, MD, PhD](https://www.amc.seoul.kr/asan/staff/base/staffBaseInfoDetail.do?drEmpId=REZEOG8wVm04YnFiN1hYUWpPWXVsQT09){:target="_blank"} - Asan Medical Center
-  - [Sunghee Yun](https://sungheeyun.github.io) - Co-Founder & CTO @ Erudio Bio (US) / Co-Founder & CEO @ Erudio Bio Korea / Co-Founder & Leader of K-PAI Nexus
+  - [Jong Hyeok Kim, MD, PhD](https://www.amc.seoul.kr/asan/staff/base/staffBaseInfoDetail.do?drEmpId=REZEOG8wVm04YnFiN1hYUWpPWXVsQT09){:target="_blank"} - [Asan Medical Center](https://eng.amc.seoul.kr/gb/lang/main.do){:target="_blank"}
+  - [Sunghee Yun](https://sungheeyun.github.io) - Co-Founder & CTO @ [Erudio Bio](https://www.erudio.bio/) / Co-Founder & CEO @ [Erudio Bio Korea](https://sungheeyun-erudio.github.io/) / Co-Founder & Leader of [K-PAI Nexus](/)
 
 <!--
 <div class="img-container">
@@ -126,7 +126,7 @@ The panel discussion will then open the floor for honest conversation: what is r
 
 **Speaker**
 &ndash;
-[**Jong Hyeok Kim, MD, PhD**](https://www.amc.seoul.kr/asan/staff/base/staffBaseInfoDetail.do?drEmpId=REZEOG8wVm04YnFiN1hYUWpPWXVsQT09){:target="_blank"} - Asan Medical Center
+[**Jong Hyeok Kim, MD, PhD**](https://www.amc.seoul.kr/asan/staff/base/staffBaseInfoDetail.do?drEmpId=REZEOG8wVm04YnFiN1hYUWpPWXVsQT09){:target="_blank"} - [Asan Medical Center](https://eng.amc.seoul.kr/gb/lang/main.do){:target="_blank"}
 
 Korea's hospital system offers one of the most important real-world windows into the future of healthcare.
 With high patient volumes, sophisticated specialists, strong diagnostic infrastructure, and a culture of preventive screening and hospital-centered care, Seoul's medical ecosystem provides a uniquely valuable perspective on what healthcare AI must actually accomplish.
@@ -150,7 +150,7 @@ For AI builders, founders, investors, and researchers, this session provides the
 
 **Speaker**
 &ndash;
-[**Sunghee Yun**](https://sungheeyun.github.io) - Co-Founder & CTO @ Erudio Bio (US) / Co-Founder & CEO @ Erudio Bio Korea / Co-Founder & Leader of K-PAI Nexus
+[**Sunghee Yun**](https://sungheeyun.github.io) - Co-Founder & CTO @ [Erudio Bio](https://www.erudio.bio/) / Co-Founder & CEO @ [Erudio Bio Korea](https://sungheeyun-erudio.github.io/) / Co-Founder & Leader of [K-PAI Nexus](/)
 
 Silicon Valley sees healthcare as one of the largest and most important frontiers for AI.
 But the opportunity is not only in chatbots, automation, or administrative efficiency. The deeper transformation may come from combining **biological data**, **diagnostics**, **computational biology**, **AI-driven measurement**, and **platform technologies** that change how diseases are detected, monitored, and treated.
@@ -163,19 +163,30 @@ This talk will explore how AI can reshape healthcare across multiple layers:
 - **Drug discovery AI** - using computation, simulation, and measurement to improve therapeutic development
 - **Korea-Silicon Valley collaboration** - connecting hospital reality, engineering execution, and startup ambition
 
-The talk will also discuss why healthcare AI needs more than algorithms.
+The talk will also discuss why healthcare AI needs moSre than algorithms.
 It needs high-quality data, clinically relevant measurements, scalable hardware, regulatory strategy, business model discipline, and partnerships with hospitals that understand real patient needs.
 
 **Why This Matters to K-PAI Nexus**
 
-K-PAI Nexus sits at the intersection of AI, Korea, Silicon Valley, privacy, entrepreneurship, and real-world deployment.
+[K-PAI Nexus](/) sits at the intersection of AI, Korea, Silicon Valley, privacy, entrepreneurship, and real-world deployment.
 Healthcare AI is exactly the kind of domain where this intersection matters.
 
 The opportunity is enormous—but so are the constraints. This talk will frame healthcare's trillion-dollar transformation not as a simple software story, but as a systems-level transformation across medicine, computation, biology, diagnostics, and global collaboration.
 
 ## Panel Discussion &ndash; Bridging Medical Reality and AI Vision
 
-After the two talks, we will bring the speakers together and two other domain experts (<span style="color: blue;">TBD</span>) for a moderated panel discussion and questions from the floor.
+After the two talks, we will bring the speakers together and two other domain experts for a moderated panel discussion and questions from the floor.
+
+**Moderator**
+&ndash;
+<span id="jeff"></span>[Bo Hyoung (Jeff) Lee](https://www.linkedin.com/in/bohyounglee/){:target="_blank"} - Corporate M&A Attorney @ Shin & Kim / Stanford LL.M. candidate
+
+<span id="panelists"></span>
+**Panelists**
+- [**Jong Hyeok Kim, MD, PhD**](https://www.amc.seoul.kr/asan/staff/base/staffBaseInfoDetail.do?drEmpId=REZEOG8wVm04YnFiN1hYUWpPWXVsQT09){:target="_blank"} - [Asan Medical Center](https://eng.amc.seoul.kr/gb/lang/main.do){:target="_blank"}
+- [**Sunghee Yun**](https://sungheeyun.github.io) - Co-Founder & CTO / CEO / Leader @ [Erudio Bio](https://www.erudio.bio/) / [Erudio Bio Korea](https://sungheeyun-erudio.github.io/) / [K-PAI Nexus](/)
+- TBD
+- TBD
 
 This is where the conversation becomes interactive.
 
