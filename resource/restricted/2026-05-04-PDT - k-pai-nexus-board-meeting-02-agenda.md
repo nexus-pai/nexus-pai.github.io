@@ -1,6 +1,6 @@
 ---
 date: Mon May  4 01:16:51 PDT 2026
-last_modified_at: Mon May  4 01:24:00 PDT 2026
+last_modified_at: Mon May  4 01:27:58 PDT 2026
 layout: single
 title: "K-PAI Nexus Board of Directors - Second Meeting Agenda"
 permalink: /board/meeting-02/agenda
@@ -23,7 +23,7 @@ posted: {{ page.date | date: "%d-%b-%Y" }}
 updated: {{ page.last_modified_at | date: "%d-%b-%Y" }}
 {: .notice--primary}
 
-⚠️  Confidential &#124; K-PAI Nexus Board Only &#124; Not Publicly Listed\
+⚠️  Confidential &#124; K-PAI Nexus Board Only &#124; Not Publicly Listed
 {: .notice--danger}
 
 **Document Prepared By:** Sunghee Yun, Chair of the Board\
