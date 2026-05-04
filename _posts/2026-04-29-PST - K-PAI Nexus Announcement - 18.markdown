@@ -1,6 +1,6 @@
 ---
 date: Wed Apr 29 00:15:35 PDT 2026
-last_modified_at: Sun May  3 22:21:15 PDT 2026
+last_modified_at: Mon May  4 11:25:01 PDT 2026
 layout: single
 title: "[K-PAI Nexus's 18th Chapter] The Silicon Stethoscope - Bridging Seoul's Medical Reality and Silicon Valley's AI Vision in Healthcare's Trillion Dollar Transformation"
 permalink: /event-announcements/18
@@ -179,7 +179,9 @@ After the two talks, we will bring the speakers together and two other domain ex
 
 **Moderator**
 &ndash;
-<span id="jeff"></span>[Bo Hyoung (Jeff) Lee](https://www.linkedin.com/in/bohyounglee/){:target="_blank"} - Corporate M&A Attorney @ Shin & Kim / Stanford LL.M. candidate
+<span id="jeff"></span>[Bo Hyoung (Jeff) Lee, JD, PhD](https://www.linkedin.com/in/bohyounglee/){:target="_blank"}
+&ndash;
+Bioscience & Technology Regulation Attorney @ Shin & Kim / Stanford Law & Biosciences Fellow (LL.M. candidate)
 
 <span id="panelists"></span>
 **Panelists**
