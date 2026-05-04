@@ -1,13 +1,11 @@
 ---
 date: Sun May  3 20:03:44 PDT 2026
-last_modified_at: Mon May  4 00:50:53 PDT 2026
+last_modified_at: Mon May  4 01:24:39 PDT 2026
 layout: single
 title: "K-PAI Nexus Board of Directors - First Meeting Agenda"
 permalink: /board/meeting-01/agenda
 categories:
- - board
- - governance
- - meeting
+ - board-meeting
 tags:
  - board-meeting
  - governance
