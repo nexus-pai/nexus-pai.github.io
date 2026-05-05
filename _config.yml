@@ -91,6 +91,9 @@ author:
     - label: "Silicon Valley, CA, USA"
       icon: "fas fa-map-marker-alt"
       url: "https://maps.app.goo.gl/74sNfTckzm9aCz619"
+    - label: "South Korea"
+      icon: "fas fa-map-marker-alt"
+      url: "https://maps.app.goo.gl/Nvw5wpLvaYWokezs5"
 
 
 # Site Footer
@@ -114,6 +117,9 @@ footer:
     - label: "Silicon Valley, CA, USA"
       icon: "fas fa-map-marker-alt"
       url: "https://maps.app.goo.gl/74sNfTckzm9aCz619"
+    - label: "South Korea"
+      icon: "fas fa-map-marker-alt"
+      url: "https://maps.app.goo.gl/Nvw5wpLvaYWokezs5"
 
 defaults:
   # _posts
