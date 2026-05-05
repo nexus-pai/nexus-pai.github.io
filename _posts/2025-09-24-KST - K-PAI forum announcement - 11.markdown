@@ -4,7 +4,7 @@ last_modified_at: Thu Jan 22 01:53:39 PST 2026
 title: "K-PAI Nexus's 11th Chapter: Power Paradigm - AI-Driven Solutions for Energy's Future"
 permalink: /event-announcements/11
 categories:
- - blog
+ - announcement
 tags:
  - seminar
  - announcement

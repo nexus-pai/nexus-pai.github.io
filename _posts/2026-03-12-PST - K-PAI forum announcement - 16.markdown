@@ -5,7 +5,7 @@ layout: single
 title: "K-PAI Nexus's 16th Chapter - K-PAI Nexus X LGE Forum: Next-Generation Computing & AI Security Forum"
 permalink: /event-announcements/16
 categories:
- - blog
+ - announcement
 tags:
  - event
  - announcement

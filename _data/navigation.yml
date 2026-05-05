@@ -21,6 +21,8 @@ main:
 #    url: /i-recommend
   - title: "Posts"
     url: /posts
+  - title: "Cats"
+    url: /categories
   - title: "Tags"
     url: /tags
   - title: "Membership"

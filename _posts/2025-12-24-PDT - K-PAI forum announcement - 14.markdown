@@ -5,7 +5,7 @@ layout: single
 title: "K-PAI Nexus's 14th Chapter: 2026 New Year Celebration - Reflecting, Connecting, and Celebrating!"
 permalink: /event-announcements/14
 categories:
- - blog
+ - announcement
 tags:
  - event
  - announcement

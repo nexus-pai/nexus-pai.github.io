@@ -3,7 +3,7 @@ date: 19-Nov-2024 PST
 last_modified_at: Thu Jan 22 00:00:07 PST 2026
 title: The 2nd K-PAI Nexus Seminar Invitation
 categories:
- - blog
+ - announcement
 tags:
  - seminar
  - announcement

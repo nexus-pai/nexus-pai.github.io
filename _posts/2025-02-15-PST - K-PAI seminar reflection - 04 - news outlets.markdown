@@ -5,6 +5,7 @@ title: "Reflections on The 4th K-PAI Nexus Forum - news articles and photos"
 permalink: /seminar-reflections/04/news
 categories:
  - blog
+ - reflection
 tags:
  - seminar
  - reflection

@@ -5,6 +5,7 @@ title: "Reflection on K-PAI Nexus's Tenth Forum: The Human-Centric AI Revolution
 permalink: /seminar-reflections/10
 categories:
  - blog
+ - reflection
 tags:
  - seminar
  - reflection

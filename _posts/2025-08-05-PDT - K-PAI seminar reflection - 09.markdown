@@ -5,6 +5,7 @@ title: "Reflection on K-PAI Nexus's Ninth Forum: Fortress Code - The New Frontie
 permalink: /seminar-reflections/09
 categories:
  - blog
+ - reflection
 tags:
  - seminar
  - reflection

@@ -4,7 +4,7 @@ last_modified_at: Tue Jan 13 14:57:05 PST 2026
 title: "Fortress Code - The New Frontier of AI Security"
 permalink: /event-announcements/09
 categories:
- - blog
+ - announcement
 tags:
  - seminar
  - announcement

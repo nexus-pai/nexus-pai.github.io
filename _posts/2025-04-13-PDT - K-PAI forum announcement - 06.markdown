@@ -4,7 +4,7 @@ last_modified_at: Wed Apr 23 00:34:29 PDT 2025
 title: "K-PAI Nexus partners with K-BioX! Advancing Humanity &ndash; Bio and Medical Technology's AI Revolution!"
 permalink: /event-announcements/06
 categories:
- - blog
+ - announcement
 tags:
  - seminar
  - announcement

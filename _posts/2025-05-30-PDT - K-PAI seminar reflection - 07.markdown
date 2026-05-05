@@ -5,6 +5,7 @@ title: "Reflection on K-PAI Nexus's Seventh Forum: The Autonomous Alliance - AI 
 permalink: /seminar-reflections/07
 categories:
  - blog
+ - reflection
 tags:
  - seminar
  - reflection

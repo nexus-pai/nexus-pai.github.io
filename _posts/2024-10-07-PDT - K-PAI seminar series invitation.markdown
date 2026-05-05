@@ -4,7 +4,7 @@ last_modified_at: Thu Jan 22 00:00:40 PST 2026
 title: K-PAI Nexus Seminar-series Invitation
 permalink: /seminar-announcements/series
 categories:
- - blog
+ - announcement
 tags:
  - seminar
  - announcement

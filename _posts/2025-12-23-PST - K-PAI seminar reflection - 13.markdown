@@ -5,6 +5,7 @@ last_modified_at: Tue Dec 30 17:27:10 PST 2025
 permalink: /seminar-reflections/13
 categories:
  - blog
+ - reflection
 tags:
  - seminar
  - reflection

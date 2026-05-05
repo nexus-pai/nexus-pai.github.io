@@ -4,7 +4,7 @@ last_modified_at: Thu Jan 22 01:33:44 PST 2026
 title: "The Human-Centric AI Revolution - From Technical Compliance to Humanistic Leadership"
 permalink: /event-announcements/10
 categories:
- - blog
+ - announcement
 tags:
  - seminar
  - announcement

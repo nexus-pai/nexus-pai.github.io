@@ -5,7 +5,7 @@ layout: single
 title: "[K-PAI Nexus's 18th Chapter] The Silicon Stethoscope - Bridging Seoul's Medical Reality and Silicon Valley's AI Vision in Healthcare's Trillion Dollar Transformation"
 permalink: /event-announcements/18
 categories:
- - blog
+ - announcement
 tags:
  - event
  - announcement

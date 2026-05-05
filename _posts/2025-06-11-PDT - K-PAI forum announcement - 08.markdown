@@ -4,7 +4,7 @@ last_modified_at: Thu Jan 22 01:23:27 PST 2026
 title: "Silicon Companions - Robots and Smart Devices in Daily Life"
 permalink: /event-announcements/08
 categories:
- - blog
+ - announcement
 tags:
  - seminar
  - announcement

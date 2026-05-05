@@ -4,7 +4,7 @@ last_modified_at: Thu Jan 22 00:06:15 PST 2026
 title: "The AI Knight Rises - Join Silicon Valley's Premier AI Forum, Networking, and Premium Korean Dining Experience @ Stanford University!"
 permalink: /seminar-announcements/03
 categories:
- - blog
+ - announcement
 tags:
  - seminar
  - announcement

@@ -5,6 +5,7 @@ title: "Silicon Valley Private AI Forum Hits New Heights - 100 Leaders Gather fo
 permalink: /seminar-reflections/03
 categories:
  - blog
+ - reflection
 tags:
  - seminar
  - reflection

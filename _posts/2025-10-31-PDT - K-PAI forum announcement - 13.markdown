@@ -4,7 +4,7 @@ date: Fri Oct 31 06:30:18 PDT 2025
 last_modified_at: Wed Nov 12 12:42:59 PST 2025
 permalink: /event-announcements/13
 categories:
- - blog
+ - announcement
 tags:
  - seminar
  - announcement

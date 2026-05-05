@@ -5,6 +5,7 @@ title: Unlocking Innovation - Blockchain and AI at K-PAI Nexus 5
 permalink: /seminar-reflections/05
 categories:
  - blog
+ - reflection
 tags:
  - seminar
  - reflection

@@ -4,7 +4,7 @@ last_modified_at: Thu Jan 22 00:50:23 PST 2026
 title: "Blockchain Awakens - The Force of Decentralized AI @ LG Silicon Valley Lab!"
 permalink: /event-announcements/05
 categories:
- - blog
+ - announcement
 tags:
  - seminar
  - announcement

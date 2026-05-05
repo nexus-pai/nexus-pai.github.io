@@ -5,6 +5,7 @@ title: "Reflection on K-PAI Nexus's Twelfth Forum - The Marketing Intelligence R
 permalink: /seminar-reflections/12
 categories:
  - blog
+ - reflection
 tags:
  - seminar
  - reflection

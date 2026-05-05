@@ -5,7 +5,7 @@ layout: single
 title: "[K-PAI Nexus's 19th Chapter] Bridge Builders - Korea-America's Next Generation on Tech Sovereignty and Human Future"
 permalink: /event-announcements/19
 categories:
- - blog
+ - announcement
 tags:
  - event
  - announcement

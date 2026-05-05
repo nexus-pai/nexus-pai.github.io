@@ -5,7 +5,7 @@ layout: single
 title: "K-PAI Nexus's 15th Chapter: Powering the Future - Battery Innovation & Investment Frontiers"
 permalink: /event-announcements/15
 categories:
- - blog
+ - announcement
 tags:
  - event
  - announcement

@@ -4,7 +4,7 @@ last_modified_at: Thu Jan 22 01:55:26 PST 2026
 title: "K-PAI Nexus's 12th Chapter: Ad Intelligence - AI Revolution in Digital Marketing"
 permalink: /event-announcements/12
 categories:
- - blog
+ - announcement
 tags:
  - seminar
  - announcement

@@ -5,6 +5,7 @@ title: "Reflection on K-PAI Nexus's Sixth Forum: Advancing Humanity - Bio and Me
 permalink: /seminar-reflections/06
 categories:
  - blog
+ - reflection
 tags:
  - seminar
  - reflection

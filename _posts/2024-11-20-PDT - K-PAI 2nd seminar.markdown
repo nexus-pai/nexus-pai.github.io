@@ -4,6 +4,7 @@ last_modified_at: Tue Apr  7 00:47:12 PDT 2026
 title: Reflections on the 2nd K-PAI Nexus Seminar (20-Nov-2024)
 categories:
  - blog
+ - reflection
 tags:
  - seminar
  - reflection
