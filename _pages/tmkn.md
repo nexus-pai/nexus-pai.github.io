@@ -1,9 +1,9 @@
 ---
 layout: single
 title: To Me, K-PAI Nexus is &hellip;
-permalink: /tmsv/
+permalink: /tmkn/
 date: Mon Oct 13 03:59:43 PDT 2025
-last_modified_at: Mon Dec 15 09:53:27 KST 2025
+last_modified_at: Mon May  4 23:34:08 PDT 2026
 toc: true
 toc_label: "ToC"
 toc_icon: "cog"
