@@ -1,6 +1,6 @@
 ---
 date: Tue Apr 28 23:21:51 PDT 2026
-last_modified_at: Mon May  4 00:54:36 PDT 2026
+last_modified_at: Mon May  4 21:25:47 PDT 2026
 layout: single
 title: K-PAI Nexus 2026 Plan & Vision
 permalink: /leadership/plan/2026
@@ -25,12 +25,13 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 
 | Month | Forum | Status |
 |-------|-------|--------|
-| **5월** | The AI Foundry (Amazon + OpenAI engineers) | ✅ Confirmed |
-| **6월** | The Silicon Stethoscope (Dr. Kim + Sunghee) | ✅ Locked |
-| **7월** | K-PAI Nexus - KASC Joint Colloquium (w/ 25 students from US/Korea) | ✅ Confirmed |
-| **8-10월** | Samsung Research / Consulate General of the Republic of Korea / Launch AI & Humanity Council (AI 미래 대비 포럼) | 🔄 Strategic decision |
-| **11월** | Legal Frontiers ([Jeff Lee](/committee/#jeff){:target="_blank"} leading, [Prof. Michael Sandel](https://en.wikipedia.org/wiki/Michael_Sandel){:target="_blank"} being explored) | ✅ Planned |
-| **12월** | Co-hosting Year End Party with Our Perpetual Partner, KOTRA! 🎉 | ✅ Locked |
+| **May** | The AI Foundry (Amazon + OpenAI engineers) | ✅ Confirmed |
+| **Jun** | The Silicon Stethoscope (Dr. Kim + Sunghee) | ✅ Locked |
+| **Jul** | K-PAI Nexus - KASC Joint Colloquium (w/ 25 students from US/Korea) | ✅ Confirmed |
+| **Sep (2nd week)** | KIC - K-PAI Nexus Joint Event | 🔄 Being Discussed |
+| **Aug / Sep / Oct** | Samsung Research / Consulate General of the Republic of Korea / Launch AI & Humanity Council (AI 미래 대비 포럼) | 🔄 Strategic decision |
+| **Nov** | Legal Frontiers ([Jeff Lee](/committee/#jeff){:target="_blank"} leading, [Prof. Michael Sandel](https://en.wikipedia.org/wiki/Michael_Sandel){:target="_blank"} being explored) | ✅ Planned |
+| **Dec** | Co-hosting Year End Party with Our Perpetual Partner, KOTRA! 🎉 | ✅ Locked |
 
 <span style="color: red; font-style: italic; font-weight: bold;">Plus &ndash; A potential **"AI 미래 준비 위원회"** launch in 9-10-11월 with Stanford Professors and policy paper output for global governments + Korean government.</span>
 
