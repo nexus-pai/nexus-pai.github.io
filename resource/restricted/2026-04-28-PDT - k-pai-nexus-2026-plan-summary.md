@@ -1,6 +1,6 @@
 ---
 date: Tue Apr 28 23:21:51 PDT 2026
-last_modified_at: Mon May  4 21:28:32 PDT 2026
+last_modified_at: Tue May  5 03:14:41 PDT 2026
 layout: single
 title: K-PAI Nexus 2026 Plan & Vision
 permalink: /leadership/plan/2026
@@ -75,29 +75,32 @@ Adding **2-3 member startup pitches (1 min each)** between main talks at every f
 ## 🏢 Org Building
 - [ ] Non-profit registration (with 6-person board)
 - [ ] Manifesto/white paper drafting (Vision & Principles Committee)
-- [ ] Final naming decision (poll closes 4/29)
+- [x] Final naming decision (poll closes 4/29)
 - [ ] Logo creation (Sue Kim)
-- [ ] K-PAI 2.0 acronym definition (Sue Kim)
+- [x] K-PAI Nexus acronym definition (owned by Sunghee Yun) - Silicon Valley AI Nexus
 
 ## 🤝 MOUs in Progress
 - [ ] KASPA (Korean American Semiconductor Professionals)
 - [ ] Tech University of Korea
 - [ ] BSR Korea
+- [ ] KIC Silicon Valley
+- [ ] KOTRA Silicon Valley
 - [x] SNU College of Engineering (already signed!)
 
 ## 🎓 SNU Programs (Updated!)
+- [x] 10-day Student Program (Mid July or August)
 - [ ] Company-student matching for interviews
 - [ ] Winter Internship (NEW - moved from summer!)
-- [x] 10-day Student Program (Mid July or August)
 - [ ] Jay Wonpyo Lee helping with J-1 visa for winter interns
 
 ## 🎤 Forum Pipeline
-- [x] 5월 - The AI Foundry (Amazon + OpenAI)
-- [x] 6월 - The Silicon Stethoscope
-- [x] 7월 - KASC Joint Colloquium
-- [ ] 8-10월 - Samsung Research / Consulate General of the Republic of Korea / K-ASIC
-- [ ] 11월 - Legal Frontiers (Jeff leading)
-- [ ] 12월 - Year End Party (co-hosted by KOTRA SV)
+- [x] May - The AI Foundry (Amazon + OpenAI)
+- [x] Jun - The Silicon Stethoscope
+- [x] Jul - KASC Joint Colloquium
+- [ ] Sep (2nd week) - KIC - K-PAI Nexus Joint Event
+- [ ] Aug / Sep / Oct - Samsung Research / Consulate General of the Republic of Korea / K-ASIC
+- [ ] Nov - Legal Frontiers (Jeff leading)
+- [ ] Dec - Year End Party (co-hosted by KOTRA SV)
 
 ## 🌐 New Initiatives
 - [ ] "K-PAI Nexus - AI & Humanity Council" launch
