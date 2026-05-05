@@ -1,6 +1,6 @@
 ---
 date: Mon May  4 01:16:51 PDT 2026
-last_modified_at: Mon May  4 01:27:58 PDT 2026
+last_modified_at: Mon May  4 21:53:10 PDT 2026
 layout: single
 title: "K-PAI Nexus Board of Directors - Second Meeting Agenda"
 permalink: /board/meeting-02/agenda
@@ -63,6 +63,64 @@ All Board Members are requested to complete the following tasks **before** the m
 
 **1. Review and Provide Feedback on K-PAI Nexus Launch Announcement** (HIGHEST PRIORITY)
 - **Draft Message:** [To be circulated via Board KakaoTalk chatroom by May 7, 2026]
+
+> Initially drafted by [Sunghee](https://sungheeyun.github.io) @ 12:31AM 04-May-2026 PDT\
+> Revised by [Hayden](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/){:target="_blank"} @ 9:17PM 04-May-2026 PDT
+{: .notice--warning}
+
+> K-PAI의 진화: 자매 조직 K-PAI Nexus 출범 안내
+>
+> 안녕하세요, K-PAI 여러분!
+>
+> K-PAI의 비전이 확장됩니다.
+>
+> 우리가 함께 만들어온 커뮤니티의 가치가 당초 예상했던 것보다 훨씬 크고 깊다는 것을 깨달았습니다. 월간 포럼에서 시작된 대화가 관심 그룹(Interest Groups)으로, 대학 협력으로, 교육 프로그램으로, 그리고 정책 논의로까지 확장되었습니다.
+>
+> 이러한 자연스러운 성장을 더욱 체계적으로 지원하기 위해, K-PAI Nexus를 자매 조직(sister organization)으로 출범합니다.
+>
+> K-PAI Nexus는 무엇인가요?
+>
+> K-PAI의 원래 비전을 포함하면서, 세 가지 핵심 가치를 중심으로 확장된 조직입니다:
+>
+> ✦ 탐구와 선도 (Explore & Lead)
+>
+> AI 기술을 넘어 사회·윤리·철학적 질문까지 탐구하고, 그 대화를 이끕니다
+>
+> ✦ 커뮤니티 고양 (Elevate Community)
+>
+> 단순 네트워킹을 넘어, 실질적 협력과 성과가 만들어지는 생태계를 구축합니다
+>
+> ✦ 환원 (Give Back)
+>
+> 지식과 경험을 다음 세대, 그리고 더 넓은 사회와 나눕니다
+>
+> K-PAI Nexus의 활동 범위:
+>
+> - 월간 포럼 (기존 K-PAI 포럼의 계승 및 확장)
+> - 10+ 관심 그룹(Interest Groups) 운영
+> - 대학 교육 프로그램 및 산학 협력
+> - 기업 파트너십 및 글로벌 기관 협력
+> - AI & Humanity Council (정책 싱크탱크)
+> - 스타트업 지원 및 투자자 연결
+> - 한미 AI 생태계 브릿지 역할
+>
+> 여러분께 달라지는 점은?
+>
+> 실질적으로는 거의 없습니다. 여러분이 참여해 오신 포럼, 관심 그룹, 네트워킹 활동은 모두 계속됩니다. 다만 이제 더욱 체계적인 구조 속에서, 더 큰 비전을 향해 함께 나아갑니다. 즉, K-PAI Forum은 포럼 위주의 학술 연구 플랫폼으로 남고, 자매 조직인 K-PAI Nexus는 산-학 협력, 한-미 AI 연계, 스타트업 생태계 지원 등에 더욱 Focus하여 활동하게 됩니다.
+>
+> K-PAI Nexus는 여러분 모두의 조직입니다. 관심 그룹을 만들고, 지식을 나누고, 프로젝트를 제안하고, 커뮤니티를 함께 만들어가는 contributor가 되어 주세요.
+>
+> 더 자세한 정보:
+>
+> K-PAI Nexus 웹사이트: https://nexus-pai.github.io/\
+> FAQ: https://nexus-pai.github.io/faq/k-pai-nexus\
+> 문의: nexus.pai.0401@gmail.com
+>
+> 함께 만들어가는 미래를 기대합니다! 💙
+>
+> 윤성희 드림
+{: .notice--success}
+
 - **Language:** Korean (for K-PAI community chatroom announcement)
 - **Action Required:**
   - Review messaging, tone, and accuracy
