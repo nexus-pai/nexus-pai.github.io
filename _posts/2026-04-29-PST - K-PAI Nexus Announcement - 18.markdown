@@ -1,6 +1,6 @@
 ---
 date: Wed Apr 29 00:15:35 PDT 2026
-last_modified_at: Mon May  4 21:22:40 PDT 2026
+last_modified_at: Tue May  5 14:09:13 PDT 2026
 layout: single
 title: "[K-PAI Nexus's 18th Chapter] The Silicon Stethoscope - Bridging Seoul's Medical Reality and Silicon Valley's AI Vision in Healthcare's Trillion Dollar Transformation"
 permalink: /event-announcements/18
@@ -187,7 +187,8 @@ Bioscience & Technology Regulation Attorney @ Shin & Kim / Stanford Law & Biosci
 **Panelists**
 - [**Jong Hyeok Kim, MD, PhD**](https://www.amc.seoul.kr/asan/staff/base/staffBaseInfoDetail.do?drEmpId=REZEOG8wVm04YnFiN1hYUWpPWXVsQT09){:target="_blank"} - [Asan Medical Center](https://eng.amc.seoul.kr/gb/lang/main.do){:target="_blank"}
 - [**Sunghee Yun**](https://sungheeyun.github.io) - Co-Founder & CTO / CEO / Leader @ [Erudio Bio](https://www.erudio.bio/) / [Erudio Bio Korea](https://sungheeyun-erudio.github.io/) / [K-PAI Nexus](/)
-- [**Gordon G. Park**](https://www.linkedin.com/in/gordon-g-park-452bab26/){:target="_blank"} - Neuroscientist & Pathology VA Faculty @ [Stanford University](https://www.stanford.edu/){:target="_blank"} / Co-Founder & CEO @ [PathoBrainSeq](https://pathobrainseq.com/){:target="_blank"}
+- [**Gordon G. Park**](https://www.linkedin.com/in/gordon-g-park-452bab26/){:target="_blank"}
+&ndash; Neuroscientist & Health care specialist @ VA Palo Alto / Stanford Pathology Affiliate / Co-Founder & CEO @ [PathoBrainSeq](https://pathobrainseq.com/){:target="_blank"} / Science Advisor @ Wingstabio
 - TBD
 
 This is where the conversation becomes interactive.
