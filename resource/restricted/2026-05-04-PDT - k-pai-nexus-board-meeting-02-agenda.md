@@ -1,6 +1,6 @@
 ---
 date: Mon May  4 01:16:51 PDT 2026
-last_modified_at: Mon May  4 21:53:10 PDT 2026
+last_modified_at: Mon May  4 22:09:26 PDT 2026
 layout: single
 title: "K-PAI Nexus Board of Directors - Second Meeting Agenda"
 permalink: /board/meeting-02/agenda
@@ -63,6 +63,8 @@ All Board Members are requested to complete the following tasks **before** the m
 
 **1. Review and Provide Feedback on K-PAI Nexus Launch Announcement** (HIGHEST PRIORITY)
 - **Draft Message:** [To be circulated via Board KakaoTalk chatroom by May 7, 2026]
+
+<span id="k-pai-nexus-launch-messages"></span>
 
 > Initially drafted by [Sunghee](https://sungheeyun.github.io) @ 12:31AM 04-May-2026 PDT\
 > Revised by [Hayden](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/){:target="_blank"} @ 9:17PM 04-May-2026 PDT
