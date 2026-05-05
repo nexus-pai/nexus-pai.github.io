@@ -1,6 +1,6 @@
 ---
 date: Tue Apr 28 23:21:51 PDT 2026
-last_modified_at: Mon May  4 21:25:47 PDT 2026
+last_modified_at: Mon May  4 21:28:32 PDT 2026
 layout: single
 title: K-PAI Nexus 2026 Plan & Vision
 permalink: /leadership/plan/2026
@@ -33,7 +33,7 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 | **Nov** | Legal Frontiers ([Jeff Lee](/committee/#jeff){:target="_blank"} leading, [Prof. Michael Sandel](https://en.wikipedia.org/wiki/Michael_Sandel){:target="_blank"} being explored) | ✅ Planned |
 | **Dec** | Co-hosting Year End Party with Our Perpetual Partner, KOTRA! 🎉 | ✅ Locked |
 
-<span style="color: red; font-style: italic; font-weight: bold;">Plus &ndash; A potential **"AI 미래 준비 위원회"** launch in 9-10-11월 with Stanford Professors and policy paper output for global governments + Korean government.</span>
+<span style="color: red; font-style: italic; font-weight: bold;">Plus &ndash; A potential **"AI & Humanity Council"** launch in 9-10-11월 with Stanford Professors and policy paper output for global governments + Korean government.</span>
 
 # 🎯 KEY STRATEGIC INSIGHTS
 
@@ -177,7 +177,7 @@ June launch! Need:
 | 🔴 Urgent | Naming finalization | Sue Kim + Sunghee | 29-Apr-2026 |
 | 🔴 Urgent | Leadership Meeting prep | Sunghee | Before 22-May-2026 |
 | 🟡 High | Manifesto drafting | Vision & Principles Committee | Q2 2026 |
-| 🟡 High | "AI 미래 대비 위원회" launch | Sunghee + Stanford profs | Q4 2026 |
+| 🟡 High | "AI & Humanity Council" launch | Sunghee + Stanford profs | Q4 2026 |
 | 🟢 Medium | SNU Winter Internship planning | Sunghee + 이원표 | Q3 2026 |
 | 🟢 Medium | Broadcasting setup | Sunghee | June 2026 |
 
