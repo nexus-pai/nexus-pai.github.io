@@ -30,7 +30,7 @@ class SeminarRegistrant03:
         self.how_heard: str | None = get_data(row["How did you hear about us?"])
         self.will_attend: str | None = get_data(
             row[
-                "Will you come to the 3rd SVAIN seminar @ 6pm on 22-Jan-2024?"
+                "Will you come to the 3rd K-PAI Nexus seminar @ 6pm on 22-Jan-2024?"
                 " - The AI Knight Rises: Deep Learning to Flourishing Societies"
             ]
         )

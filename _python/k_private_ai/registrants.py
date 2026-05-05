@@ -1,5 +1,5 @@
 """
-Collection of SVAIN registrants
+Collection of K-PAI Nexus registrants
 """
 
 from logging import getLogger, Logger

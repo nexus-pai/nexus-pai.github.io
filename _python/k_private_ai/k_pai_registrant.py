@@ -1,5 +1,5 @@
 """
-SVAIN registrant
+K-PAI Nexus registrant
 """
 
 from __future__ import annotations
