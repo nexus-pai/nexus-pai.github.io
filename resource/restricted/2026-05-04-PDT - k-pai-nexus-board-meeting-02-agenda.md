@@ -1,6 +1,6 @@
 ---
 date: Mon May  4 01:16:51 PDT 2026
-last_modified_at: Mon May  4 22:09:26 PDT 2026
+last_modified_at: Tue May  5 14:44:34 PDT 2026
 layout: single
 title: "K-PAI Nexus Board of Directors - Second Meeting Agenda"
 permalink: /board/meeting-02/agenda
@@ -62,9 +62,13 @@ All Board Members are requested to complete the following tasks **before** the m
 ### **Required Actions (Priority Order):**
 
 **1. Review and Provide Feedback on K-PAI Nexus Launch Announcement** (HIGHEST PRIORITY)
-- **Draft Message:** [To be circulated via Board KakaoTalk chatroom by May 7, 2026]
+- <span id="k-pai-nexus-launch-messages"></span>**Draft Kakaotalk Message:** [To be circulated via Board KakaoTalk chatroom by May 7, 2026]
+&ndash; [Google Doc](https://docs.google.com/document/d/1kRDo6kqbxBKjcV0WYgIfZ6ssIZB_NeABA3GjNmpSzDg/){:target="_blank"}
 
-<span id="k-pai-nexus-launch-messages"></span>
+- **Draft email communication** [To be circulated via Board KakaoTalk chatroom by May 7, 2026]
+&ndash; [Google Doc](https://docs.google.com/document/d/1RZDSrILnClYiMChWXtt1bNiBpsitxtTMzpXzWDdG-ts/){:target="_blank"}
+
+<!--
 
 > Initially drafted by [Sunghee](https://sungheeyun.github.io) @ 12:31AM 04-May-2026 PDT\
 > Revised by [Hayden](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/){:target="_blank"} @ 9:17PM 04-May-2026 PDT
@@ -122,6 +126,8 @@ All Board Members are requested to complete the following tasks **before** the m
 >
 > 윤성희 드림
 {: .notice--success}
+
+-->
 
 - **Language:** Korean (for K-PAI community chatroom announcement)
 - **Action Required:**
