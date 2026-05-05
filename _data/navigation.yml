@@ -1,4 +1,6 @@
 main:
+  - title: "Committee"
+    url: /committee
   - title: "AI Insight Hub"
     url: /ai-insight-hub
 #  - title: "About"
@@ -27,5 +29,3 @@ main:
     url: /tags
   - title: "Membership"
     url: /membership
-  - title: "Committee"
-    url: /committee
