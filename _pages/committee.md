@@ -1,5 +1,5 @@
 ---
-last_modified_at: Fri May  1 03:59:26 PDT 2026
+last_modified_at: Tue May  5 20:45:53 PDT 2026
 layout: single
 title: Committees
 permalink: /committee/
@@ -244,6 +244,17 @@ author_profile: false
 </td>
 <td class="eng-name">
 	<a target="_blank" href="https://www.linkedin.com/in/juyoung-jeong/">JuYoung Jeong</a>
+</td>
+</tr>
+<tr>
+<td class="role" style="color: #3333ff;">
+	Tech Leader
+</td>
+<td class="kor-name">
+	황민하
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/minha-hwang-7440771/">Minha Hwang</a>
 </td>
 </tr>
 </table>
