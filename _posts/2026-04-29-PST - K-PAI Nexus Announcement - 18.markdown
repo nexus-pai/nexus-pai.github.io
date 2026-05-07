@@ -1,6 +1,6 @@
 ---
 date: Wed Apr 29 00:15:35 PDT 2026
-last_modified_at: Wed May  6 16:56:44 PDT 2026
+last_modified_at: Wed May  6 20:49:59 PDT 2026
 layout: single
 title: "[K-PAI Nexus's 18th Chapter] The Silicon Stethoscope - Bridging Seoul's Medical Reality and Silicon Valley's AI Vision in Healthcare's Trillion Dollar Transformation"
 permalink: /event-announcements/18
@@ -52,6 +52,12 @@ Healthcare is entering one of the most consequential transformations of our life
 On one side, Seoul represents one of the world's most sophisticated, data-rich, and operationally advanced medical environments—with high patient throughput, dense hospital networks, strong clinical discipline, and a healthcare culture that touches almost every citizen.
 On the other side, Silicon Valley is building the AI infrastructure, computational platforms, foundation models, agents, bioinformatics systems, and venture-backed companies that promise to reshape how medicine is delivered, measured, automated, and improved.
 
+<div class="img-container-justified">
+<img style="max-width: 49%" src="https://sungheeyun-photos-02.github.io/resource/nexus-pai.github.io/events/18/Sunghee_On_one_side_Seoul_represents_one_of_the_worlds_most_s_727ebdfc-79aa-470f-a908-498b42c23d6d_1.png">
+<img style="max-width: 49%" src="https://sungheeyun-photos-02.github.io/resource/nexus-pai.github.io/events/18/Sunghee_On_the_other_side_Silicon_Valley_is_building_the_AI_i_11a6fa72-2758-48d6-b86a-5d211f417337_3.png">
+</div>
+
+
 The question is no longer whether AI will transform healthcare.
 The real question is:
 
@@ -59,9 +65,11 @@ The real question is:
 
 We are **<span style="color: red;">thrilled</span>** to invite you to K-PAI Nexus's **<span style="color: red;">18th Forum</span>**:
 
-**<span style="color: red;">The Silicon Stethoscope - Bridging Seoul's Medical Reality and Silicon Valley's AI Vision in Healthcare's Trillion Dollar Transformation</span>**
+<!--span style="color: red;">**The Silicon Stethoscope - Bridging Seoul's Medical Reality and Silicon Valley's AI Vision in Healthcare's Trillion Dollar Transformation**</span-->
 
-This forum brings together clinical reality, Silicon Valley startup thinking, Korean healthcare strengths, and AI-driven biomedical innovation in one evening of talks, panel discussion, dinner, and networking.
+<span class="emph">The Silicon Stethoscope - Bridging Seoul's Medical Reality and Silicon Valley's AI Vision in Healthcare's Trillion Dollar Transformation</span>
+
+This forum brings together clinical reality, Silicon Valley startup thinking, Korean healthcare strengths, and AI-driven biomedical innovation in one evening of talks, panel discussion, dinner, and networking. - Generously sponsored by KIC Silicon Valley
 
 <div class="img-container-justified">
 &nbsp;
@@ -170,6 +178,12 @@ The panel discussion will then open the floor for honest conversation: what is r
 &ndash;
 [**Jong Hyeok Kim, MD, PhD**](https://www.amc.seoul.kr/asan/staff/base/staffBaseInfoDetail.do?drEmpId=REZEOG8wVm04YnFiN1hYUWpPWXVsQT09){:target="_blank"} - [Asan Medical Center](https://eng.amc.seoul.kr/gb/lang/main.do){:target="_blank"}
 
+<div class="img-container-justified">
+<img style="max-width: 32%" src="https://sungheeyun-photos-02.github.io/resource/nexus-pai.github.io/events/18/jonghyuk-01.jpg">
+<img style="max-width: 32%" src="https://sungheeyun-photos-02.github.io/resource/nexus-pai.github.io/events/18/jonghyuk-02.jpg">
+<img style="max-width: 32%" src="https://sungheeyun-photos-02.github.io/resource/nexus-pai.github.io/events/18/jonghyuk-03.jpg">
+</div>
+
 <span class="emph">Korea's hospital system offers one of the most important real-world windows into the future of healthcare.</span>
 With high patient volumes, sophisticated specialists, strong diagnostic infrastructure, and a culture of preventive screening and hospital-centered care, Seoul's medical ecosystem provides a uniquely valuable perspective on what healthcare AI must actually accomplish.
 
@@ -193,6 +207,11 @@ For AI builders, founders, investors, and researchers, this session provides the
 **Speaker**
 &ndash;
 [**Sunghee Yun**](https://sungheeyun.github.io) - Co-Founder & CTO @ [Erudio Bio](https://www.erudio.bio/) / Co-Founder & CEO @ [Erudio Bio Korea](https://sungheeyun-erudio.github.io/) / Co-Founder & Leader of [K-PAI Nexus](/)
+
+<div class="img-container-justified">
+<img style="max-width: 58.82%" src="https://sungheeyun-photos-01.github.io/resource/2025/11/07%20-%20IFEZ/DRD_2473.JPG">
+<img style="max-width: 39.18%" src="https://sungheeyun.github.io/assets/images/profile-photo-670x671.png">
+</div>
 
 <span class="emph">Silicon Valley sees healthcare as one of the largest and most important frontiers for AI.</span>
 Foundation models, agents, computational biology, diagnostics platforms, drug discovery engines, and clinical decision support systems are converging into what some call the "trillion dollar moment" in healthcare AI.
