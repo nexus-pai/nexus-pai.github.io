@@ -1,6 +1,6 @@
 ---
 date: Wed Apr 29 00:15:35 PDT 2026
-last_modified_at: Wed May  6 20:49:59 PDT 2026
+last_modified_at: Thu May  7 00:06:26 PDT 2026
 layout: single
 title: "[K-PAI Nexus's 18th Chapter] The Silicon Stethoscope - Bridging Seoul's Medical Reality and Silicon Valley's AI Vision in Healthcare's Trillion Dollar Transformation"
 permalink: /event-announcements/18
@@ -248,7 +248,11 @@ Bioscience & Technology Regulation Attorney @ Shin & Kim / Stanford Law & Biosci
 &ndash; Neuroscientist & Health care specialist @ VA Palo Alto / Stanford Pathology Affiliate / Co-Founder & CEO @ [PathoBrainSeq](https://pathobrainseq.com/){:target="_blank"} / Science Advisor @ Wingstabio
 - TBD
 
-This is where the conversation becomes interactive.
+<div class="img-container-justified">
+	<img style="max-width: 28.78%" src="https://sungheeyun-photos-02.github.io/resource/nexus-pai.github.io/events/18/jeff-01.png">
+	<img style="max-width: 34.72%" src="https://sungheeyun-photos-02.github.io/resource/nexus-pai.github.io/events/18/gordon-01-01.png">
+	<img style="max-width: 32.50%" src="https://sungheeyun-photos-02.github.io/resource/nexus-pai.github.io/events/18/Sunghee_question_mark_--chaos_30_--ar_34_--profile_txczzy6_--_2dbd0001-c943-4bc1-a8d4-2842b5e468b8_3.png">
+</div>
 
 **Potential Discussion Topics**
 
