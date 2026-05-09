@@ -152,7 +152,7 @@ h1, h2, h3, h4, h5, h6 {
 figcaption {
 	width: 90%;
 	margin: 0 auto; /* Center the block horizontally */
-	text-align: justify; 
+	text-align: justify;
 	font-family: 'Montserrat', serif;
 	font-size: var(--caption-font-size);
 	margin-bottom: 1em;
@@ -160,7 +160,7 @@ figcaption {
 
 .img-container {
 	text-align: center;
-	margin-top: 1em;
+	margin-top: 0em;
 	margin-bottom: 1em;
 }
 
@@ -195,6 +195,41 @@ figcaption {
 
 .emph {
 	color: blue;
+	font-style: italic;
+}
+
+.remph {
+	color: red;
+	font-style: italic;
+}
+
+.eemph {
+	color: rgb(86%, 8%, 24%);
+	font-style: italic;
+}
+
+.fact-font {
+	color: #32cd32;
+	font-style: italic;
+}
+
+.name-font {
+	color: rgb(210, 105, 30);
+	font-style: italic;
+}
+
+.define {
+	color: blue;
+	font-style: italic;
+}
+
+.mproperty {
+	color: green;
+	font-style: italic;
+}
+
+.notation {
+	color: #549df9;
 	font-style: italic;
 }
 
