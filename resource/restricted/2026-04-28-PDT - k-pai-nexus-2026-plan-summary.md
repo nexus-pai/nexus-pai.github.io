@@ -1,6 +1,6 @@
 ---
 date: Tue Apr 28 23:21:51 PDT 2026
-last_modified_at: Sat May  9 20:19:43 PDT 2026
+last_modified_at: Sat May  9 23:24:09 PDT 2026
 layout: single
 title: K-PAI Nexus 2026 Plan & Vision
 permalink: /leadership/plan/2026
@@ -16,12 +16,11 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 {: .notice--primary}
 
-⚠️  Confidential &#124; K-PAI Nexus Leadership Only &#124; Not Publicly Listed\
+⚠️  Confidential &#124; K-PAI Nexus Leadership Only &#124; Not Publicly Listed
 {: .notice--danger}
 
-{: .notice}
-- *Document prepared by [Sunghee Yun](https://sungheeyun.github.io) based on K-PAI Nexus Leadership chatroom communications, April 26-28, 2026*
-- *Updated by [Sunghee Yun](https://sungheeyun.github.io) May 9, 2026 with partnership wins and outreach campaign results*
+*Document prepared by [Sunghee Yun](https://sungheeyun.github.io) based on K-PAI Nexus Leadership chatroom communications, April 26--28, 2026*\
+*Updated by [Sunghee Yun](https://sungheeyun.github.io) May 9, 2026 with partnership wins and outreach campaign results of the week of May 04--08, 2026*
 
 # 🏛️ THE BIG PICTURE - K-PAI NEXUS 2026 PLAN
 
@@ -33,8 +32,8 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 | **25-Jun (thu)** | The Silicon Stethoscope (Dr. Kim + Sunghee) | ✅ Locked | KIC SV |
 | **08-Jul (wed) or 09-Jul (thu)** | K-PAI Nexus - KIC Joint - BIO+ Physical AI | 🔄 Tentative | KIC SV |
 | **29-Jul (wed)** | K-PAI Nexus - KASC Joint Colloquium (w/ 25 students from US/Korea, featuring 조경래 영사 as panelist) | ✅ Confirmed | TBD |
-| **12-Sep (sat)** | K-PAI Nexus - KIC SV - Consulate Joint Event - the last day of the 3-day events (Google / MSIT officials / Stanford HAI collaboration) | ✅ Confirmed | KIC SV |
 | **Aug / Sep** | Samsung Research / AI & Humanity Council Launch Event (featuring Stanford/UC Berkeley professors + James + Kenneth Rhee) | 🔄 Strategic decision |
+| **12-Sep (sat)** | K-PAI Nexus - KIC SV - Consulate Joint Event - the last day of the 3-day events (Google / MSIT officials / Stanford HAI collaboration) | ✅ Confirmed | KIC SV |
 | **14-Oct (wed)** | K-PAI Nexus - Consulate General Co-hosted Event | ✅ Confirmed | Consulate General |
 | **18-Nov (wed)** | Legal Frontiers ([Jeff Lee](/committee/#jeff){:target="_blank"} leading, [Prof. Michael Sandel](https://en.wikipedia.org/wiki/Michael_Sandel){:target="_blank"} being explored) | ✅ Confirmed |
 | **09-Dec (wed)** | Co-hosting Year End Party with Our Perpetual Partner, KOTRA SV! 🎉 | ✅ Confirmed | KOTRA SV |
