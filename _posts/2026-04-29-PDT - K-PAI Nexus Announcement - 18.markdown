@@ -1,6 +1,6 @@
 ---
 date: Wed Apr 29 00:15:35 PDT 2026
-last_modified_at: Thu May  7 00:06:26 PDT 2026
+last_modified_at: Tue May 12 02:08:12 PDT 2026
 layout: single
 title: "[K-PAI Nexus's 18th Chapter] The Silicon Stethoscope - Bridging Seoul's Medical Reality and Silicon Valley's AI Vision in Healthcare's Trillion Dollar Transformation"
 permalink: /event-announcements/18
@@ -179,9 +179,9 @@ The panel discussion will then open the floor for honest conversation: what is r
 [**Jong Hyeok Kim, MD, PhD**](https://www.amc.seoul.kr/asan/staff/base/staffBaseInfoDetail.do?drEmpId=REZEOG8wVm04YnFiN1hYUWpPWXVsQT09){:target="_blank"} - [Asan Medical Center](https://eng.amc.seoul.kr/gb/lang/main.do){:target="_blank"}
 
 <div class="img-container-justified">
-<img style="max-width: 32%" src="https://sungheeyun-photos-02.github.io/resource/nexus-pai.github.io/events/18/jonghyuk-01.jpg">
-<img style="max-width: 32%" src="https://sungheeyun-photos-02.github.io/resource/nexus-pai.github.io/events/18/jonghyuk-02.jpg">
-<img style="max-width: 32%" src="https://sungheeyun-photos-02.github.io/resource/nexus-pai.github.io/events/18/jonghyuk-03.jpg">
+<img style="max-width: 33.92%" src="https://sungheeyun-photos-02.github.io/resource/nexus-pai.github.io/events/18/jonghyuk-04.jpeg">
+<img style="max-width: 39.79%" src="https://sungheeyun-photos-02.github.io/resource/nexus-pai.github.io/events/18/jonghyuk-05.jpeg">
+<img style="max-width: 22.29%" src="https://sungheeyun-photos-02.github.io/resource/nexus-pai.github.io/events/18/jonghyuk-06.jpeg">
 </div>
 
 <span class="emph">Korea's hospital system offers one of the most important real-world windows into the future of healthcare.</span>
