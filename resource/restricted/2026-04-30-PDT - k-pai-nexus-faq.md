@@ -1,6 +1,6 @@
 ---
 date: Thu Apr 30 16:06:27 PDT 2026
-last_modified_at: Mon May  4 00:48:48 PDT 2026
+last_modified_at: Tue May 12 01:40:06 PDT 2026
 layout: single
 title: "K-PAI Nexus FAQs"
 permalink: /faq/k-pai-nexus
@@ -27,7 +27,12 @@ updated: {{ page.last_modified_at | date: "%d-%b-%Y" }}
 📅 Will be released publicly after Internal Board Review!
 {: .notice--danger}
 
-<div class="img-container-justified">
+*This FAQ will be updated regularly as K-PAI Nexus evolves. Check back for the latest information.*\
+*Draft Version 1.0 — April 30, 2026*\
+*Draft Version 1.1 — May 12, 2026*\
+*Author: [Sunghee Yun](https://sungheeyun.github.io)*
+
+<!--div class="img-container-justified">
 	<div style="width: 49%; border: 1px solid #ccc; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin: 20px 0;">
 		<div style="background-color: #2c3e50; color: white; padding: 10px 15px; font-size: 14px;">
 			<strong>Deep Dive - Ten AI IPOs from a Volunteer Non-profit!</strong>
@@ -106,41 +111,41 @@ updated: {{ page.last_modified_at | date: "%d-%b-%Y" }}
 			</audio>
 		</div>
 	</div>
-</div>
+</div-->
 
 # Introduction
 
-This FAQ addresses common questions about K-PAI Nexus and its relationship to K-PAI. If you have additional questions not covered here, please reach out to the [K-PAI Nexus Leadership](/committee).
+This FAQ addresses common questions about [K-PAI Nexus](/) and its relationship to [K-PAI](https://k-privateai.github.io). If you have additional questions not covered here, please reach out to the [K-PAI Nexus Leadership](/committee).
 
 # Core Questions
 
 ## What is K-PAI Nexus?
 
-[Silicon Valley AI Nexus (K-PAI Nexus)](/) is a California-registered 501(c)(3) non-profit organization that evolved from activities within the K-PAI community. It focuses on exploring AI's comprehensive landscape—spanning technology, industry, markets, entrepreneurship, investment, societal impact, ethics, and philosophy—while building a thriving community and contributing to society through education, research, and the [AI & Humanity Council](/committee/#ai-and-humanity-council).
+[Silicon Valley AI Nexus (K-PAI Nexus)](/) is a non-profit (sister) organization that evolved from activities within the K-PAI community. It focuses on exploring AI's comprehensive landscape—spanning technology, industry, markets, entrepreneurship, investment, societal impact, ethics, and philosophy—while building a thriving community and contributing to society through education, research, and the [AI & Humanity Council](/pr-faq/ai-humanity-council/2029){:target="_blank}}.
 
-K-PAI Nexus operates monthly forums, facilitates interest groups, maintains partnerships with universities and institutions, and produces thought leadership on AI's transformative impact on humanity.
+K-PAI Nexus operates monthly forums, facilitates interest groups, maintains partnerships with universities (*e.g.*, [Stanford University](https://www.stanford.edu/){:target="_blank"}, [MIT](https://web.mit.edu/){:target="_blank"}, [Seoul National University (SNU)](https://en.snu.ac.kr/){:target="_blank"}, [KAIST](https://www.kaist.ac.kr/en/){:target="_blank"}, [POSTECH](https://www.postech.ac.kr/eng/index.do){:target="_blank"}, *etc.*), institutions (*e.g.*, KOTRA SV, KIC SV, KASPA, *etc.*), and public sector government and diplomatic entities (*e.g.*, Consulate General of the Republic of Korea at San Francisco), and produces thought leadership on AI's transformative impact on humanity.
 
 ## What happens to K-PAI?
 
-K-PAI continues operating under its founding vision: "Creating and nurturing new fields where Korea becomes the best industrially and academically." K-PAI Forum continues with this mission under the leadership of Professor Jung Hee Cheon.
+K-PAI continues operating under its founding vision: "Creating and nurturing new fields where Korea becomes the best industrially and academically." K-PAI Forum continues with this mission.
 
 The existing K-PAI chatroom remains active, and K-PAI Forum activities continue as before.
 
 ## Why create K-PAI Nexus separately?
 
-Different visions serve different communities best. K-PAI's focus on elevating Korea's industrial and academic leadership represents one important mission. K-PAI Nexus's broader focus on AI's holistic impact across technology, society, ethics, and humanity represents another.
+Different visions serve different communities best. K-PAI's focus on elevating Korea's industrial and academic leadership represents one important mission. [K-PAI Nexus](/){:target="_blank"}'s broader focus on AI's holistic impact across technology, society, ethics, and humanity represents another.
 
-Creating K-PAI Nexus allows both visions to flourish independently while respecting the distinct goals each serves. This approach—similar to how interest groups form organically within communities—enables focused execution without requiring compromise on either vision.
+Creating [K-PAI Nexus](/){:target="_blank"} allows both visions to flourish independently while respecting the distinct goals each serves. This approach—similar to how interest groups form organically within communities—enables focused execution without requiring compromise on either vision.
 
 ## Is this a "split" or "spin-off"?
 
-Neither. This is similar to creating a new interest group within a broader community. K-PAI Nexus operates as an independent organization with its own mission, governance, and activities—much like how the [Bio/Medical/Data Group](/groups/#bmd-group) or [Legal Professionals Group](/groups/#legal-prof-group) operate independently while maintaining connections to the broader community.
+<span class="emph">Neither!</span> This is similar to creating a new interest group within a broader community. K-PAI Nexus operates as an independent organization with its own mission, governance, and activities—much like how the [Bio/Medical/Data Group](/groups/#bmd-group){:target="_blank"} or [Legal Professionals Group](/groups/#legal-prof-group){:target="_blank"} operate independently while maintaining connections to the broader community.
 
-K-PAI continues. K-PAI Nexus launches. Both coexist. Members can participate in both if they choose.
+<span class="emph">K-PAI continues. K-PAI Nexus launches. Both coexist. Members can participate in both if they choose.</span>
 
 ## Do I need to choose between K-PAI and K-PAI Nexus?
 
-No. You can participate in both, either, or neither based on which activities and vision resonate with you. There is no requirement to choose sides or declare exclusive allegiance.
+<span class="emph">No.</span> You can participate in both, either, or neither based on which activities and vision resonate with you. There is no requirement to choose sides or declare exclusive allegiance.
 
 Many members will likely find value in both communities depending on their interests and professional goals.
 
@@ -149,33 +154,33 @@ Many members will likely find value in both communities depending on their inter
 ## How do I join K-PAI Nexus?
 
 **Qualification:** Attend any two K-PAI or K-PAI Nexus forums to become a Qualified K-PAI Nexus Member.
-<span class="emph">Therefore K-PAI members get automatically qualified to be [K-PAI Nexus Member](/membership)!</span>
+<span class="emph">Therefore K-PAI members get automatically qualified to be [<span class="emph">K-PAI Nexus Member</span>](/membership)!</span>
 
 **Access:** Once qualified, you'll receive an invitation to join the K-PAI Nexus Members chatroom, where the active community shares knowledge, opportunities, and connections daily.
 
-**No fees:** [K-PAI Nexus membership](/membership) is earned through participation, not purchased. There are no membership fees.
+**No fees:** [<span class="emph">K-PAI Nexus membership</span>](/membership){:target="_blank"} is earned through participation, not purchased. There are no membership fees.
 
 ## I'm already a K-PAI member. Am I automatically a K-PAI Nexus member?
 
-Yes!
+<span class="emph">Yes!</span>
 
 ## What about existing interest groups (Bio/Medical/Data, Legal Professionals, Open Table, etc.)?
 
-All existing interest groups continue operating and are now formally <span class="emph">part of K-PAI Nexus's community structure</span>. If you're already in an interest group, you remain in it. Groups operate independently and are not affected by organizational structure.
+All existing interest groups continue operating and are now formally <span class="emph">part of K-PAI Nexus's community structure</span>.
+If you're already in an interest group, you remain in it. Groups operate independently and are not affected by organizational structure.
 
 New interest groups continue forming organically as members identify shared interests.
 
-## What happens to MOUs and partnerships (SNU, KOTRA, LG, Samsung, etc.)?
+## What happens to MOUs and partnerships (SNU, KOTRA, KIC, LG, etc.)?
 
-Institutional partnerships and MOUs related to educational programs, collaborative forums, and external activities are managed by [K-PAI Nexus](/). These partnerships continue without interruption.
-
-Examples: SNU Silicon Valley programs, KOTRA Silicon Valley collaboration, LG/Samsung joint forums, university educational partnerships, KASC collaborations, etc.
+Institutional partnerships and MOUs related to educational programs, collaborative forums, and external activities are managed by [K-PAI Nexus](/).
+These partnerships continue without interruption.
 
 ## Which forums are K-PAI vs. K-PAI Nexus?
 
 **K-PAI Nexus forums** include all forums organized by [Sunghee Yun](https://sungheeyun.github.io) and [the K-PAI Nexus leadership team](/committee)—covering topics like AI in healthcare, semiconductors, AI Agents, robotics, legal frontiers, ethical issues with AI, quantum computing, etc.
 
-**K-PAI forums** are those organized under Professor Jung Hee Cheon's leadership with the Korea-focused academic and industrial excellence mission.
+**K-PAI forums** are those organized with the Korea-focused academic and industrial excellence mission.
 
 Upcoming forums will clearly indicate which organization is hosting.
 
@@ -221,7 +226,9 @@ The Council produces comprehensive reports examining AI through a truly holistic
 
 ## Will there be two separate chatrooms?
 
-Yes. The existing K-PAI chatroom continues operating. A separate K-PAI Nexus Members chatroom exists for qualified K-PAI Nexus members (those who have attended 2+ K-PAI (Nexus) forums).
+Yes. [The existing K-PAI chatroom](https://invite.kakao.com/tc/wbC9vSZWLQ){:target="_blank"} continues operating. A separate [K-PAI Nexus Members chatroom](https://invite.kakao.com/tc/WILY3ul3un){:target="_blank"} exists for qualified K-PAI Nexus members (those who have attended 2+ K-PAI and/or [Nexus](https://nexus-pai.github.io) forums).
+
+<span class="emph">Therefore EVERYONE in the current K-PAI chatroom is readily qualified to join K-PAI Nexus chatroom!</span>
 
 You can be in both chatrooms if you're qualified for both.
 
@@ -229,27 +236,27 @@ You can be in both chatrooms if you're qualified for both.
 
 All K-PAI Nexus events will be clearly marked as "K-PAI Nexus" in announcements, social media posts, and registration pages. Check [{{ site.url }}]({{ site.url }}) for upcoming K-PAI Nexus forums and events.
 
-K-PAI events organized under Professor Cheon's leadership will be announced separately through K-PAI channels.
+K-PAI events organized will be announced separately through [K-PAI channels](https://k-privateai.github.io){:target="_blank"}.
 
 ## Can I still access K-PAI Nexus resources if I'm not a member?
 
 K-PAI Nexus forums are open to everyone—members and non-members alike. You don't need to be a qualified member to attend forums, though qualification (attending 2+ forums) is required to join the Members chatroom and access certain member-exclusive opportunities.
 
-Public resources like the AI & Humanity Council reports, educational content, and thought leadership publications are freely accessible to everyone.
+Public resources like the [AI & Humanity Council](/pr-faq/ai-humanity-council/2029){:target="_blank"} reports, educational content, and thought leadership publications are freely accessible to everyone.
 
 ## What about past forum attendance? Does it count toward K-PAI Nexus qualification?
 
-If you attended forums organized by Sunghee Yun and the current K-PAI Nexus leadership team (Forums 1-16 and beyond), those count toward K-PAI Nexus qualification. If you've attended 2+ such forums, you're already qualified.
+If you attended forums organized by K-PAI, those count toward K-PAI Nexus qualification. If you've attended 2+ such forums, you're already qualified.
 
 Contact [leadership](/committee) if you're unsure about your qualification status.
 
 ## I have a startup. Can I still pitch at K-PAI Nexus forums?
 
-Yes! K-PAI Nexus integrates 2-3 member startup pitches (1 minute each) into every forum. This provides founders with visibility to investors, corporate partners, and potential customers. Apply through the K-PAI Nexus Members chatroom or contact [leadership](/committee).
+Yes! K-PAI Nexus integrates 2-3 member startup pitches into every forum. This provides founders with visibility to investors, corporate partners, and potential customers. Apply through [the K-PAI Nexus Members chatroom](https://invite.kakao.com/tc/WILY3ul3un){:target="_blank"} or contact [leadership](/committee){:target="_blank"}.
 
 ## I'm part of a university partnership. Does anything change?
 
-University partnerships (SNU, Stanford, MIT, Berkeley, Korea University, KAIST, etc.) continue under K-PAI Nexus without interruption. Educational programs, Silicon Valley immersion experiences, internship matching, and collaborative research initiatives all proceed as planned.
+University partnerships continue under [K-PAI Nexus](/) without interruption. Educational programs, Silicon Valley immersion experiences, internship matching, and collaborative research initiatives all proceed as planned under [K-PAI Nexus](/).
 
 If you're a university contact or student participant, nothing changes in your day-to-day interactions.
 
@@ -265,10 +272,13 @@ If you're a university contact or student participant, nothing changes in your d
 - MiSook Chung (Community Engagement Chair)
 - Minha Hwang (AI Master)
 
+<!--
 **Leadership Team (12 members):** Includes Board members plus additional committee leaders across multiple Committees.
+-->
 
 See the [full committee structure](/committee).
 
+<!--
 ## What is K-PAI Nexus's legal structure?
 
 K-PAI Nexus is registered as a California 501(c)(3) non-profit organization. This provides:
@@ -297,6 +307,7 @@ As a 501(c)(3) non-profit, K-PAI Nexus's primary mission is public benefit. Howe
 - Hold equity positions in spinoff companies if properly structured
 
 Any revenue-generating activities must align with the non-profit mission and comply with IRS regulations.
+-->
 
 # Technical & Logistical
 
@@ -304,14 +315,15 @@ Any revenue-generating activities must align with the non-profit mission and com
 
 - **Website:** [{{ site.url }}](/) (primary site)
 - **Committee page:** [{{ site.url }}/committee](/committee)
-- **LinkedIn:** (TBD)
-- **Members chatroom:** (TBD)
+- **Instagram:** [https://www.instagram.com/kpainexus](https://www.instagram.com/kpainexus){:target="_blank"}
+- **LinkedIn:** [https://www.linkedin.com/company/k-pai-nexus](https://www.linkedin.com/company/k-pai-nexus){:target="_blank"}
+- **Members chatroom:** [https://invite.kakao.com/tc/WILY3ul3un](https://invite.kakao.com/tc/WILY3ul3un){:target="_blank"}
 
 ## How do I stay updated on K-PAI Nexus activities?
 
 - Attend forums (announcements at each event)
-- Join the K-PAI Nexus Members chatroom (after qualifying)
-- Follow K-PAI Nexus on LinkedIn
+- Join the [K-PAI Nexus Members chatroom](https://invite.kakao.com/tc/WILY3ul3un){:target="_blank"} (after qualifying)
+- Follow K-PAI Nexus on [Instagram](https://www.instagram.com/kpainexus){:target="_blank"} and [LinkedIn](https://www.linkedin.com/company/k-pai-nexus){:target="_blank"}
 - Check [{{ site.url }}](/) regularly for announcements
 - Subscribe to email updates (contact [K-PAI Nexus Leadership](/committee))
 
@@ -323,13 +335,13 @@ Technical details and registration for remote participation will be announced so
 
 ## I'm in Korea. Can I participate in K-PAI Nexus?
 
-Absolutely. K-PAI Nexus welcomes global participation. With remote broadcasting launching in June 2026, you can attend forums from Korea. Additionally, K-PAI Nexus organizes programs in Korea through university partnerships (SNU, KAIST, Korea University, etc.) and collaborates with Korean institutions (KOTRA, Korean Consulate General, etc.).
+Absolutely. K-PAI Nexus welcomes global participation. With remote broadcasting launching in June 2026, you can attend forums from Korea. Additionally, K-PAI Nexus organizes programs in Korea through university partnerships and collaborates with Korean institutions.
 
 # Community & Culture
 
 ## Is K-PAI Nexus only for Korean or Korean-American professionals?
 
-No. While K-PAI Nexus has roots in the Korean professional community in Silicon Valley, the mission—exploring AI's comprehensive impact on humanity—is universal. Forums, interest groups, and the AI & Humanity Council's work are conducted in both English and Korean, and open to anyone who shares the commitment to understanding AI through a holistic, human-centered lens.
+No. While K-PAI Nexus has roots in the Korean professional community in Silicon Valley, the mission—exploring AI's comprehensive impact on humanity—is <span class="eemph">universal</span>. Forums, interest groups, and the AI & Humanity Council's work are conducted in both English and Korean, and open to anyone who shares the commitment to understanding AI through a holistic, human-centered lens.
 
 Community diversity across nationalities, disciplines, industries, and perspectives is one of K-PAI Nexus's greatest strengths.
 
@@ -337,11 +349,11 @@ Community diversity across nationalities, disciplines, industries, and perspecti
 
 Three fundamental differences:
 
-**1. Holistic scope.** Most AI communities focus on technology. K-PAI Nexus spans technology, industry, markets, entrepreneurship, law, policy, ethics, philosophy, psychology, and existential questions.
+**1. Holistic scope.** Most AI communities focus on technology. K-PAI Nexus spans technology, industry, markets, entrepreneurship, law, policy, ethics, philosophy, psychology, and existential questions (*e.g.*, [AI & Humanity Council](/pr-faq/ai-humanity-council/2029){:target="_blank"}).
 
 **2. <span id="contribution-based-belonging">Contribution-based belonging.</span>** <span class="emph">Membership is earned through participation, not purchased.</span> Board membership and leadership positions follow the same principle: they are earned through demonstrated contribution to the community's mission and sustained engagement with its work. <span style="color: red; font-weight: bold;">Academic credentials, professional titles, and industry reputation are valued—but they do NOT substitute for actual contribution.</span> <span class="emph">This ensures that governance reflects genuine commitment and creates networks built on trust and mutual accountability.</span>
 
-**3. Action-oriented impact.** K-PAI Nexus produces actionable reports that guide governments, launches companies that create economic value, delivers educational programs that transform careers, and builds a community that generates real connections daily.
+**3. Action-oriented impact.** K-PAI Nexus produces <span class="emph">actionable</span> reports that guide governments, launches companies that create economic value, delivers educational programs that transform careers, and builds a community that generates real connections daily.
 
 ## How can I contribute to K-PAI Nexus?
 
@@ -349,15 +361,16 @@ Multiple pathways:
 
 - **Attend and engage** at forums (ask questions, network, share insights)
 - **Join interest groups** that match your expertise or interests
-- **Volunteer for committees** ([Board of Directors](/committee/#board-of-directors), [AI & Humanity Council](/committee/#ai-and-humanity-council), [Vision & Principles Committees](/committee/#vision-and-principles-committee), [Program & Content Committee](/committee/#program-and-content-committee), [Tech & Social Media Committees](/committee/#tech-and-social-media-committee))
+- **Volunteer for committees** ([Board of Directors](/committee/#board-of-directors){:target="_blank"}, [AI & Humanity Council](/committee/#ai-and-humanity-council){:target="_blank"}, [Vision & Principles Committees](/committee/#vision-and-principles-committee){:target="_blank"}, [Program & Content Committee](/committee/#program-and-content-committee){:target="_blank"}, [Tech & Social Media Committees](/committee/#tech-and-social-media-committee){:target="_blank"})
 - **Contribute to the AI & Humanity Council** (research, peer review, expertise)
 - **Organize forums** as part of [Program & Content Committee](/committee/#program-and-content-committee)
 - **Mentor community members** (startups, career transitions, technical skills)
 - **Spread the word** (invite colleagues, share content, write testimonials)
 - **Sponsor or partner** (corporate sponsorships, university collaborations)
 
-Contact [K-PAI Nexus Leadership](/committee) to discuss how your skills and interests can contribute.
+Contact [K-PAI Nexus Leadership](/committee){:target="_blank"} to discuss how your skills and interests can contribute.
 
+<!--
 # Future Direction
 
 ## What are K-PAI Nexus's goals for 2028?
@@ -390,17 +403,14 @@ Contact the [K-PAI Nexus Leadership Team](/committee) through:
 - Website: [{{ site.url }}](/)
 
 We value community feedback and continuously refine K-PAI Nexus based on member input.
+-->
 
 # Final Thoughts
 
-K-PAI Nexus represents an evolution born from the community's organic growth and diverse aspirations. It doesn't replace K-PAI—it <span class="emph">complements</span> it by serving those drawn to a holistic, global, human-centered approach to AI's transformative impact.
+[K-PAI Nexus](/) represents an evolution born from the community's organic growth and diverse aspirations. It doesn't replace [K-PAI](https://k-privateai.github.io){:target="_blank"}—it <span class="emph">complements</span> it by serving those drawn to a holistic, global, human-centered approach to AI's transformative impact.
 
 Whether you participate in K-PAI, K-PAI Nexus, both, or neither, <span class="emph">what matters most is that you're part of a community genuinely committed to understanding AI's role in humanity's future.</span>
 
-We're building something meaningful together. [Join us!](/membership)
+We're building something meaningful together. [Join us!](/)
 
-**Questions? Reach out to [K-PAI Nexus Leadership](/committee) or [Sunghee Yun, Co-Founder & Leader of K-PAI Nexus](https://sungheeyun.github.io).**
-
-*This FAQ will be updated regularly as K-PAI Nexus evolves. Check back for the latest information.*
-*Draft Version 1.0 — April 30, 2026*\
-*Author: [Sunghee Yun](https://sungheeyun.github.io)*
+**Questions? Reach out to [K-PAI Nexus Leadership](/committee) or [Sunghee Yun, Co-Founder & Leader & Chair of K-PAI Nexus](https://sungheeyun.github.io).**
