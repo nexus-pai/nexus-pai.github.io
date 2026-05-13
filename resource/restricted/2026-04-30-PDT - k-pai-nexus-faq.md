@@ -1,6 +1,6 @@
 ---
 date: Thu Apr 30 16:06:27 PDT 2026
-last_modified_at: Tue May 12 01:40:06 PDT 2026
+last_modified_at: Wed May 13 00:42:57 PDT 2026
 layout: single
 title: "K-PAI Nexus FAQs"
 permalink: /faq/k-pai-nexus
@@ -153,16 +153,20 @@ Many members will likely find value in both communities depending on their inter
 
 ## How do I join K-PAI Nexus?
 
-**Qualification:** Attend any two K-PAI or K-PAI Nexus forums to become a Qualified K-PAI Nexus Member.
-<span class="emph">Therefore K-PAI members get automatically qualified to be [<span class="emph">K-PAI Nexus Member</span>](/membership)!</span>
+**Qualification:** Attend any two K-PAI or K-PAI Nexus forums to become a Qualified Nexus Member.
+<span class="emph">Therefore K-PAI members get automatically qualified to be [<span class="emph">Nexus Member</span>](/membership)!</span>
 
-**Access:** Once qualified, you'll receive an invitation to join the K-PAI Nexus Members chatroom, where the active community shares knowledge, opportunities, and connections daily.
+**Access:** Once qualified, you'll receive an invitation to join the Nexus Members chatroom, where the active community shares knowledge, opportunities, and connections daily.
 
-**No fees:** [<span class="emph">K-PAI Nexus membership</span>](/membership){:target="_blank"} is earned through participation, not purchased. There are no membership fees.
+**No fees:** [<span class="emph">Nexus membership</span>](/membership){:target="_blank"} is earned through participation, not purchased. There are no membership fees.
 
-## I'm already a K-PAI member. Am I automatically a K-PAI Nexus member?
+## I'm already a K-PAI member. Am I automatically a Nexus member?
 
 <span class="emph">Yes!</span>
+
+To be more precise, if you're a K-PAI member, you're <span class="emph">automatically qualified</span> to be a Nexus Member.
+
+You'll need to click on [this](https://invite.kakao.com/tc/WILY3ul3un){:target="_blank"} to actually become a Nexus Member by joining [the Nexus Member Kakaotalk chatroom](https://invite.kakao.com/tc/WILY3ul3un){:target="_blank"}.
 
 ## What about existing interest groups (Bio/Medical/Data, Legal Professionals, Open Table, etc.)?
 
@@ -226,7 +230,7 @@ The Council produces comprehensive reports examining AI through a truly holistic
 
 ## Will there be two separate chatrooms?
 
-Yes. [The existing K-PAI chatroom](https://invite.kakao.com/tc/wbC9vSZWLQ){:target="_blank"} continues operating. A separate [K-PAI Nexus Members chatroom](https://invite.kakao.com/tc/WILY3ul3un){:target="_blank"} exists for qualified K-PAI Nexus members (those who have attended 2+ K-PAI and/or [Nexus](https://nexus-pai.github.io) forums).
+Yes. [The existing K-PAI chatroom](https://invite.kakao.com/tc/wbC9vSZWLQ){:target="_blank"} continues operating. A separate [Nexus Members chatroom](https://invite.kakao.com/tc/WILY3ul3un){:target="_blank"} exists for qualified Nexus members (those who have attended 2+ K-PAI and/or [Nexus](https://nexus-pai.github.io) forums).
 
 <span class="emph">Therefore EVERYONE in the current K-PAI chatroom is readily qualified to join K-PAI Nexus chatroom!</span>
 
@@ -252,7 +256,7 @@ Contact [leadership](/committee) if you're unsure about your qualification statu
 
 ## I have a startup. Can I still pitch at K-PAI Nexus forums?
 
-Yes! K-PAI Nexus integrates 2-3 member startup pitches into every forum. This provides founders with visibility to investors, corporate partners, and potential customers. Apply through [the K-PAI Nexus Members chatroom](https://invite.kakao.com/tc/WILY3ul3un){:target="_blank"} or contact [leadership](/committee){:target="_blank"}.
+Yes! K-PAI Nexus integrates 2-3 member startup pitches into every forum. This provides founders with visibility to investors, corporate partners, and potential customers. Apply through [the Nexus Members chatroom](https://invite.kakao.com/tc/WILY3ul3un){:target="_blank"} or contact [leadership](/committee){:target="_blank"}.
 
 ## I'm part of a university partnership. Does anything change?
 
@@ -322,7 +326,7 @@ Any revenue-generating activities must align with the non-profit mission and com
 ## How do I stay updated on K-PAI Nexus activities?
 
 - Attend forums (announcements at each event)
-- Join the [K-PAI Nexus Members chatroom](https://invite.kakao.com/tc/WILY3ul3un){:target="_blank"} (after qualifying)
+- Join the [Nexus Members chatroom](https://invite.kakao.com/tc/WILY3ul3un){:target="_blank"} (after qualifying)
 - Follow K-PAI Nexus on [Instagram](https://www.instagram.com/kpainexus){:target="_blank"} and [LinkedIn](https://www.linkedin.com/company/k-pai-nexus){:target="_blank"}
 - Check [{{ site.url }}](/) regularly for announcements
 - Subscribe to email updates (contact [K-PAI Nexus Leadership](/committee))
@@ -396,7 +400,7 @@ Future organizational structures will evolve based on community needs, but the c
 ## How do I provide feedback or ask questions not covered here?
 
 Contact the [K-PAI Nexus Leadership Team](/committee) through:
-- K-PAI Nexus Members chatroom (if you're a qualified member)
+- Nexus Members chatroom (if you're a qualified member)
 - Email: [sunghee.yun@gmail.com](mailto:sunghee.yun@gmail.com)
 - LinkedIn: Connect with [Board Members](/committed/#board-of-directors) or [Leadership Team Members](/committee)
 - At forums: Approach leadership members directly
