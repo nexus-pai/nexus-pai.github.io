@@ -1,6 +1,6 @@
 ---
 date: Thu Apr 30 16:06:27 PDT 2026
-last_modified_at: Wed May 13 00:42:57 PDT 2026
+last_modified_at: Wed May 13 00:54:31 PDT 2026
 layout: single
 title: "K-PAI Nexus FAQs"
 permalink: /faq/k-pai-nexus
@@ -30,7 +30,9 @@ updated: {{ page.last_modified_at | date: "%d-%b-%Y" }}
 *This FAQ will be updated regularly as K-PAI Nexus evolves. Check back for the latest information.*\
 *Draft Version 1.0 — April 30, 2026*\
 *Draft Version 1.1 — May 12, 2026*\
-*Author: [Sunghee Yun](https://sungheeyun.github.io)*
+*Draft Version 1.2 — May 13, 2026*\
+*Author: [Sunghee Yun](https://sungheeyun.github.io)*\
+*Reviewed by: [Nexus Board of Directors](/committee/#board-of-directors){:target="_blank"}*
 
 <!--div class="img-container-justified">
 	<div style="width: 49%; border: 1px solid #ccc; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin: 20px 0;">
