@@ -67,9 +67,9 @@ plugins:
 
 # Site Author
 author:
-  name             : "Silicon Valley AI Nexus"
+  name             : "Nexus"
   avatar           : "/assets/images/n-pai-logo.png"
-#  bio              : "Silicon Valley AI Nexus"
+  bio              : "Silicon Valley AI Nexus"
 #  location         : "Silicon Valley, CA, USA"
 #  email            : k.private.ai@gmail.com
   links:
