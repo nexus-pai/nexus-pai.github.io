@@ -1,6 +1,6 @@
 ---
 date: Thu May 14 00:59:25 PDT 2026
-last_modified_at: Thu May 14 01:12:15 PDT 2026
+last_modified_at: Thu May 14 02:13:08 PDT 2026
 layout: single
 title: Silicon Valley AI Nexus Membership
 permalink: /membership/
@@ -23,6 +23,16 @@ policymakers, and thought leaders united by a common conviction:
 
 Becoming a Nexus member means joining a vibrant network where
 <span class="emph">bold ideas meet purposeful collaboration</span>.
+
+# Become a Nexus Member
+
+To become a **Nexus member**, simply:
+
+1. **Qualify** by attending **any single Nexus event** — whether in person or remotely via our live broadcast. This includes Nexus forums, partner co-hosted events (e.g., KIC × Nexus, Consulate × Nexus), and any event where Nexus participates as a guest organization. **They all count!**
+2. **Join** our <a target="_blank" href="https://invite.kakao.com/tc/WILY3ul3un">Nexus KakaoTalk Team Chat Room</a> and get approved by [Sunghee Yun](https://sungheeyun.github.io){:target="_blank"} — that's it, you're in!
+
+Welcome to an exclusive network of professionals and leaders
+across AI, technology, investment, policy, and academia.
 
 # Our Three Pillars
 
@@ -61,17 +71,6 @@ We are proud to count among our strategic partners:
 These partnerships — along with our growing network of corporate, academic,
 and government collaborators — position Nexus as **the premier Silicon Valley
 AI community bridging Korean and global tech ecosystems**.
-
-# Become a Nexus Member
-
-To become a **Nexus member**, you must:
-
-1. Attend at least **two Nexus forums**.
-2. Express your interest in membership through a forum registration form, <i>e.g.</i>,
-   <a target="_blank" href="https://luma.com/9xuuhnpq">Registration &amp; Membership</a>.
-
-Once approved, you will join an exclusive network of professionals and leaders
-across AI, technology, investment, policy, and academia.
 
 # Exclusive Member Benefits
 
@@ -150,7 +149,7 @@ at every forum, monthly live broadcasting, and much more.
 
 Ready to become part of a <span class="emph">community that doesn't just talk about the future — but builds it</span>?
 
-Attend two Nexus forums and express your interest through a forum registration form.
+Attend any single Nexus event — in person or remotely — then join our <a target="_blank" href="https://invite.kakao.com/tc/WILY3ul3un">KakaoTalk Team Chat Room</a>. That's it!
 
 Join [**Silicon Valley AI Nexus**](/) today and become part of a dynamic community dedicated
 to **exploring AI's deepest questions, elevating our members, and giving back to society**.
