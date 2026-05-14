@@ -1,6 +1,6 @@
 ---
 date: Thu May 14 00:59:25 PDT 2026
-last_modified_at: Thu May 14 02:13:08 PDT 2026
+last_modified_at: Thu May 14 03:20:57 PDT 2026
 layout: single
 title: Silicon Valley AI Nexus Membership
 permalink: /membership/
@@ -28,8 +28,8 @@ Becoming a Nexus member means joining a vibrant network where
 
 To become a **Nexus member**, simply:
 
-1. **Qualify** by attending **any single Nexus event** — whether in person or remotely via our live broadcast. This includes Nexus forums, partner co-hosted events (e.g., KIC × Nexus, Consulate × Nexus), and any event where Nexus participates as a guest organization. **They all count!**
-2. **Join** our <a target="_blank" href="https://invite.kakao.com/tc/WILY3ul3un">Nexus KakaoTalk Team Chat Room</a> and get approved by [Sunghee Yun](https://sungheeyun.github.io){:target="_blank"} — that's it, you're in!
+1. **Qualify** by attending **any single Nexus event** — whether in person or remotely via our live broadcast. This includes Nexus forums, partner co-hosted events (e.g., KIC × Nexus, Consulate × Nexus), and any event where Nexus participates as a guest organization. **They all count!** <span class="emph">Already a K-PAI member? You're automatically qualified!</span>
+1. **Join** our <a target="_blank" href="https://invite.kakao.com/tc/WILY3ul3un">Nexus KakaoTalk Team Chat Room</a> and get approved by [Sunghee Yun](https://sungheeyun.github.io){:target="_blank"} — that's it, you're in!
 
 Welcome to an exclusive network of professionals and leaders
 across AI, technology, investment, policy, and academia.
