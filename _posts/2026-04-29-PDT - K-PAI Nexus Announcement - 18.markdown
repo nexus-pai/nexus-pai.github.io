@@ -1,6 +1,6 @@
 ---
 date: Wed Apr 29 00:15:35 PDT 2026
-last_modified_at: Tue May 12 02:08:12 PDT 2026
+last_modified_at: Sat May 16 18:45:30 PDT 2026
 layout: single
 title: "[K-PAI Nexus's 18th Chapter] The Silicon Stethoscope - Bridging Seoul's Medical Reality and Silicon Valley's AI Vision in Healthcare's Trillion Dollar Transformation"
 permalink: /event-announcements/18
@@ -246,12 +246,13 @@ Bioscience & Technology Regulation Attorney @ Shin & Kim / Stanford Law & Biosci
 - [**Sunghee Yun**](https://sungheeyun.github.io) - Co-Founder & CTO / CEO / Leader @ [Erudio Bio](https://www.erudio.bio/) / [Erudio Bio Korea](https://sungheeyun-erudio.github.io/) / [K-PAI Nexus](/)
 - [**Gordon G. Park**](https://www.linkedin.com/in/gordon-g-park-452bab26/){:target="_blank"}
 &ndash; Neuroscientist & Health care specialist @ VA Palo Alto / Stanford Pathology Affiliate / Co-Founder & CEO @ [PathoBrainSeq](https://pathobrainseq.com/){:target="_blank"} / Science Advisor @ Wingstabio
-- TBD
+- [**Jongmin Sung**](https://www.linkedin.com/in/jongmin-sung/){:target="_blank"}
+&ndash; Senior Knowledge Engineer / AI Systems Architect / Biotechnology & Quantum Drug Discovery Advisor
 
 <div class="img-container-justified">
-	<img style="max-width: 28.78%" src="https://sungheeyun-photos-02.github.io/resource/nexus-pai.github.io/events/18/jeff-01.png">
-	<img style="max-width: 34.72%" src="https://sungheeyun-photos-02.github.io/resource/nexus-pai.github.io/events/18/gordon-01-01.png">
-	<img style="max-width: 32.50%" src="https://sungheeyun-photos-02.github.io/resource/nexus-pai.github.io/events/18/Sunghee_question_mark_--chaos_30_--ar_34_--profile_txczzy6_--_2dbd0001-c943-4bc1-a8d4-2842b5e468b8_3.png">
+	<img style="max-width: 25.88%" src="https://sungheeyun-photos-02.github.io/resource/nexus-pai.github.io/events/18/jeff-01.png">
+	<img style="max-width: 31.24%" src="https://sungheeyun-photos-02.github.io/resource/nexus-pai.github.io/events/18/gordon-01-01.png">
+	<img style="max-width: 38.87%" src="https://sungheeyun-photos-02.github.io/resource/nexus-pai.github.io/events/18/jongmin-01.jpg">
 </div>
 
 **Potential Discussion Topics**
