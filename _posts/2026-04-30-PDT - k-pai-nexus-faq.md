@@ -1,6 +1,6 @@
 ---
 date: Thu Apr 30 16:06:27 PDT 2026
-last_modified_at: Mon May 18 00:34:51 PDT 2026
+last_modified_at: Mon May 18 00:42:34 PDT 2026
 layout: single
 title: "K-PAI Nexus FAQs"
 permalink: /faq/k-pai-nexus
@@ -136,7 +136,7 @@ The existing K-PAI chatroom remains active, and K-PAI Forum activities continue 
 
 K-PAI's growth over 18 months created a genuine inflection point: the community had organically expanded well beyond its founding focus on privacy-preserving AI into policy, medicine, ethics, climate, and more. Rather than forcing a compromise that would dilute either direction, the decision was made to let both missions flourish on their own terms.
 K-PAI remains dedicated to its founding vision — "creating and fostering new fields where Korea becomes the best industrially and academically."
-Nexus embraces the broader horizons the community itself created: AI's holistic impact on society, policy, ethics, and humanity.
+Nexus embraces the broader horizons the community itself created: AI's holistic impact on technology, society, policy, ethics, and humanity.
 
 <!--
 Different visions serve different communities best. K-PAI's focus on elevating Korea's industrial and academic leadership represents one important mission. [K-PAI Nexus](/){:target="_blank"}'s broader focus on AI's holistic impact across technology, society, ethics, and humanity represents another.
@@ -160,7 +160,7 @@ Many members will likely find value in both communities depending on their inter
 
 ## How do I join K-PAI Nexus?
 
-**Step 1 — Qualify:** Attend **any single K-PAI or K-PAI Nexus event**—whether in person or remotely via our live broadcast. This includes K-PAI Nexus forums, K-PAI forums, and partner co-hosted events (e.g., KIC × K-PAI Nexus, Consulate × K-PAI Nexus). <span class="emph">They all count!</span>
+**Step 1 — Qualify:** Attend **any single K-PAI or K-PAI Nexus event**—whether in person or remotely via our live broadcast. This includes K-PAI Nexus forums, K-PAI forums, and partner co-hosted events (*e.g.*, KIC × K-PAI Nexus, Consulate General × K-PAI Nexus). <span class="emph">They all count!</span>
 <span class="emph">Therefore K-PAI members are automatically qualified to be [<span class="emph">K-PAI Nexus Members</span>](/membership)!</span>
 
 **Step 2 — Join:** Click [here](https://invite.kakao.com/tc/WILY3ul3un){:target="_blank"} to join [the K-PAI Nexus Members KakaoTalk chatroom](https://invite.kakao.com/tc/WILY3ul3un){:target="_blank"} and get approved by [Sunghee Yun](https://sungheeyun.github.io){:target="_blank"}—that's it, you're in!
