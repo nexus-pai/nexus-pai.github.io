@@ -1,6 +1,6 @@
 ---
 date: Thu Apr 30 16:06:27 PDT 2026
-last_modified_at: Sun May 17 18:11:01 PDT 2026
+last_modified_at: Sun May 17 18:22:56 PDT 2026
 layout: single
 title: "K-PAI Nexus FAQs"
 permalink: /faq/k-pai-nexus
@@ -124,7 +124,7 @@ This FAQ addresses common questions about [K-PAI Nexus](/) and its relationship 
 
 K-PAI Nexus hosts monthly forums, facilitates interest groups, and maintains partnerships with institutions — including KOTRA SV, KIC SV, and KASPA — universities such as [Stanford University](https://www.stanford.edu/){:target="_blank"}, [MIT](https://web.mit.edu/){:target="_blank"}, [Seoul National University (SNU)](https://en.snu.ac.kr/){:target="_blank"}, [KAIST](https://www.kaist.ac.kr/en/){:target="_blank"}, and [POSTECH](https://www.postech.ac.kr/eng/index.do){:target="_blank"} — and public-sector entities including the Consulate General of the Republic of Korea in San Francisco. The organization also produces thought leadership on AI's transformative impact on humanity.
 
-## What happens to K-PAI?
+## Where does K-PAI go from here?
 
 K-PAI continues operating under its founding vision: "Creating and nurturing new fields where Korea becomes the best industrially and academically." K-PAI Forum continues with this mission.
 
@@ -132,9 +132,15 @@ The existing K-PAI chatroom remains active, and K-PAI Forum activities continue 
 
 ## Why create K-PAI Nexus separately?
 
+K-PAI's growth over 18 months created a genuine inflection point: the community had organically expanded well beyond its founding focus on privacy-preserving AI into policy, medicine, ethics, climate, and more. Rather than forcing a compromise that would dilute either direction, the decision was made to let both missions flourish on their own terms.
+K-PAI remains dedicated to its founding vision — "creating and fostering new fields where Korea becomes the best industrially and academically."
+Nexus embraces the broader horizons the community itself created: AI's holistic impact on society, policy, ethics, and humanity.
+
+<!--
 Different visions serve different communities best. K-PAI's focus on elevating Korea's industrial and academic leadership represents one important mission. [K-PAI Nexus](/){:target="_blank"}'s broader focus on AI's holistic impact across technology, society, ethics, and humanity represents another.
 
 Creating [K-PAI Nexus](/){:target="_blank"} allows both visions to flourish independently while respecting the distinct goals each serves. This approach—similar to how interest groups form organically within communities—enables focused execution without requiring compromise on either vision.
+-->
 
 ## Is this a "split" or "spin-off"?
 
