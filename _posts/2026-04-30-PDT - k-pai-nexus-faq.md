@@ -1,6 +1,6 @@
 ---
 date: Thu Apr 30 16:06:27 PDT 2026
-last_modified_at: Mon May 18 00:46:44 PDT 2026
+last_modified_at: Mon May 18 01:02:50 PDT 2026
 layout: single
 title: "K-PAI Nexus FAQs"
 permalink: /faq/k-pai-nexus
@@ -233,13 +233,13 @@ K-PAI events organized will be announced separately through K-PAI channels.
 
 ## Can I still access K-PAI Nexus resources if I'm not a member?
 
-K-PAI Nexus forums are open to everyone—members and non-members alike. You don't need to be a qualified member to attend forums, though qualification (attending any single event) is required to join the Members chatroom and access certain member-exclusive opportunities.
+K-PAI Nexus forums are open to everyone—members and non-members alike. You don't need to be a qualified member to attend forums, though qualification (attending any single event) is required to join [the Members chatroom](https://invite.kakao.com/tc/WILY3ul3un){:target="_blank"} and access certain [member-exclusive opportunities](/membership).
 
 Public resources like the [AI & Humanity Council](/pr-faq/ai-humanity-council/2029){:target="_blank"} reports, educational content, and thought leadership publications are freely accessible to everyone.
 
 ## What about past forum attendance? Does it count toward K-PAI Nexus qualification?
 
-If you attended any forum organized by K-PAI, that counts toward K-PAI Nexus qualification—you're already qualified!
+If you have attended any forum organized by K-PAI, that counts toward K-PAI Nexus qualification—you're already qualified!
 
 Contact [leadership](/committee) if you're unsure about your qualification status.
 
@@ -259,11 +259,11 @@ If you're a university contact or student participant, nothing changes in your d
 
 **Board of Directors (6 members):**
 - Sunghee Yun (Chair)
-- Sue Kim (Marketing Leader)
-- Youngwook (Hayden) Song (Legal Affairs Advisor)
+- Minha Hwang (AI Master)
 - Bo Hyoung (Jeff) Lee (Legal Affairs Advisor)
 - MiSook Chung (Community Engagement Chair)
-- Minha Hwang (AI Master)
+- Sue Kim (Marketing Leader)
+- Youngwook (Hayden) Song (Legal Affairs Advisor)
 
 <!--
 **Leadership Team (12 members):** Includes Board members plus additional committee leaders across multiple Committees.
@@ -322,21 +322,21 @@ Any revenue-generating activities must align with the non-profit mission and com
 
 ## Will K-PAI Nexus forums be broadcast remotely?
 
-Yes! Starting June 2026, K-PAI Nexus forums will be broadcast remotely, enabling participation from anywhere in the world. This includes real-time translation capabilities for Korean and English speakers.
+<span class="emph">Yes!</span> Starting June 2026, K-PAI Nexus forums will be broadcast remotely, enabling participation from anywhere in the world. This includes real-time translation capabilities for Korean and English speakers.
 
 Technical details and registration for remote participation will be announced soon.
 
 ## I'm in Korea. Can I participate in K-PAI Nexus?
 
-Absolutely. K-PAI Nexus welcomes global participation. With remote broadcasting launching in June 2026, you can attend forums from Korea. Additionally, K-PAI Nexus organizes programs in Korea through university partnerships and collaborates with Korean institutions.
+<span class="emph">Absolutely.</span> K-PAI Nexus welcomes global participation. With remote broadcasting launching in June 2026, you can attend forums from Korea. Additionally, K-PAI Nexus organizes programs in Korea through university partnerships and collaborates with Korean institutions.
 
 # Community & Culture
 
 ## Is K-PAI Nexus only for Korean or Korean-American professionals?
 
-No. While K-PAI Nexus has roots in the Korean professional community in Silicon Valley, the mission—exploring AI's comprehensive impact on humanity—is <span class="eemph">universal</span>. Forums, interest groups, and the AI & Humanity Council's work are conducted in both English and Korean, and open to anyone who shares the commitment to understanding AI through a holistic, human-centered lens.
+No. While K-PAI Nexus has roots in the Korean professional community in Silicon Valley, the mission—exploring AI's comprehensive impact on humanity—is <span class="eemph">universal</span>. Forums, interest groups, and the AI & Humanity Council's work are conducted in both English and Korean, and open to anyone who shares the commitment to understanding AI through a holistic, human-centered lenses.
 
-Community diversity across nationalities, disciplines, industries, and perspectives is one of K-PAI Nexus's greatest strengths.
+<span class="emph">Community diversity across nationalities, disciplines, industries, and perspectives is one of K-PAI Nexus's greatest strengths.</span>
 
 ## What makes K-PAI Nexus different from other AI communities?
 
@@ -352,14 +352,14 @@ Three fundamental differences:
 
 Multiple pathways:
 
-- **Attend and engage** at forums (ask questions, network, share insights)
+- **Attend and engage** at forums (ask questions, network, and share insights)
 - **Join interest groups** that match your expertise or interests
-- **Volunteer for committees** ([Board of Directors](/committee/#board-of-directors){:target="_blank"}, [AI & Humanity Council](/committee/#ai-and-humanity-council){:target="_blank"}, [Vision & Principles Committees](/committee/#vision-and-principles-committee){:target="_blank"}, [Program & Content Committee](/committee/#program-and-content-committee){:target="_blank"}, [Tech & Social Media Committees](/committee/#tech-and-social-media-committee){:target="_blank"})
-- **Contribute to the AI & Humanity Council** (research, peer review, expertise)
-- **Organize forums** as part of [Program & Content Committee](/committee/#program-and-content-committee)
-- **Mentor community members** (startups, career transitions, technical skills)
-- **Spread the word** (invite colleagues, share content, write testimonials)
-- **Sponsor or partner** (corporate sponsorships, university collaborations)
+- **Volunteer for committees** ([Board of Directors](/committee/#board-of-directors){:target="_blank"}, [AI & Humanity Council](/committee/#ai-and-humanity-council){:target="_blank"}, [Vision & Principles Committees](/committee/#vision-and-principles-committee){:target="_blank"}, [Program & Content Committee](/committee/#program-and-content-committee){:target="_blank"}, and [Tech & Social Media Committees](/committee/#tech-and-social-media-committee){:target="_blank"})
+- **Contribute to the AI & Humanity Council** (research, peer review, and expertise)
+- **Organize forums** as part of [Program & Content Committee](/committee/#program-and-content-committee) or one-time volunteering!
+- **Mentor community members** (startups, career transitions, and technical skills)
+- **Spread the word** (invite colleagues, share content, and write testimonials)
+- **Sponsor or partner** (corporate sponsorships and university collaborations)
 
 Contact [K-PAI Nexus Leadership](/committee){:target="_blank"} to discuss how your skills and interests can contribute.
 
@@ -413,5 +413,6 @@ We're building something meaningful together. [Join us!](/)
 *Draft Version 1.1 — May 12, 2026*\
 *Draft Version 1.2 — May 13, 2026*\
 *Draft Version 1.3 — May 14, 2026*\
+*Draft Version 1.4 — May 18, 2026*\
 *Author: [Sunghee Yun](https://sungheeyun.github.io)*\
 *Reviewed by: [K-PAI Nexus Board of Directors](/committee/#board-of-directors){:target="_blank"}*
