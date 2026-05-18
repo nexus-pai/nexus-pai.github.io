@@ -1,6 +1,6 @@
 ---
 date: Mon Oct 13 03:59:43 PDT 2025
-last_modified_at: Mon May 18 04:30:40 PDT 2026
+last_modified_at: Mon May 18 11:59:04 PDT 2026
 layout: single
 title: To Me, K-PAI Nexus is &hellip;
 permalink: /tmkn/
@@ -10,7 +10,37 @@ toc_icon: "cog"
 toc_sticky: true
 ---
 
-## Visiting Student finds K-PAI Nexus transforms a semester into lasting opportunities
+<!--
+
+## Annie discovers through [K-PAI Nexus](/){:target="_blank"} that her path intersects with AI after all
+
+> 안녕하세요, 저는 버클리 로스쿨의 코리아 로 센터에서 executive director 로 일하고 있는 유현정이라고 합니다. 케이파이를 통해 생긴 소중한 인연을 소개하기 위해 글을 쓰게 되었습니다.
+>
+> 저는 한국에서 7년 정도 변호사로 일하다가 2024년 8월 버클리 로의 법학석사 과정에 입학하여 베이 지역에 처음 오게 되었습니다. 저는 부동산 개발사업 변호사입니다. 부동산 개발에 관한 사건을 했습니다. 반포주공아파트 관리처분계획 취소사건이나 을지로 일대의 도시환경정비사업들에 대한 자문이 제가 했던 대표적인 일입니다. 다시 말해, 매우 ‘로컬’한 법에 대한 지식을 바탕으로 ‘로컬’한 일을 했습니다.
+>
+> 그런데 이 곳에 와서 만난 모든 사람들은 테크놀로지에 미쳐있었습니다.  버클리 로스쿨에서 만난 친구들도 대부분 아이피 로나 프라이버시 로를 전문분야로 하고 있었습니다. 오가며 만난 분들도 대부분 엔지니어들이거나 기술을 바탕으로 한 창업자, 기술에 투자하고 싶어하는 투자자들이었습니다. 약간은 우왕좌왕했고 ‘나도 지금이라도 전문분야를 바꿔야 하는 것 아니야?’ 라는 생각도 들었습니다. 학교에서는 에이아이를 활용하는 법을 가르치고, 다들 농담처럼 변호사가 에이아이에 대체될 직업 1순위라고 얘기하던 때였습니다. 학교에 와서 강연하는 테크 기업들의 인하우스 카운슬들의 빛나는 링크드인 약력과 안개 속으로 솟아 마치 끝없이 이어질 것 같은 샌프란시스코의 빌딩들을 보면서, 여기에는 기회와 사람이 있지만 그것이 내 것은 아니라는 생각에 다소간 울적하기도 했습니다.
+>
+> 그런 마음에 K-PAI에 얼굴을 비춘 지는 꽤 되었습니다. 아주 약간 연결고리지만 AI라는 분야에 최소한의 연결점을 갖고 싶었기 때문입니다. 다행히 열린 마음으로, AI에 관심이 있는 많은 사람들을 받아주셨습니다. 그래도 케이파이에 오시는 다른 분들과 많이 교류하거나 제 얘기를 털어놓거나 하지는 못했습니다. 아직 미국식 야생의 네트워킹 - 그냥 풀어놓고 알아서 아무나와 얘기해야하는 - 이 어려웠습니다. 크게 할 말도 없었습니다. 그냥 좋은 강연들을 조용히 잘 듣고 (맛있는 한식을 얻어먹고) 집에 왔습니다. 1시간이 넘게 걸려 운전해서 가야 하는 수고로운 길이었으나 꾸역꾸역 꽤 많이 참석했습니다.
+>
+> 전환점이 된 것은 1월의 신년 파티였습니다. 미숙님이 한 발표가 참 좋았습니다. 그런데 미숙님이 오픈 테이블 소모임을 여신다고 하였습니다. 캘린더에 날짜만 등록해놓고, 마지막까지 간다는 이야기는 못하고 주저하고 있었습니다. 그러다가 결단을 내리고 산호세로 향했습니다. 그곳에서 미숙님, 원표님, 청녕님, 제이슨님을 만났습니다. 다들 자기를 소개하고 어떤 일을 하고 있는지 얘기했습니다. 저도 제가 했던 일들과 제 고민을 공유했습니다. 모두들 매우 귀기울여 서로의 이야기를 들어주었습니다.
+>
+> 그날의 모임이 계기가 되었습니다. 미숙님은 제가 여기서 할 일들을 찾아봐주고 격려해주었습니다. 네가 할 수 있는 일을 찾아보라고 말씀해주셨습니다. 케이파이가 버클리에서 너무 멀다고 생각해왔던 저는 이스트 베이 소모임을 만들었습니다. 소모임을 홍보할 수 있는 기회도 주셨습니다. 다종다기한 사람들이 모여서 꽃피울 수 있는 장을 열어주겠다고 하셨습니다. 저는 그 응원이 고마워서라도 여기서 사람들을 더 만나고 싶었습니다.
+>
+> 그리고 나서 그 다음 케이파이 모임에서였습니다. 이스트 베이 소모임을 홍보한 바로 그 모임이었습니다.
+>
+> 제이슨님이 저를 불렀습니다. 제이슨님이 성준님을 소개해 주셨습니다. 조닝 로에 관한 앱을 에이아이를 활용해서 만들고 계시다고 하였습니다. 집에 와서 찬찬히 앱을 들여다보았습니다. 제가 학교에서 학교에서 배우면서 어려움을 느꼈던 바로 그 지점을 해소하는 앱이었습니다. 조닝에는 여러 문제점이 있지만, 무엇보다 법 자체가 지방자치단체(시나 카운티)에서 제정되고 관리된다는 점이 큰 문제입니다. 입법을 위한 투표권이 지역 내 거주자에게 있는 관계로 특히 싱글 유닛 하우징으로 지정된 지구의 경우에는 새로운 주택 공급이 쉽지 않습니다. 이것이 현재 캘리포니아의 주택 공급 부족 문제의 주요 원인으로 꼽히기도 합니다. 그리고 실무자나 수요자, 부동산 개발업자 입장에서는 ‘과연 이 땅에 어떤 규제가 적용되는지’ 자체를 알기가 어렵습니다. 지방자치단체별로 규제 형식이 제각각이고, 이를 알 수 있는 플랫폼도 단일화되어 있지 않습니다. 시간에 따라 그 때의 필요에 따라 여기저기 덧붙여 만들어진 법안들은 그 흐름을 계속 따라간 사람이 아니라면 그 개요를 파악하기도 어렵습니다. 학교에 있는 동안 로스쿨에서 Real Estate Transactions and Litigation, Land Use Law, Property, An Interdisciplinary Approach to Land Development and Investment 라는 과목을, 부동산 석사과정에서도 Real Estate Law and Regulations라는 과목을 청강하면서 공부했습니다. 해당 과목들의 상당시간이 이러한 법들을 체계적으로 이해하고 무엇보다 ‘어떻게 접근’하는지를 가르치는데 쓰이고 있었습니다. 이 앱이 있다면 무엇보다 실무자들에게 큰 도움이 될 것 같았습니다.
+>
+> 제가 회원가입을 하고 앱을 사용해보고 있다는 것을 아신 성준님과 따로 대화를 나누게 되었습니다. 서로의 문제의식에 공감하였습니다. 이미 학계에서 경제학과 경영학 분야에서 상당한 지식을 쌓으시고, 창업 경험도 있으신 성준님이 여러모로 멘토 역할을 해주셨습니다. 성준님께서도 미국법과 랜드유즈 로에 지식이 있고 이를 법조계와 연결해 줄 아이디어를 찾고 있으셨습니다. 저희는 앞으로도 꾸준히 만나면서 이 서비스가 어떻게 발전할 수 있을지 논의해보려고 합니다.
+>
+> 이스트 베이 소모임에서 나눈 대화는 에이아이가 꼭 ‘기술’이 아니라 그 기술을 쓰는 ‘사람’과 ‘철학’에 대한 것이라는 것을 다시 확인해주었습니다(이스트 베이 소모임 번창하라!) 모두들 느끼고 있으시겠지만 ‘에이아이’는 우리의 삶의 모든 영역에서 떼어놓을 수 없는 플랫폼이 되고 있습입니다. 나를 바꾸려 하기보다, 내가 가지고 있는 자산과 방향성에 집중할 때 그 방향이 어디에선가 교차할 수 있다고 생각합니다. 그리고 그 교차점의 ‘밀도’와 ‘빈도’를 높여주는 곳이 케이파이가 아닐까 하는 생각이 들었습니다.
+>
+> 다들 주저하지 마시고, 한번만 시간을 내서 소모임에 나오세요. 그리고 내가 누군지 무얼 하고 있는지 무얼 하고 싶은지 알려주세요. 곧 만나뵐 수 있기를 고대하겠습니다.
+>
+> &ndash; [Hyunjung (Annie) Yu](https://www.linkedin.com/in/hyunjung-annie-yu/){:target="_blank"}
+
+-->
+
+## Visiting Student finds [K-PAI Nexus](/){:target="_blank"} transforms a semester into lasting opportunities
 
 > As a visiting student spending one semester in San Francisco, I had the chance to attend a K-PAI Nexus event and it quickly became one of the most meaningful experiences of my time here. Through K-PAI Nexus, I met inspiring professionals who generously shared their insights and opened new opportunities for me. Thanks to connections I made there, I was even invited to the Plug and Play event, which broadened my understanding of the local tech ecosystem.
 >
@@ -21,7 +51,7 @@ toc_sticky: true
 > &ndash; [Hyein Kim](https://www.linkedin.com/in/hyein-kim-korea2022/){:target="_blank"}
 
 
-## MiSook envisions K-PAI Nexus as a community advancing humanity through AI!
+## MiSook envisions [K-PAI Nexus](/){:target="_blank"} as a community advancing humanity through AI!
 
 > **What an Advanced AI Society Means &hellip;**
 >
@@ -35,7 +65,7 @@ toc_sticky: true
 >
 > &ndash; [MiSook Chung](https://www.linkedin.com/in/misook-chung/){:target="_blank"}
 
-## Gordon finds the community (K-PAI Nexus) that speaks both Bio &amp; Tech
+## Gordon finds [K-PAI Nexus](/){:target="_blank"} that speaks both Bio &amp; Tech
 
 > Only 바이오 전공인 제게, 바이오에서 만들어지는 데이터들은 어느 순간부터 핸들링하기 어려울 정도로 쌓여만 갔습니다. 이를 해결하기 위해 배우기 시작한 Stanford Sherlock system은 저에게 새로운 분야의 문을 열어주었습니다. 하지만 전공의 깊이 차이를 여실히 느끼며 좌절하던 중, K-PAI Nexus 모임을 알게 되었지요. 만나서 이야기해보고 싶었던 사람들이 한자리에 모여 있는 것이 너무 좋았습니다. 그분들이 넌지시 던지는 기본적인 이야기조차 이해하지 못했던 적도 있었지만, 듣고 찾아 공부하다 보니 조금씩 이해할 수 있었습니다. 대표적인게 RAG라는 알고리즘을 이용해 데이터 분석에 Hallucination을 줄일 수 있다는..
 >
@@ -43,7 +73,7 @@ toc_sticky: true
 >
 > &ndash; [Gordon Park](https://profiles.stanford.edu/goonho-park/){:target="_blank"}
 
-## Joe transforms a Blank Field into a Startup Journey via K-PAI Nexus
+## Joe transforms a Blank Field into a Startup Journey via [K-PAI Nexus](/){:target="_blank"}
 
 >K-PAI Nexus는 저에게 스타트업 창업가라는, 전혀 예상하지 못했던 새로운 길을 열어준 특별한 모임입니다. 사실 예전부터 스타트업 아이디어는 있었지만, 바쁜 일상과 현직 업무에 쫓겨 실행에 옮기지 못하고 있었습니다.
 >
