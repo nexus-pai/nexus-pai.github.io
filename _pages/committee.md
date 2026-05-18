@@ -1,5 +1,5 @@
 ---
-last_modified_at: Tue May  5 20:45:53 PDT 2026
+last_modified_at: Sun May 17 19:07:48 PDT 2026
 layout: single
 title: Committees
 permalink: /committee/
@@ -54,6 +54,28 @@ author_profile: false
 
 <table class="borderless-table">
 <tr>
+<td class="role" style="color: #0000dd;">
+	Board Chair
+</td>
+<td id="sunghee" class="kor-name">
+	윤성희
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://sungheeyun.github.io/">Sunghee Yun</a>
+</td>
+</tr>
+<tr>
+<td class="role" style="color: #3333ff;">
+	AI Master
+</td>
+<td class="kor-name">
+	황민하
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/minha-hwang-7440771/">Minha Hwang</a>
+</td>
+</tr>
+<tr>
 <td class="role" style="color: #3333ff;">
 	Marketing Leader
 </td>
@@ -61,7 +83,7 @@ author_profile: false
 	김수연
 </td>
 <td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/suekimpr//">Sue Kim</a>
+	<a target="_blank" href="https://www.linkedin.com/in/suekimpr/">Sue Kim</a>
 </td>
 </tr>
 <tr>
@@ -73,17 +95,6 @@ author_profile: false
 </td>
 <td class="eng-name">
 	<a target="_blank" href="https://www.linkedin.com/in/youngwook-hayden-song-a5177019/">Youngwook (Hayden) Song</a>
-</td>
-</tr>
-<tr>
-<td class="role" style="color: #0000dd;">
-	Board Chair
-</td>
-<td id="sunghee" class="kor-name">
-	윤성희
-</td>
-<td class="eng-name">
-	<a target="_blank" href="https://sungheeyun.github.io/">Sunghee Yun</a>
 </td>
 </tr>
 <tr>
@@ -106,17 +117,6 @@ author_profile: false
 </td>
 <td class="eng-name">
 	<a target="_blank" href="https://www.linkedin.com/in/misook-chung/">MiSook Chung</a>
-</td>
-</tr>
-<tr>
-<td class="role" style="color: #3333ff;">
-	AI Master
-</td>
-<td class="kor-name">
-	황민하
-</td>
-<td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/minha-hwang-7440771/">Minha Hwang</a>
 </td>
 </tr>
 </table>
@@ -199,7 +199,7 @@ author_profile: false
 	김수연
 </td>
 <td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/suekimpr//">Sue Kim</a>
+	<a target="_blank" href="https://www.linkedin.com/in/suekimpr/">Sue Kim</a>
 </td>
 </tr>
 <tr>
