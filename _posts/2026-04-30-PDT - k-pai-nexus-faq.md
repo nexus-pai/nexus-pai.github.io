@@ -1,6 +1,6 @@
 ---
 date: Thu Apr 30 16:06:27 PDT 2026
-last_modified_at: Sun May 17 18:22:56 PDT 2026
+last_modified_at: Mon May 18 00:34:51 PDT 2026
 layout: single
 title: "K-PAI Nexus FAQs"
 permalink: /faq/k-pai-nexus
@@ -114,7 +114,9 @@ updated: {{ page.last_modified_at | date: "%d-%b-%Y" }}
 
 # Introduction
 
-This FAQ addresses common questions about [K-PAI Nexus](/) and its relationship to K-PAI. If you have additional questions not covered here, please reach out to the [K-PAI Nexus Leadership](/committee).
+This FAQ addresses common questions about [K-PAI Nexus](/) and its relationship to K-PAI.
+If you have additional questions not covered here, please reach out to the [K-PAI Nexus Leadership](/committee)
+or ask questions (freely) in [K-PAI Nexus Kakaotalk chatroom](/#join-us-at-kakaotalk).
 
 # Core Questions
 
