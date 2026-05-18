@@ -1,8 +1,8 @@
 ---
 date: Tue Nov  4 14:28:34 PST 2025
-last_modified_at: Thu May 14 00:49:12 PDT 2026
+last_modified_at: Mon May 18 04:31:44 PDT 2026
 layout: single
-title: Silicon Valley AI Nexus Groups
+title: K-PAI Nexus Groups
 permalink: /groups/
 toc: true
 toc_label: "&nbsp;Table of Contents"
@@ -10,7 +10,7 @@ toc_icon: "fa-solid fa-list"
 toc_sticky: true
 ---
 
-[Silicon Valley AI Nexus](/) encourages organically growing group meetings!
+[K-PAI Nexus](/) encourages organically growing group meetings!
 
 # List of Groups
 
@@ -27,16 +27,16 @@ toc_sticky: true
 
 ## Mar-2026
 
-### 13-Mar-2026 - Nexus's 1st Open Table Group Gathering
+### 13-Mar-2026 - K-PAI Nexus's 1st Open Table Group Gathering
 
-Nexus's Open Table held its inaugural gathering,
-bringing together a wonderfully diverse group of Nexus members for meaningful connection and discussion.
+K-PAI Nexus's Open Table held its inaugural gathering,
+bringing together a wonderfully diverse group of K-PAI Nexus members for meaningful connection and discussion.
 
 [MiSook Chung](https://www.linkedin.com/in/misook-chung/){:target="_blank"},
 our Community Engagement Chair and Open Table Group organizer, shared:
 
 {: .notice--info}
-> Had a wonderful time connecting with this diverse group this afternoon at the Open Table 소모임. Our group included a lawyer, an engineer, an entrepreneur, a finance professional, and an HR professional. In addition to sharing about our personal pursuits and interests, we discussed Nexus's plans for nonprofit formation, grant writing, developing newsletters, and adding more structure to foster deeper discussions during the forum. Join us next time!
+> Had a wonderful time connecting with this diverse group this afternoon at the Open Table 소모임. Our group included a lawyer, an engineer, an entrepreneur, a finance professional, and an HR professional. In addition to sharing about our personal pursuits and interests, we discussed K-PAI Nexus's plans for nonprofit formation, grant writing, developing newsletters, and adding more structure to foster deeper discussions during the forum. Join us next time!
 >
 > &ndash; [MiSook Chung](https://www.linkedin.com/in/misook-chung/){:target="_blank"}
 
@@ -46,10 +46,10 @@ our Community Engagement Chair and Open Table Group organizer, shared:
 
 ## Feb-2026
 
-### 21-Feb-2026 - Nexus Legal Professionals Group Kicks Off with Special AI Lecture
+### 21-Feb-2026 - K-PAI Nexus Legal Professionals Group Kicks Off with Special AI Lecture
 
 Early Saturday morning,
-members of [Nexus Legal Professionals Group]({{ page.url }}/#legal-prof-group) gathered
+members of [K-PAI Nexus Legal Professionals Group]({{ page.url }}/#legal-prof-group) gathered
 for the group's inaugural meeting.
 To mark this milestone, the group invited
 [Sunghee](https://sungheeyun.github.io/)
@@ -141,20 +141,20 @@ Having observed the exchange between [Hayden](https://www.linkedin.com/in/youngw
 
 ## Jan-2026
 
-### 23-Jan-2026 - Nexus meets KAIST @ Lunch!
+### 23-Jan-2026 - K-PAI Nexus meets KAIST @ Lunch!
 
 <div class="img-container-justified">
 <img width="56%" style="max-width: none;" src="https://sungheeyun-photos-02.github.io/resource/2026/01/23 - K-PAI meets KAIST for Lunch/KakaoTalk_Photo_2026-01-23-14-58-47 027-25-reduced.jpeg">
 <img width="42%" src="https://sungheeyun-photos-02.github.io/resource/2026/01/23 - K-PAI meets KAIST for Lunch/KakaoTalk_Photo_2026-01-23-14-56-35 014-25-reduced.jpeg">
 </div>
 
-### 22-Jan-2026 - Nexus meets KAIST @ Dinner!
+### 22-Jan-2026 - K-PAI Nexus meets KAIST @ Dinner!
 
 <div class="img-container">
 <img style="max-width: 100%; max-height: none;" src="https://sungheeyun-photos-02.github.io/resource/2026/01/22 - K-PAI meets KAIST/KakaoTalk_Photo_2026-01-23-00-14-29 002-25-reduced.jpeg">
 </div>
 
-### 17-Jan-2026 - Nexus 2026 New Year Party Retro &amp; Planning 2026!
+### 17-Jan-2026 - K-PAI Nexus 2026 New Year Party Retro &amp; Planning 2026!
 
 <div class="img-container">
 <img style="max-width: 100%; max-height: none;" src="https://sungheeyun-photos-02.github.io/resource/2026/01/17 - K-PAI Committee Dinner/KakaoTalk_Photo_2026-01-18-21-41-20-50-reduced.jpeg">
@@ -164,19 +164,19 @@ Having observed the exchange between [Hayden](https://www.linkedin.com/in/youngw
 <img style="max-width: 100%; max-height: none;" src="https://sungheeyun-photos-02.github.io/resource/2026/01/17 - K-PAI Committee Dinner/KakaoTalk_Photo_2026-01-18-01-47-24 001-25-reduced.jpeg">
 </div>
 
-### 12-Jan-2026 - Incredible Nexus Stands Strong again at UKF 82 Summit!!!
+### 12-Jan-2026 - Incredible K-PAI Nexus Stands Strong again at UKF 82 Summit!!!
 
 <div class="img-container">
 <img style="max-width: 100%; max-height: none;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/groups/2026-01/2026 0102 UKF-25-reduced.jpeg">
 </div>
 
-### 11-Jan-2026 - Incredible Nexus Stands Strong at K-BioX ABDD Summit 2026 @ Stanford!!
+### 11-Jan-2026 - Incredible K-PAI Nexus Stands Strong at K-BioX ABDD Summit 2026 @ Stanford!!
 
 Below
 &ndash;
 [Deborah](https://www.linkedin.com/in/dlysl/){:target="_blank"}
 moderating a panel discussions
-where two of the panelists are Nexus;
+where two of the panelists are K-PAI Nexus;
 [Sunghee](https://sungheeyun.github.io)
 &amp;
 [Jae Ho](https://www.linkedin.com/in/jae-h-pyeon-a8563399/){:target="_blank"}!
@@ -203,9 +203,9 @@ and
 <!--img src="https://sungheeyun-photos-01.github.io/resource/2026/01/11 - K-BioX ABDD Summit 2026 @ Stanford/KakaoTalk_Photo_2026-01-16-00-25-19-50-reduced.jpeg"-->
 </div>
 
-### 10-Jan-2026 - Incredible Nexus Showing - 23 Members Gather Strong at UKF 82 Summit!
+### 10-Jan-2026 - Incredible K-PAI Nexus Showing - 23 Members Gather Strong at UKF 82 Summit!
 
-> We, [Nexus](/), are Everywhere!
+> We, [K-PAI Nexus](/), are Everywhere!
 
 <div class="img-container">
 <img style="max-width: 100%; max-height: none;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/groups/2026-01/UKF - 01-25-reduced.jpeg">
@@ -215,7 +215,7 @@ and
 <img style="max-width: 100%; max-height: none;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/groups/2026-01/UKF - 02-25-reduced.jpeg">
 </div>
 
-### 09-Jan-2026 - Nexus meets SNU College of Engineering! :)
+### 09-Jan-2026 - K-PAI Nexus meets SNU College of Engineering! :)
 
 <div class="img-container-justified">
 <img style="max-width: 49%; max-height: none;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/pages/activities/2026_0109 - SNU College of Engineering Strategic Partnership Initiatiative Diner - 03-25-reduced.jpeg">
@@ -228,7 +228,7 @@ and
 
 ### 26-Dec-2025 @ Camino Karaoke, Santa Clara
 
-The 1st [Nexus Karaoke Group](#karaoke-group) Gathering!
+The 1st [K-PAI Nexus Karaoke Group](#karaoke-group) Gathering!
 We were
 [Hayden](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/){:target="_blank"},
 [Jeff](https://www.linkedin.com/in/bohyounglee/){:target="_blank"},
@@ -266,7 +266,7 @@ and
 
 ### 15-Nov-2025 @ Morgan Hill
 
-Nexus + Institute for Information communication Technology Planning and Evaluation (정보통신기획평가원, IITP)
+K-PAI Nexus + Institute for Information communication Technology Planning and Evaluation (정보통신기획평가원, IITP)
 
 <div class="img-container-justified">
 <img src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/groups/2025-11/2025-11-15 PST - IITP - 01.JPG">
@@ -297,7 +297,7 @@ Lawyers, Judges, Engineers, Scientists, and Entrepreneurs!
 
 ### 10-Nov-2025 @ Palo Alto
 
-Nexus meets KABANC!
+K-PAI Nexus meets KABANC!
 We were
 [Daniel](https://www.linkedin.com/in/chungforchange/){:target="_blank"},
 [Hayden](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/){:target="_blank"},
@@ -311,7 +311,7 @@ and
 
 ### 04-Nov-2025 @ Mountain View
 
-The **<span style="color: red;">first</span>** Nexus's (organically created) group meeting; [Bio / Medical / Data Group](#bmd-group)!
+The **<span style="color: red;">first</span>** K-PAI Nexus's (organically created) group meeting; [Bio / Medical / Data Group](#bmd-group)!
 We were
 [Chanik](https://www.linkedin.com/in/chanik-park-14878b32/){:target="_blank"},
 [Insuk](https://www.linkedin.com/in/insuk-song-b9995335/){:target="_blank"},

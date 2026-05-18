@@ -1,7 +1,7 @@
 ---
-last_modified_at: Sun May 17 19:15:29 PDT 2026
+last_modified_at: Mon May 18 04:32:47 PDT 2026
 layout: single
-title: Committees
+title: K-PAI Nexus Committees
 permalink: /committee/
 toc: false
 toc_label: "&nbsp;Table of Contents"
