@@ -1,8 +1,8 @@
 ---
 date: Thu May 14 00:59:25 PDT 2026
-last_modified_at: Thu May 14 03:20:57 PDT 2026
+last_modified_at: Mon May 18 04:21:49 PDT 2026
 layout: single
-title: Silicon Valley AI Nexus Membership
+title: K-PAI Nexus Membership
 permalink: /membership/
 toc: true
 toc_label: "ToC"
@@ -10,9 +10,9 @@ toc_icon: "cog"
 toc_sticky: true
 ---
 
-Welcome to the [<span class="emph">Silicon Valley AI Nexus</span>](/) Membership Page!
+Welcome to the [<span class="emph">K-PAI Nexus</span>](/) Membership Page!
 
-Nexus is more than a forum — it is a <span class="emph">movement</span>.
+K-PAI Nexus is more than a forum — it is a <span class="emph">movement</span>.
 We are a next-generation Silicon Valley community exploring AI's profound impact
 on technology, economy, society, ethics, and humanity — and translating that exploration
 into <span class="emph">real-world action</span>.
@@ -21,15 +21,15 @@ Our community brings together technologists, entrepreneurs, investors, researche
 policymakers, and thought leaders united by a common conviction:
 <span class="emph">AI must advance human flourishing, not diminish it.</span>
 
-Becoming a Nexus member means joining a vibrant network where
+Becoming a K-PAI Nexus member means joining a vibrant network where
 <span class="emph">bold ideas meet purposeful collaboration</span>.
 
-# Become a Nexus Member
+# Become a K-PAI Nexus Member
 
-To become a **Nexus member**, simply:
+To become a **K-PAI Nexus member**, simply:
 
-1. **Qualify** by attending **any single Nexus event** — whether in person or remotely via our live broadcast. This includes Nexus forums, partner co-hosted events (e.g., KIC × Nexus, Consulate × Nexus), and any event where Nexus participates as a guest organization. **They all count!** <span class="emph">Already a K-PAI member? You're automatically qualified!</span>
-1. **Join** our <a target="_blank" href="https://invite.kakao.com/tc/WILY3ul3un">Nexus KakaoTalk Team Chat Room</a> and get approved by [Sunghee Yun](https://sungheeyun.github.io){:target="_blank"} — that's it, you're in!
+1. **Qualify** by attending **any single K-PAI Nexus event** — whether in person or remotely via our live broadcast. This includes K-PAI Nexus forums, partner co-hosted events (e.g., KIC × K-PAI Nexus, Consulate General × K-PAI Nexus), and any event where K-PAI Nexus participates as a guest organization. **They all count!** <span class="emph">Already a K-PAI member? You're automatically qualified!</span>
+1. **Join** our <a target="_blank" href="https://invite.kakao.com/tc/WILY3ul3un">K-PAI Nexus KakaoTalk Team Chat Room</a> and get approved by [Sunghee Yun](https://sungheeyun.github.io){:target="_blank"} — that's it, you're in!
 
 Welcome to an exclusive network of professionals and leaders
 across AI, technology, investment, policy, and academia.
@@ -49,7 +49,7 @@ amplify every voice in our network.
 **Give Back to Society** — We engage governments, academic institutions, and the public
 to ensure that the benefits of AI reach beyond Silicon Valley and into the world.
 
-# Why Nexus?
+# Why K-PAI Nexus?
 
 Since our founding, we have grown **tenfold** — from a small group of passionate
 individuals to a thriving community of over **100 attendees** at our monthly forums.
@@ -69,7 +69,7 @@ We are proud to count among our strategic partners:
 -->
 
 These partnerships — along with our growing network of corporate, academic,
-and government collaborators — position Nexus as **the premier Silicon Valley
+and government collaborators — position K-PAI Nexus as **the premier Silicon Valley
 AI community bridging Korean and global tech ecosystems**.
 
 # Exclusive Member Benefits
@@ -93,11 +93,11 @@ AI community bridging Korean and global tech ecosystems**.
   knowledge-sharing, and real-time community discussions.
 
 ## **Presentation & Publication Opportunities**
-- Showcase your **achievements and expertise** through Nexus platforms,
+- Showcase your **achievements and expertise** through K-PAI Nexus platforms,
   gaining visibility among peers and industry leaders.
 - Speak at forums — members have the opportunity to **share their expertise**
   as featured or lightning talk speakers.
-- Contribute to Nexus's **blog, technical publications, and policy reports**.
+- Contribute to K-PAI Nexus's **blog, technical publications, and policy reports**.
 - Lead **member-driven workshops** and Interest Group sessions.
 
 ## **Mentorship & Professional Growth**
@@ -108,35 +108,35 @@ AI community bridging Korean and global tech ecosystems**.
   and entrepreneurial ventures.
 
 ## **Members-Only Digital Resources**
-- Access our **online member directory** to connect with fellow Nexus members,
+- Access our **online member directory** to connect with fellow K-PAI Nexus members,
   potential collaborators, partners, or mentors.
 - Watch **recorded sessions** from past forums — including our monthly
   live broadcast archive.
 - Access curated resources including industry insights and strategic reports.
 
 ## **Leadership & Governance Opportunities**
-- Take an **active role in shaping Nexus's future** — from Interest Group leadership
+- Take an **active role in shaping K-PAI Nexus's future** — from Interest Group leadership
   to committee participation and community governance.
 - Contribute to **strategic initiatives** including partnership development,
   program design, and policy engagement.
 
 ## **Voting Rights**
-- Have a voice in Nexus's direction by **voting on new initiatives, event themes,
+- Have a voice in K-PAI Nexus's direction by **voting on new initiatives, event themes,
   and community decisions**.
 
 <!--
 
 # Our Upcoming 2026 Programming
 
-Here's a glimpse of what Nexus members can look forward to:
+Here's a glimpse of what K-PAI Nexus members can look forward to:
 
 | Month | Forum |
 |-------|-------|
 | **May** | The AI Foundry (featuring Amazon + OpenAI engineers) |
 | **Jun** | The Silicon Stethoscope (AI × Medicine) |
-| **Jul** | Nexus – KASC Joint Colloquium (w/ 25 students from US & Korea) |
-| **Sep** | KIC SV – Nexus – Consulate Joint Event |
-| **Oct** | Nexus – Consulate General Co-hosted Event |
+| **Jul** | K-PAI Nexus – KASC Joint Colloquium (w/ 25 students from US & Korea) |
+| **Sep** | KIC SV – K-PAI Nexus – Consulate Joint Event |
+| **Oct** | K-PAI Nexus – Consulate General Co-hosted Event |
 | **Nov** | Legal Frontiers (exploring AI, Law & Ethics) |
 | **Dec** | Year End Celebration (co-hosted with KOTRA SV) |
 
@@ -145,18 +145,18 @@ at every forum, monthly live broadcasting, and much more.
 
 -->
 
-# Join Nexus Today
+# Join K-PAI Nexus Today
 
 Ready to become part of a <span class="emph">community that doesn't just talk about the future — but builds it</span>?
 
-Attend any single Nexus event — in person or remotely — then join our <a target="_blank" href="https://invite.kakao.com/tc/WILY3ul3un">KakaoTalk Team Chat Room</a>. That's it!
+Attend any single K-PAI Nexus event — in person or remotely — then join our <a target="_blank" href="https://invite.kakao.com/tc/WILY3ul3un">KakaoTalk Team Chat Room</a>. That's it!
 
-Join [**Silicon Valley AI Nexus**](/) today and become part of a dynamic community dedicated
+Join [**K-PAI Nexus**](/) today and become part of a dynamic community dedicated
 to **exploring AI's deepest questions, elevating our members, and giving back to society**.
 
 # Ready to Transform Your Professional Landscape?
 
-Embrace the **unique advantages** of Nexus membership and connect with a network
+Embrace the **unique advantages** of K-PAI Nexus membership and connect with a network
 that propels your career — and your impact — forward.
 
-<span class="eemph">Silicon Valley AI Nexus — Where Bold Ideas Meet Purposeful Action.</span>
+<span class="eemph">K-PAI Nexus — Where Bold Ideas Meet Purposeful Action.</span>
