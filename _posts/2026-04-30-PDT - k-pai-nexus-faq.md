@@ -1,6 +1,6 @@
 ---
 date: Thu Apr 30 16:06:27 PDT 2026
-last_modified_at: Mon May 18 00:42:34 PDT 2026
+last_modified_at: Mon May 18 00:46:44 PDT 2026
 layout: single
 title: "K-PAI Nexus FAQs"
 permalink: /faq/k-pai-nexus
@@ -163,7 +163,7 @@ Many members will likely find value in both communities depending on their inter
 **Step 1 — Qualify:** Attend **any single K-PAI or K-PAI Nexus event**—whether in person or remotely via our live broadcast. This includes K-PAI Nexus forums, K-PAI forums, and partner co-hosted events (*e.g.*, KIC × K-PAI Nexus, Consulate General × K-PAI Nexus). <span class="emph">They all count!</span>
 <span class="emph">Therefore K-PAI members are automatically qualified to be [<span class="emph">K-PAI Nexus Members</span>](/membership)!</span>
 
-**Step 2 — Join:** Click [here](https://invite.kakao.com/tc/WILY3ul3un){:target="_blank"} to join [the K-PAI Nexus Members KakaoTalk chatroom](https://invite.kakao.com/tc/WILY3ul3un){:target="_blank"} and get approved by [Sunghee Yun](https://sungheeyun.github.io){:target="_blank"}—that's it, you're in!
+**Step 2 — Join:** Click [here](https://invite.kakao.com/tc/WILY3ul3un){:target="_blank"} to join [the K-PAI Nexus Members KakaoTalk chatroom](https://invite.kakao.com/tc/WILY3ul3un){:target="_blank"} and get approved by [Sunghee Yun](https://sungheeyun.github.io)—that's it, you're in!
 
 **No fees:** [<span class="emph">K-PAI Nexus membership</span>](/membership){:target="_blank"} is earned through participation, not purchased. There are no membership fees.
 
@@ -171,7 +171,7 @@ Many members will likely find value in both communities depending on their inter
 
 <span class="emph">You're automatically qualified!</span>
 
-Simply click [here](https://invite.kakao.com/tc/WILY3ul3un){:target="_blank"} to join [the K-PAI Nexus Members KakaoTalk chatroom](https://invite.kakao.com/tc/WILY3ul3un){:target="_blank"} and get approved by [Sunghee Yun](https://sungheeyun.github.io){:target="_blank"}—that's it, you're a K-PAI Nexus Member!
+Simply click [here](https://invite.kakao.com/tc/WILY3ul3un){:target="_blank"} to join [the K-PAI Nexus Members KakaoTalk chatroom](https://invite.kakao.com/tc/WILY3ul3un){:target="_blank"} and get approved by [Sunghee Yun](https://sungheeyun.github.io)—that's it, you're a K-PAI Nexus Member!
 
 ## What about existing interest groups (Bio/Medical/Data, Legal Professionals, Open Table, etc.)?
 
