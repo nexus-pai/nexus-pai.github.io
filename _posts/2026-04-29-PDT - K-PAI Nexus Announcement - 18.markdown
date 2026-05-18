@@ -1,6 +1,6 @@
 ---
 date: Wed Apr 29 00:15:35 PDT 2026
-last_modified_at: Sat May 16 18:45:30 PDT 2026
+last_modified_at: Sun May 17 22:10:02 PDT 2026
 layout: single
 title: "[K-PAI Nexus's 18th Chapter] The Silicon Stethoscope - Bridging Seoul's Medical Reality and Silicon Valley's AI Vision in Healthcare's Trillion Dollar Transformation"
 permalink: /event-announcements/18
@@ -43,38 +43,14 @@ to share this forum!
 
 # Invitation
 
-K-PAI Nexus Community Members, Friends, Healthcare Innovators, AI Builders, Physicians, Founders, and Investors!
-
 🩺 **<span style="color: red;">THE SILICON STETHOSCOPE IS HERE!</span>** 🩺
 
-Healthcare is entering one of the most consequential transformations of our lifetime.
-
-On one side, Seoul represents one of the world's most sophisticated, data-rich, and operationally advanced medical environments—with high patient throughput, dense hospital networks, strong clinical discipline, and a healthcare culture that touches almost every citizen.
-On the other side, Silicon Valley is building the AI infrastructure, computational platforms, foundation models, agents, bioinformatics systems, and venture-backed companies that promise to reshape how medicine is delivered, measured, automated, and improved.
-
-<div class="img-container-justified">
-<img style="max-width: 49%" src="https://sungheeyun-photos-02.github.io/resource/nexus-pai.github.io/events/18/Sunghee_On_one_side_Seoul_represents_one_of_the_worlds_most_s_727ebdfc-79aa-470f-a908-498b42c23d6d_1.png">
-<img style="max-width: 49%" src="https://sungheeyun-photos-02.github.io/resource/nexus-pai.github.io/events/18/Sunghee_On_the_other_side_Silicon_Valley_is_building_the_AI_i_11a6fa72-2758-48d6-b86a-5d211f417337_3.png">
-</div>
-
-
-The question is no longer whether AI will transform healthcare.
-The real question is:
-
-**How do we connect medical reality with AI ambition?**
-
-We are **<span style="color: red;">thrilled</span>** to invite you to K-PAI Nexus's **<span style="color: red;">18th Forum</span>**:
-
-<!--span style="color: red;">**The Silicon Stethoscope - Bridging Seoul's Medical Reality and Silicon Valley's AI Vision in Healthcare's Trillion Dollar Transformation**</span-->
-
-<span class="emph">The Silicon Stethoscope - Bridging Seoul's Medical Reality and Silicon Valley's AI Vision in Healthcare's Trillion Dollar Transformation</span>
-
-This forum brings together clinical reality, Silicon Valley startup thinking, Korean healthcare strengths, and AI-driven biomedical innovation in one evening of talks, panel discussion, dinner, and networking. - Generously sponsored by KIC Silicon Valley
+Join us for K-PAI Nexus's **<span style="color: red;">18th Forum</span>** — an evening of talks, panel discussion, dinner, and networking connecting Seoul's clinical frontline with Silicon Valley's AI-driven healthcare vision. Generously sponsored by KIC Silicon Valley.
 
 <div class="img-container-justified">
 &nbsp;
-<img style="max-width: 30%" src="https://sungheeyun-photos-02.github.io/resource/org-logos/k-pai-nexus-logo-07.png">
-<img style="max-width: 30%" src="https://sungheeyun-photos-02.github.io/resource/org-logos/kic-silicon-valley-01.png">
+<img style="max-width: 20%" src="https://sungheeyun-photos-02.github.io/resource/org-logos/k-pai-nexus-logo-07.png">
+<img style="max-width: 20%" src="https://sungheeyun-photos-02.github.io/resource/org-logos/kic-silicon-valley-01.png">
 &nbsp;
 </div>
 
@@ -85,92 +61,25 @@ This forum brings together clinical reality, Silicon Valley startup thinking, Ko
   - [Jong Hyeok Kim, MD, PhD](https://www.amc.seoul.kr/asan/staff/base/staffBaseInfoDetail.do?drEmpId=REZEOG8wVm04YnFiN1hYUWpPWXVsQT09){:target="_blank"} - [Asan Medical Center](https://eng.amc.seoul.kr/gb/lang/main.do){:target="_blank"}
   - [Sunghee Yun](https://sungheeyun.github.io) - Co-Founder & CTO @ [Erudio Bio](https://www.erudio.bio/) / Co-Founder & CEO @ [Erudio Bio Korea](https://sungheeyun-erudio.github.io/) / Co-Founder & Leader of [K-PAI Nexus](/)
 
-<!--
-<div class="img-container">
-<img style="max-width: 80%" src="[TO BE ADDED]">
-</div>
--->
+# Event Schedule
 
-## Why This Forum Matters
+| Time | Activity |
+|------|----------|
+| 5pm - 5:30pm | **Registration & Early Networking** |
+| 5:30pm - 6pm | **[Talk 1 — Seoul's Medical Reality and the Future of Healthcare AI](#talk-1--seouls-medical-reality-and-the-future-of-healthcare-ai)** |
+| 6pm - 6:30pm | **[Talk 2 — Silicon Valley's AI Vision for Diagnostics, Drug Discovery, and Biomedical Intelligence](#talk-2--silicon-valleys-ai-vision-for-diagnostics-drug-discovery-and-biomedical-intelligence)** |
+| 6:30pm - 7pm | **[Panel Discussion + Questions from the Floor](#panel-discussion--connecting-medical-reality-ai-vision-and-korea-silicon-valley-collaboration)** |
+| 7pm - 8pm | **[Dinner & Networking](#dinner--networking)** (Generously sponsored by KIC Silicon Valley) |
 
-Healthcare is often described as a trillion-dollar transformation opportunity.
-
-But healthcare is not just another software market.
-It is a deeply regulated, clinically complex, operationally fragmented, emotionally sensitive, and data-rich system where real-world adoption depends on much more than model performance.
-
-Three questions define the next era:
-
-1. **What does healthcare AI look like when viewed from inside the hospital?**
-   Physicians and hospital systems face practical constraints that AI builders often underestimate: workflow burden, liability, reimbursement, data quality, patient trust, clinical validation, and integration into existing care pathways.
-
-1. **How can Silicon Valley's AI vision become clinically useful rather than merely technically impressive?**
-   Foundation models, agents, multimodal AI, diagnostics, and computational biology can be transformative—but only if they solve real clinical and operational problems.
-
-1. **Why is Korea uniquely positioned in this transformation?**
-   Korea combines advanced hospitals, strong health check-up culture, high digital adoption, dense clinical infrastructure, world-class manufacturing, and deep technical talent. This creates a powerful bridge between medical reality and AI innovation.
-
-[Jun-2026 K-PAI Nexus Forum](#top) will explore these questions through two talks and a panel discussion with questions from the floor.
+**Come for the healthcare AI vision. Stay for the clinical reality. Leave with sharper questions, better connections, and a clearer view of where medicine is heading.**
 
 - <font color="red"><strong>Please RSVP via <a target="_blank" href="[TO BE ADDED]">this link</a>!</strong></font>
 - Please visit [K-PAI Nexus Membership](/membership){:target="_blank"} to learn about our K-PAI Nexus membership for qualification and all exclusive perks you can enjoy!
 - Join us at K-PAI Nexus Members Kakaotalk Chatroom using [this info](/#join-us-at-kakaotalk){:target="_blank"} (if you're qualified)!
 
-# K-PAI Nexus × KIC Silicon Valley: A Strategic Partnership for Innovation
+**Read more:** [Why This Forum Matters](#why-this-forum-matters) · [K-PAI Nexus × KIC Silicon Valley Partnership](#k-pai-nexus--kic-silicon-valley-a-strategic-partnership-for-innovation) · [Why You Should Attend](#why-you-should-attend) · [Why You Should Attend](#why-you-should-attend) · [Target Audience](#target-audience)
 
-We are proud to announce that **[KIC Silicon Valley](https://www.kicsv.org/){:target="_blank"}** is generously sponsoring the dinner for this forum!
-
-This sponsorship represents the beginning of an exciting and multi-dimensional partnership between K-PAI Nexus and KIC Silicon Valley. Together, we are committed to building a dynamic ecosystem that connects Korean innovation with Silicon Valley's entrepreneurial energy across multiple fronts:
-
-**Collaborative Initiatives**
-
-- **Joint Events**: Co-hosting forums, workshops, and networking gatherings that bring together the brightest minds in AI, healthcare, biotech, and entrepreneurship
-- **Business Development**: Supporting startups and scale-ups navigating the Korea-Silicon Valley corridor through mentorship, introductions, and strategic guidance
-- **Academic Partnerships**: Collaborating with leading institutions including Stanford University, UC Berkeley, and Korean universities to bridge academic research with commercial innovation
-- **Government Engagement**: Working with South Korean government entities and the Consulate General of the Republic of Korea at San Francisco to strengthen bilateral innovation ties
-- **Cross-Border Innovation**: Facilitating technology transfer, talent exchange, and market entry strategies for companies expanding between Korea and the United States
-
-**K-PAI Nexus's Collaboration Philosophy**
-
-K-PAI Nexus has always been built on the principle of **ceaseless collaboration** across boundaries—academic, industrial, governmental, and cultural. Our partnerships span:
-
-- **Academia**: Leading universities (Stanford, Berkeley, SNU, KAIST, Korea University) contributing research insights, talent pipelines, and validation frameworks
-- **Industry**: Technology companies, biotech startups, healthcare systems, and investment firms building the future of AI and medicine
-- **Government**: Korean and US government agencies, consulates, trade organizations (KOTRA, KITA), and innovation support programs strengthening bilateral ties
-- **Community**: Korean professionals, researchers, founders, investors, and students creating the social infrastructure that makes everything else possible
-
-This partnership with KIC Silicon Valley amplifies our ability to serve as a **bridge institution**—connecting people, ideas, capital, technology, and opportunity across the Pacific.
-
-**What This Means for Our Community**
-
-- More resources for Korean founders and innovators entering Silicon Valley
-- Stronger connections between Korean institutions and Silicon Valley ecosystems
-- Enhanced networking opportunities across government, academia, and industry
-- Greater visibility for Korean innovation in AI, biotech, and healthcare
-- Expanded access to mentorship, funding, and strategic partnerships
-
-We thank KIC Silicon Valley for their generous support and look forward to many years of impactful collaboration ahead!
-
-# Event Schedule - Healthcare AI Talks + Panel + Dinner Networking
-
-Following our recently updated forum pattern, we will begin gathering at 5pm, start presentations at 5:30pm, hold a panel discussion with questions from the floor, and then continue the evening with dinner and networking.
-
-| Time | Activity |
-|------|----------|
-| 5pm - 5:30pm | **Registration & Early Networking** |
-| 5:30pm - 6pm | **Talk 1 - Seoul's Medical Reality and the Future of Healthcare AI** |
-| 6pm - 6:30pm | **Talk 2 - Silicon Valley's AI Vision for Diagnostics, Drug Discovery, and Biomedical Intelligence** |
-| 6:30pm - 7pm | **Panel Discussion + Questions from the Floor** |
-| 7pm - 8pm | **Dinner & Networking** (Generously sponsored by KIC Silicon Valley) |
-
-**What makes this schedule special**
-
-This forum is designed to connect two worlds that must learn from each other.
-
-The first talk will ground us in clinical and hospital reality.
-The second talk will connect that reality to Silicon Valley's AI-driven healthcare vision.
-The panel discussion will then open the floor for honest conversation: what is real, what is hype, what is investable, what is clinically needed, and what Korea-Silicon Valley collaboration can uniquely unlock.
-
-**Come for the healthcare AI vision. Stay for the clinical reality. Leave with sharper questions, better connections, and a clearer view of where medicine is heading.**
+# Talk Details
 
 ## Talk 1 &ndash; Seoul's Medical Reality and the Future of Healthcare AI
 
@@ -247,7 +156,7 @@ Bioscience & Technology Regulation Attorney @ Shin & Kim / Stanford Law & Biosci
 - [**Gordon G. Park**](https://www.linkedin.com/in/gordon-g-park-452bab26/){:target="_blank"}
 &ndash; Neuroscientist & Health care specialist @ VA Palo Alto / Stanford Pathology Affiliate / Co-Founder & CEO @ [PathoBrainSeq](https://pathobrainseq.com/){:target="_blank"} / Science Advisor @ Wingstabio
 - [**Jongmin Sung**](https://www.linkedin.com/in/jongmin-sung/){:target="_blank"}
-&ndash; Senior Knowledge Engineer / AI Systems Architect / Biotechnology & Quantum Drug Discovery Advisor
+&ndash; Knowledge Engineer @ [Sailplane.ai](https://www.sailplane.ai/){:target="_blank"} / AI Systems Architect / Biotech and Drug Discovery Advisor and Scout
 
 <div class="img-container-justified">
 	<img style="max-width: 25.88%" src="https://sungheeyun-photos-02.github.io/resource/nexus-pai.github.io/events/18/jeff-01.png">
@@ -316,6 +225,71 @@ This is where many of the most valuable K-PAI Nexus moments happen: the follow-u
 1. **Make useful introductions!** "You should meet..." is still one of the most powerful phrases in Silicon Valley.
 1. **Follow up within 48 hours!** The best conversations become real collaborations only when followed by action.
 1. **Think beyond hype!** Healthcare AI needs builders who respect both ambition and reality.
+
+# Why This Forum Matters
+
+Healthcare is entering one of the most consequential transformations of our lifetime.
+
+On one side, Seoul represents one of the world's most sophisticated, data-rich, and operationally advanced medical environments—with high patient throughput, dense hospital networks, strong clinical discipline, and a healthcare culture that touches almost every citizen.
+On the other side, Silicon Valley is building the AI infrastructure, computational platforms, foundation models, agents, bioinformatics systems, and venture-backed companies that promise to reshape how medicine is delivered, measured, automated, and improved.
+
+<div class="img-container-justified">
+<img style="max-width: 49%" src="https://sungheeyun-photos-02.github.io/resource/nexus-pai.github.io/events/18/Sunghee_On_one_side_Seoul_represents_one_of_the_worlds_most_s_727ebdfc-79aa-470f-a908-498b42c23d6d_1.png">
+<img style="max-width: 49%" src="https://sungheeyun-photos-02.github.io/resource/nexus-pai.github.io/events/18/Sunghee_On_the_other_side_Silicon_Valley_is_building_the_AI_i_11a6fa72-2758-48d6-b86a-5d211f417337_3.png">
+</div>
+
+The question is no longer whether AI will transform healthcare.
+The real question is:
+
+**How do we connect medical reality with AI ambition?**
+
+Three questions define the next era:
+
+1. **What does healthcare AI look like when viewed from inside the hospital?**
+   Physicians and hospital systems face practical constraints that AI builders often underestimate: workflow burden, liability, reimbursement, data quality, patient trust, clinical validation, and integration into existing care pathways.
+
+1. **How can Silicon Valley's AI vision become clinically useful rather than merely technically impressive?**
+   Foundation models, agents, multimodal AI, diagnostics, and computational biology can be transformative—but only if they solve real clinical and operational problems.
+
+1. **Why is Korea uniquely positioned in this transformation?**
+   Korea combines advanced hospitals, strong health check-up culture, high digital adoption, dense clinical infrastructure, world-class manufacturing, and deep technical talent. This creates a powerful bridge between medical reality and AI innovation.
+
+[Jun-2026 K-PAI Nexus Forum](#top) will explore these questions through two talks and a panel discussion with questions from the floor.
+
+# K-PAI Nexus × KIC Silicon Valley: A Strategic Partnership for Innovation
+
+We are proud to announce that **[KIC Silicon Valley](https://www.kicsv.org/){:target="_blank"}** is generously sponsoring the dinner for this forum!
+
+This sponsorship represents the beginning of an exciting and multi-dimensional partnership between K-PAI Nexus and KIC Silicon Valley. Together, we are committed to building a dynamic ecosystem that connects Korean innovation with Silicon Valley's entrepreneurial energy across multiple fronts:
+
+**Collaborative Initiatives**
+
+- **Joint Events**: Co-hosting forums, workshops, and networking gatherings that bring together the brightest minds in AI, healthcare, biotech, and entrepreneurship
+- **Business Development**: Supporting startups and scale-ups navigating the Korea-Silicon Valley corridor through mentorship, introductions, and strategic guidance
+- **Academic Partnerships**: Collaborating with leading institutions including Stanford University, UC Berkeley, and Korean universities to bridge academic research with commercial innovation
+- **Government Engagement**: Working with South Korean government entities and the Consulate General of the Republic of Korea at San Francisco to strengthen bilateral innovation ties
+- **Cross-Border Innovation**: Facilitating technology transfer, talent exchange, and market entry strategies for companies expanding between Korea and the United States
+
+**K-PAI Nexus's Collaboration Philosophy**
+
+K-PAI Nexus has always been built on the principle of **ceaseless collaboration** across boundaries—academic, industrial, governmental, and cultural. Our partnerships span:
+
+- **Academia**: Leading universities (Stanford, Berkeley, SNU, KAIST, Korea University) contributing research insights, talent pipelines, and validation frameworks
+- **Industry**: Technology companies, biotech startups, healthcare systems, and investment firms building the future of AI and medicine
+- **Government**: Korean and US government agencies, consulates, trade organizations (KOTRA, KITA), and innovation support programs strengthening bilateral ties
+- **Community**: Korean professionals, researchers, founders, investors, and students creating the social infrastructure that makes everything else possible
+
+This partnership with KIC Silicon Valley amplifies our ability to serve as a **bridge institution**—connecting people, ideas, capital, technology, and opportunity across the Pacific.
+
+**What This Means for Our Community**
+
+- More resources for Korean founders and innovators entering Silicon Valley
+- Stronger connections between Korean institutions and Silicon Valley ecosystems
+- Enhanced networking opportunities across government, academia, and industry
+- Greater visibility for Korean innovation in AI, biotech, and healthcare
+- Expanded access to mentorship, funding, and strategic partnerships
+
+We thank KIC Silicon Valley for their generous support and look forward to many years of impactful collaboration ahead!
 
 # Why You Should Attend
 
