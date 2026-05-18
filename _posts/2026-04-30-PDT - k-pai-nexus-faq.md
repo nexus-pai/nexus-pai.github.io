@@ -1,6 +1,6 @@
 ---
 date: Thu Apr 30 16:06:27 PDT 2026
-last_modified_at: Mon May 18 01:02:50 PDT 2026
+last_modified_at: Mon May 18 05:25:51 PDT 2026
 layout: single
 title: "K-PAI Nexus FAQs"
 permalink: /faq/k-pai-nexus
@@ -134,7 +134,7 @@ The existing K-PAI chatroom remains active, and K-PAI Forum activities continue 
 
 ## Why create K-PAI Nexus separately?
 
-K-PAI's growth over 18 months created a genuine inflection point: the community had organically expanded well beyond its founding focus on privacy-preserving AI into policy, medicine, ethics, climate, and more. Rather than forcing a compromise that would dilute either direction, the decision was made to let both missions flourish on their own terms.
+K-PAI's growth over 18 months created a genuine inflection point: the community has organically expanded well beyond its founding focus on privacy-preserving AI into policy, medicine, ethics, climate, and more. Rather than forcing a compromise that would dilute either direction, the decision was made to let both missions flourish on their own terms.
 K-PAI remains dedicated to its founding vision — "creating and fostering new fields where Korea becomes the best industrially and academically."
 Nexus embraces the broader horizons the community itself created: AI's holistic impact on technology, society, policy, ethics, and humanity.
 
@@ -356,7 +356,7 @@ Multiple pathways:
 - **Join interest groups** that match your expertise or interests
 - **Volunteer for committees** ([Board of Directors](/committee/#board-of-directors){:target="_blank"}, [AI & Humanity Council](/committee/#ai-and-humanity-council){:target="_blank"}, [Vision & Principles Committees](/committee/#vision-and-principles-committee){:target="_blank"}, [Program & Content Committee](/committee/#program-and-content-committee){:target="_blank"}, and [Tech & Social Media Committees](/committee/#tech-and-social-media-committee){:target="_blank"})
 - **Contribute to the AI & Humanity Council** (research, peer review, and expertise)
-- **Organize forums** as part of [Program & Content Committee](/committee/#program-and-content-committee) or one-time volunteering!
+- **Organize forums** as part of [Program & Content Committee](/committee/#program-and-content-committee) or a one-time volunteer!
 - **Mentor community members** (startups, career transitions, and technical skills)
 - **Spread the word** (invite colleagues, share content, and write testimonials)
 - **Sponsor or partner** (corporate sponsorships and university collaborations)
