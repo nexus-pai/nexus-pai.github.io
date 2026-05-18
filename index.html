@@ -1,5 +1,5 @@
 ---
-last_modified_at: Sun May 17 23:20:21 PDT 2026
+last_modified_at: Mon May 18 00:45:09 PDT 2026
 layout: single
 author_profile: true
 title: K-PAI Nexus
@@ -189,7 +189,8 @@ specific months not assigned yet, but will be soon!
 <ul>
 	{% for post in site.posts limit:5 %}
 		<li>
-			<a href="{{ post.url }}">{{ post.title }}</a> &commat; {{ post.date | date: "%d-%b-%Y"}}
+			<!--a href="{{ post.url }}">{{ post.title }}</a> &commat; {{ post.date | date: "%d-%b-%Y"}}-->
+			<a href="{{ post.url }}">{{ post.title }}</a> (posted on {{ post.date | date: "%d-%b-%Y"}})
 		</li>
 	{% endfor %}
 </ul>
