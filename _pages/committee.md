@@ -1,5 +1,5 @@
 ---
-last_modified_at: Sun May 17 19:07:48 PDT 2026
+last_modified_at: Sun May 17 19:15:29 PDT 2026
 layout: single
 title: Committees
 permalink: /committee/
@@ -439,6 +439,16 @@ author_profile: false
 </td>
 <td class="eng-name">
 	<a target="_blank" href="https://sungheeyun.github.io/">Sunghee Yun</a>
+</td>
+</tr>
+<tr>
+<td class="role" style="color: #0000dd;">
+</td>
+<td class="kor-name">
+	강민정
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/mjkang8/">MJ Kang</a>
 </td>
 </tr>
 </table>
