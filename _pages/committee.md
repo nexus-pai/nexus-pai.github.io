@@ -1,5 +1,5 @@
 ---
-last_modified_at: Mon May 18 04:32:47 PDT 2026
+last_modified_at: Mon May 18 14:34:58 PDT 2026
 layout: single
 title: K-PAI Nexus Committees
 permalink: /committee/
@@ -55,7 +55,7 @@ author_profile: false
 <table class="borderless-table">
 <tr>
 <td class="role" style="color: #0000dd;">
-	Board Chair
+	Co-Founder & Board Chair
 </td>
 <td id="sunghee" class="kor-name">
 	윤성희
@@ -66,7 +66,7 @@ author_profile: false
 </tr>
 <tr>
 <td class="role" style="color: #3333ff;">
-	AI Master
+	Co-Founder & AI Master
 </td>
 <td class="kor-name">
 	황민하
@@ -77,7 +77,7 @@ author_profile: false
 </tr>
 <tr>
 <td class="role" style="color: #3333ff;">
-	Marketing Leader
+	Co-Founder & Marketing Leader
 </td>
 <td class="kor-name">
 	김수연
@@ -88,7 +88,7 @@ author_profile: false
 </tr>
 <tr>
 <td class="role" style="color: #3333ff;">
-	Legal Affairs Advisor
+	Co-Founder & Legal Affairs Advisor
 </td>
 <td class="kor-name">
 	송영욱
@@ -99,7 +99,7 @@ author_profile: false
 </tr>
 <tr>
 <td class="role" style="color: #3333ff;">
-	Legal Affairs Advisor
+	Co-Founder & Legal Affairs Advisor
 </td>
 <td class="kor-name" id="jeff">
 	이보형
@@ -110,7 +110,7 @@ author_profile: false
 </tr>
 <tr>
 <td class="role" style="color: #3333ff;" id="hospitality-and-catering-director">
-	Community Engagement Chair
+	Co-Founder & Community Engagement Chair
 </td>
 <td class="kor-name">
 	정미숙
@@ -125,6 +125,17 @@ author_profile: false
 
 <table class="borderless-table">
 <tr>
+<td class="role" style="color: #0000dd;">
+	Committee Chair
+</td>
+<td class="kor-name">
+	윤성희
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://sungheeyun.github.io/">Sunghee Yun</a>
+</td>
+</tr>
+<tr>
 <td class="role" style="color: #3333ff;">
 </td>
 <td class="kor-name">
@@ -132,17 +143,6 @@ author_profile: false
 </td>
 <td class="eng-name">
 	<a target="_blank" href="https://www.linkedin.com/in/jongmin-sung/">Jongmin Sung</a>
-</td>
-</tr>
-<tr>
-<td class="role" style="color: #0000dd;">
-	Vision &amp; Principles Committee Chair
-</td>
-<td class="kor-name">
-	윤성희
-</td>
-<td class="eng-name">
-	<a target="_blank" href="https://sungheeyun.github.io/">Sunghee Yun</a>
 </td>
 </tr>
 <tr>
@@ -181,14 +181,14 @@ author_profile: false
 
 <table class="borderless-table">
 <tr>
-<td class="role" style="color: #3333ff;">
-	UI/UX Lead
+<td class="role" style="color: #0000dd;">
+	Committee Chair
 </td>
-<td class="kor-name" id="soo">
-	김수연
+<td class="kor-name">
+	윤성희
 </td>
 <td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/callmesoo/">Soo Kim</a>
+	<a target="_blank" href="https://sungheeyun.github.io/">Sunghee Yun</a>
 </td>
 </tr>
 <tr>
@@ -204,6 +204,17 @@ author_profile: false
 </tr>
 <tr>
 <td class="role" style="color: #3333ff;">
+	UI/UX Lead
+</td>
+<td class="kor-name" id="soo">
+	김수연
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/callmesoo/">Soo Kim</a>
+</td>
+</tr>
+<tr>
+<td class="role" style="color: #3333ff;">
 	Website &amp; Content Lead
 </td>
 <td class="kor-name">
@@ -211,17 +222,6 @@ author_profile: false
 </td>
 <td class="eng-name">
 	<a target="_blank" href="https://www.linkedin.com/in/soominpark04/">Soomin Park</a>
-</td>
-</tr>
-<tr>
-<td class="role" style="color: #0000dd;">
-	Tech &amp; Social Media Committee Chair
-</td>
-<td class="kor-name">
-	윤성희
-</td>
-<td class="eng-name">
-	<a target="_blank" href="https://sungheeyun.github.io/">Sunghee Yun</a>
 </td>
 </tr>
 <tr>
@@ -263,6 +263,17 @@ author_profile: false
 
 <table class="borderless-table">
 <tr>
+<td class="role" style="color: #0000dd;">
+	K-PAI Nexus Leader
+</td>
+<td class="kor-name">
+	윤성희
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://sungheeyun.github.io/">Sunghee Yun</a>
+</td>
+</tr>
+<tr>
 <td>
 </td>
 <td class="kor-name">
@@ -301,17 +312,6 @@ author_profile: false
 </td>
 <td class="eng-name">
 	<a target="_blank" href="https://www.linkedin.com/in/youngwook-hayden-song-a5177019/">Youngwook (Hayden) Song</a>
-</td>
-</tr>
-<tr>
-<td class="role" style="color: #0000dd;">
-	K-PAI Nexus Leader
-</td>
-<td class="kor-name">
-	윤성희
-</td>
-<td class="eng-name">
-	<a target="_blank" href="https://sungheeyun.github.io/">Sunghee Yun</a>
 </td>
 </tr>
 <tr>
