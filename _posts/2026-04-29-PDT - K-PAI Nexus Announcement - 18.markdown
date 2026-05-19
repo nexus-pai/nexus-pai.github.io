@@ -1,8 +1,8 @@
 ---
 date: Wed Apr 29 00:15:35 PDT 2026
-last_modified_at: Sun May 17 22:10:02 PDT 2026
+last_modified_at: Mon May 18 21:35:43 PDT 2026
 layout: single
-title: "[K-PAI Nexus's 18th Chapter] The Silicon Stethoscope - Bridging Seoul's Medical Reality and Silicon Valley's AI Vision in Healthcare's Trillion Dollar Transformation"
+title: "[K-PAI Nexus's 18th Chapter] The Silicon Stethoscope - Bridging Korea's Medical Reality and Silicon Valley's AI Vision in Healthcare's Trillion Dollar Transformation"
 permalink: /event-announcements/18
 categories:
  - announcement
@@ -45,7 +45,7 @@ to share this forum!
 
 🩺 **<span style="color: red;">THE SILICON STETHOSCOPE IS HERE!</span>** 🩺
 
-Join us for K-PAI Nexus's **<span style="color: red;">18th Forum</span>** — an evening of talks, panel discussion, dinner, and networking connecting Seoul's clinical frontline with Silicon Valley's AI-driven healthcare vision. Generously sponsored by KIC Silicon Valley.
+Join us for K-PAI Nexus's **<span style="color: red;">18th Forum</span>** — an evening of talks, panel discussion, dinner, and networking connecting Korea's clinical frontline with Silicon Valley's AI-driven healthcare vision. Generously sponsored by KIC Silicon Valley.
 
 <div class="img-container-justified">
 &nbsp;
@@ -66,7 +66,7 @@ Join us for K-PAI Nexus's **<span style="color: red;">18th Forum</span>** — an
 | Time | Activity |
 |------|----------|
 | 5pm - 5:30pm | **Registration & Early Networking** |
-| 5:30pm - 6pm | **[Talk 1 — Seoul's Medical Reality and the Future of Healthcare AI](#talk-1--seouls-medical-reality-and-the-future-of-healthcare-ai)** |
+| 5:30pm - 6pm | **[Talk 1 — Korea's Medical Reality and the Future of Healthcare AI](#talk-1--seouls-medical-reality-and-the-future-of-healthcare-ai)** |
 | 6pm - 6:30pm | **[Talk 2 — Silicon Valley's AI Vision for Diagnostics, Drug Discovery, and Biomedical Intelligence](#talk-2--silicon-valleys-ai-vision-for-diagnostics-drug-discovery-and-biomedical-intelligence)** |
 | 6:30pm - 7pm | **[Panel Discussion + Questions from the Floor](#panel-discussion--connecting-medical-reality-ai-vision-and-korea-silicon-valley-collaboration)** |
 | 7pm - 8pm | **[Dinner & Networking](#dinner--networking)** (Generously sponsored by KIC Silicon Valley) |
@@ -81,7 +81,7 @@ Join us for K-PAI Nexus's **<span style="color: red;">18th Forum</span>** — an
 
 # Talk Details
 
-## Talk 1 &ndash; Seoul's Medical Reality and the Future of Healthcare AI
+## Talk 1 &ndash; Korea's Medical Reality and the Future of Healthcare AI
 
 **Speaker**
 &ndash;
@@ -94,7 +94,7 @@ Join us for K-PAI Nexus's **<span style="color: red;">18th Forum</span>** — an
 </div>
 
 <span class="emph">Korea's hospital system offers one of the most important real-world windows into the future of healthcare.</span>
-With high patient volumes, sophisticated specialists, strong diagnostic infrastructure, and a culture of preventive screening and hospital-centered care, Seoul's medical ecosystem provides a uniquely valuable perspective on what healthcare AI must actually accomplish.
+With high patient volumes, sophisticated specialists, strong diagnostic infrastructure, and a culture of preventive screening and hospital-centered care, Korea's medical ecosystem provides a uniquely valuable perspective on what healthcare AI must actually accomplish.
 
 This talk will explore healthcare AI from the viewpoint of clinical reality:
 
@@ -230,7 +230,7 @@ This is where many of the most valuable K-PAI Nexus moments happen: the follow-u
 
 Healthcare is entering one of the most consequential transformations of our lifetime.
 
-On one side, Seoul represents one of the world's most sophisticated, data-rich, and operationally advanced medical environments—with high patient throughput, dense hospital networks, strong clinical discipline, and a healthcare culture that touches almost every citizen.
+On one side, Korea represents one of the world's most sophisticated, data-rich, and operationally advanced medical environments—with high patient throughput, dense hospital networks, strong clinical discipline, and a healthcare culture that touches almost every citizen.
 On the other side, Silicon Valley is building the AI infrastructure, computational platforms, foundation models, agents, bioinformatics systems, and venture-backed companies that promise to reshape how medicine is delivered, measured, automated, and improved.
 
 <div class="img-container-justified">
@@ -362,7 +362,7 @@ We thank KIC Silicon Valley for their generous support and look forward to many 
 - AI builders curious about medicine
 - Founders exploring healthcare, diagnostics, or bioAI
 - Investors developing a healthcare AI thesis
-- Korean and Korean-American professionals building bridges between Seoul and Silicon Valley
+- Korean and Korean-American professionals building bridges between Korea and Silicon Valley
 
 We will see you all there!
 
