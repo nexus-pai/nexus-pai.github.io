@@ -1,6 +1,6 @@
 ---
 date: Wed Apr 29 00:15:35 PDT 2026
-last_modified_at: Mon May 18 21:35:43 PDT 2026
+last_modified_at: Tue May 19 01:07:50 PDT 2026
 layout: single
 title: "[K-PAI Nexus's 18th Chapter] The Silicon Stethoscope - Bridging Korea's Medical Reality and Silicon Valley's AI Vision in Healthcare's Trillion Dollar Transformation"
 permalink: /event-announcements/18
@@ -77,7 +77,7 @@ Join us for K-PAI Nexus's **<span style="color: red;">18th Forum</span>** — an
 - Please visit [K-PAI Nexus Membership](/membership){:target="_blank"} to learn about our K-PAI Nexus membership for qualification and all exclusive perks you can enjoy!
 - Join us at K-PAI Nexus Members Kakaotalk Chatroom using [this info](/#join-us-at-kakaotalk){:target="_blank"} (if you're qualified)!
 
-**Read more:** [Why This Forum Matters](#why-this-forum-matters) · [K-PAI Nexus × KIC Silicon Valley Partnership](#k-pai-nexus--kic-silicon-valley-a-strategic-partnership-for-innovation) · [Why You Should Attend](#why-you-should-attend) · [Why You Should Attend](#why-you-should-attend) · [Target Audience](#target-audience)
+**Read more:** [Why This Forum Matters](#why-this-forum-matters) · [K-PAI Nexus × KIC Silicon Valley Partnership](#k-pai-nexus--kic-silicon-valley-a-strategic-partnership-for-innovation) · [Why You Should Attend](#why-you-should-attend) · [Target Audience](#target-audience)
 
 # Talk Details
 
