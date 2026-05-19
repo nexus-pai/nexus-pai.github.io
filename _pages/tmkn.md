@@ -1,6 +1,6 @@
 ---
 date: Mon Oct 13 03:59:43 PDT 2025
-last_modified_at: Mon May 18 11:59:04 PDT 2026
+last_modified_at: Mon May 18 20:08:32 PDT 2026
 layout: single
 title: To Me, K-PAI Nexus is &hellip;
 permalink: /tmkn/
@@ -9,6 +9,20 @@ toc_label: "ToC"
 toc_icon: "cog"
 toc_sticky: true
 ---
+
+## Soo discovers [K-PAI Nexus](/){:target="_blank"} redefines what community truly means
+
+> 학부 시절부터 세 차례 창업 경험을 쌓았고, 수많은 네트워킹 행사와 커뮤니티 모임에 참여해 왔습니다. 실리콘밸리에 정착한 이후로도 다양한 모임들을 경험했습니다. 하지만 2026년 3월 처음 참석한 K-PAI Nexus는 제가 지금껏 경험한 그 어떤 모임과도 근본적으로 달랐습니다.
+>
+> 가장 인상 깊었던 점은, 처음 만난 분들이 저를 마치 오랜 지인처럼 따뜻하게 맞이해 주셨다는 것입니다. 일반적인 네트워킹 이벤트에서 흔히 느껴지는 어색함이나 형식적인 거리감이 전혀 없었습니다. 그러나 더욱 놀라운 발견은 그 다음에 있었습니다.
+>
+> 참석하신 모든 분들이 "우리가 K-PAI Nexus입니다!"라는 자부심을 가지고 계셨고, "혹시 이 분 만나보셨습니까?" "저 분은 소개받으셨나요?"라며 적극적으로 서로를 연결해 주시는 모습이 인상적이었습니다. 마치 한 사람이라도 더 소개하지 못해 아쉬워하시는 듯한 열정이 느껴졌습니다. 누구도 손님이 아니었습니다. 모두가 주인의식을 가지고 커뮤니티를 가꾸어 나가는, 진정한 의미의 자율적 공동체였습니다. 이런 Community는 정말 첨이었습니다!
+>
+> 단순한 네트워크가 아닌, 진정한 <span class="emph">Community</span>의 의미를 체감할 수 있었습니다. 그래서 참석 다음날 바로 [K-PAI Nexus Tech & Social Media Committee](/committee/#tech-and-social-media-committee){:target="_blank"}에 합류하였고, 제가 전문성을 가진 UI/UX 분야에서 기여하고 싶다는 의사를 밝혔습니다.
+>
+> 이제 저 또한 K-PAI Nexus의 일원으로서, 다른 분들께 "우리가 K-PAI Nexus입니다!"라고 자랑스럽게 말씀드리고 있습니다. 여러분도 꼭 함께 하시어 이 특별한 공동체의 에너지를 경험해 보시기를 권합니다.
+>
+> &ndash; [Soo Kim](https://www.linkedin.com/in/callmesoo/){:target="_blank"}
 
 <!--
 
